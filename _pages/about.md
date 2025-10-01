@@ -13,19 +13,15 @@ I am currently pursuing my Master's degree in Transport and Geoinformation Techn
 
 I am actively seeking opportunities to contribute to exciting and challenging research projects related to transportation as a PhD student. 
 
----
 
 ## Education
 
 - **KTH Royal Institute of Technology**
-  
   Master's Student in Transport and Geoinformation Technology (2024 - 2026)
   
 - **Tongji University**
-  
   Bachelor's Degree in Civil Engineering (2019 - 2024)
   
----
 
 ## Research Interests
 
@@ -33,7 +29,6 @@ I am actively seeking opportunities to contribute to exciting and challenging re
 -	Transportation network & graph-based modeling
 -	AI in transportation and GeoAI
 
----
 
 ## Skills
 -	PostgreSQL/PostGIS; SQLite3
@@ -41,7 +36,6 @@ I am actively seeking opportunities to contribute to exciting and challenging re
 -	Docker, Qt6, React, Node.js
 -	ArcGIS Pro, QGIS, Mapbox GL JS
 
----
 
 ## Selected Projects
 ### Multi-Scale Delay Propagation Analysis in Public Transport Networks
@@ -66,9 +60,4 @@ Developed a satellite-based urban greenery assessment system using eight interpr
 - Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
 - Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
 
----
 
-## Profiles
-- [LinkedIn]: (www.linkedin.com/in/jinghan-xu-8129b0309)
-
----
