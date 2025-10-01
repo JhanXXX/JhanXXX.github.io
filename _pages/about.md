@@ -51,7 +51,7 @@ Developed a domain-adaptive framework to predict delay propagation in Stockholm'
 Designed and deployed a full-stack Web GIS application that transforms academic GeoAI research into a practical urban planning tool. Implemented a green-aware route planner using PostgreSQL/PostGIS for network analysis, integrating Stockholm's public transit API to recommend optimal walking/bus routes based on user-defined time-greenery preferences. Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Sentinel-2 Satellite Data, GTFS/Real-time Transit APIs.
 
 ### Cross-City Generalizable Green View Index Estimation from Satellite Imagery
-*Individual Research Project | Jun 2025 – Oct 2025 | Supervisor: Yancheng Ling; Zhenliang Ma*
+*Individual Research Project | Jun 2025 - Oct 2025 | Supervisor: Yancheng Ling; Zhenliang Ma*
 
 Developed a satellite-based urban greenery assessment system using eight interpretable Sentinel-2 indices (NDVI, EVI, MSAVI, etc.) and CNN models to estimate street-level Green View Index across 19 European cities without requiring street-view imagery. The approach achieved R² values of 0.552-0.661 on unseen cities using optimal 40m spatial buffers, with PCA clustering revealing distinct urban typologies and gradient-based attention analysis uncovering that model complexity must be balanced against overfitting to city-specific features for robust cross-geographic transferability.
 
