@@ -37,23 +37,25 @@ I am actively seeking opportunities to contribute to exciting and challenging re
 -	Python, C++, Java, JavaScript, SQL
 -	Docker, Qt6, React, Node.js
 -	ArcGIS Pro, QGIS, Mapbox GL JS
+-	Google Earth Engine, Microsoft Planetary Computer
+-	English (fluent), Mandarin (native speaker)
 
 
 ## Selected Projects
 ### Multi-Scale Delay Propagation Analysis in Public Transport Networks
 *Individual Course Project | Sep 2025 - Oct 2025*
 
-Developed a domain-adaptive framework to predict delay propagation in Stockholm's public transport network across normal and extreme disruption scenarios. Applied time-series causal discovery (DPCG) to identify station-to-station causal relationships, implemented Graph Attention Networks with causal-informed features for delay prediction, and utilized progressive transfer learning with Bayesian uncertainty quantification to bridge distribution shifts between operating conditions. Conducted resilience assessment through Monte Carlo simulations to identify critical network vulnerabilities.
+  Developed a domain-adaptive framework to predict delay propagation in Stockholm's public transport network across normal and extreme disruption scenarios. Applied time-series causal discovery (DPCG) to identify station-to-station causal relationships, implemented Graph Attention Networks with causal-informed features for delay prediction, and utilized progressive transfer learning with Bayesian uncertainty quantification to bridge distribution shifts between operating conditions. Conducted resilience assessment through Monte Carlo simulations to identify critical network vulnerabilities.
 
 ### An AI-Based Automated Green Path Navigator & Green View Database
 *Individual Course Project | Sep 2025 - Oct 2025*
 
-Designed and deployed a full-stack Web GIS application that transforms academic GeoAI research into a practical urban planning tool. Equited with a pre-trained model, this platform can automatedly estimate Green View Index from Satellite for specified locations and dates. Implemented a green-aware route planner using PostgreSQL/PostGIS for data management, visualization and network analysis, integrating Stockholm's public transit API to recommend optimal walking/bus routes based on user-defined time-greenery preferences. Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Sentinel-2 Satellite Data, GTFS/Real-time Transit APIs.
+  Designed and deployed a full-stack Web GIS application that transforms academic GeoAI research into a practical urban planning tool. Equipped with a pre-trained model, this platform can automatedly estimate Green View Index from satellite imagery for specified locations and dates. A green-aware route planner was implemented using PostgreSQL/PostGIS for data management, visualization and network analysis, integrating Stockholm's public transit API to recommend real-time optimal walking/bus routes based on user-defined time-greenery weight preferences. Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Microsoft Planetary Computer APIs, GTFS/Real-time Transit APIs.
 
 ### Cross-City Generalizable Green View Index Estimation from Satellite Imagery
 *Individual Research Project | Jun 2025 - Oct 2025 | Supervisor: Yancheng Ling; Zhenliang Ma*
 
-Developed a satellite-based urban greenery assessment system using eight interpretable Sentinel-2 indices (NDVI, EVI, MSAVI, etc.) and CNN models to estimate street-level Green View Index across 19 European cities without requiring street-view imagery. The approach achieved R² values of 0.552-0.661 on unseen cities using optimal 40m spatial buffers, with PCA clustering revealing distinct urban typologies and gradient-based attention analysis uncovering that model complexity must be balanced against overfitting to city-specific features for robust cross-geographic transferability.
+  Developed a satellite-based urban greenery assessment system using eight interpretable Sentinel-2 indices (NDVI, EVI, MSAVI, etc.) and CNN models to estimate street-level Green View Index across 19 European cities without requiring street-view imagery. The approach achieved R² values of 0.552-0.661 on unseen cities using optimal 40m spatial buffers, with PCA clustering revealing distinct urban typologies and gradient-based attention analysis uncovering that model complexity must be balanced against overfitting to city-specific features for robust cross-geographic transferability.
 
 ---
 
