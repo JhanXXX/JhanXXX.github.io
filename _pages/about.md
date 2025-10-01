@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinghan Xu's Academic Page"
+title: "Jinghan Xu's academic portfolio"
 author_profile: true
 redirect_from: 
   - /about/
