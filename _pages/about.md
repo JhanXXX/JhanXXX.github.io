@@ -18,15 +18,11 @@ I am actively seeking opportunities to contribute to exciting and challenging re
 
 - **KTH Royal Institute of Technology**
 
-  Master's Student in Transport and Geoinformation Technology (2024 - 2026)
-  
-  KTH Scholarship Awardee (2-Year)
+  Master's Student in Transport and Geoinformation Technology (2024 - 2026); KTH Scholarship Awardee (2-Year)
   
 - **Tongji University**
 
-  Bachelor's Degree in Civil Engineering (2019 - 2024)
-  
-  Minor in Aritificial Intelligence
+  Bachelor's Degree in Civil Engineering (2019 - 2024); Minor in Aritificial Intelligence
   
 
 ## Research Interests
