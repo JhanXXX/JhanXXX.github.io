@@ -69,6 +69,6 @@ Developed a satellite-based urban greenery assessment system using eight interpr
 ---
 
 ## Profiles
-- [LinkedIn]: (http://www.linkedin.com/in/jinghan-xu-8129b0309)
+- [LinkedIn]: (jinghan-xu-8129b0309)
 
 ---
