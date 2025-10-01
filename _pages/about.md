@@ -45,10 +45,10 @@ I am actively seeking opportunities to contribute to exciting and challenging re
 
 Developed a domain-adaptive framework to predict delay propagation in Stockholm's public transport network across normal and extreme disruption scenarios. Applied time-series causal discovery (DPCG) to identify station-to-station causal relationships, implemented Graph Attention Networks with causal-informed features for delay prediction, and utilized progressive transfer learning with Bayesian uncertainty quantification to bridge distribution shifts between operating conditions. Conducted resilience assessment through Monte Carlo simulations to identify critical network vulnerabilities.
 
-### Green Path Navigator - Satellite-Powered Route Planner
+### An AI-Based Automated Green Path Navigator & Green View Database
 *Individual Course Project | Sep 2025 - Oct 2025*
 
-Designed and deployed a full-stack Web GIS application that transforms academic GeoAI research into a practical urban planning tool. Implemented a green-aware route planner using PostgreSQL/PostGIS for network analysis, integrating Stockholm's public transit API to recommend optimal walking/bus routes based on user-defined time-greenery preferences. Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Sentinel-2 Satellite Data, GTFS/Real-time Transit APIs.
+Designed and deployed a full-stack Web GIS application that transforms academic GeoAI research into a practical urban planning tool. Equited with a pre-trained model, this platform can automatedly estimate Green View Index from Satellite for specified locations and dates. Implemented a green-aware route planner using PostgreSQL/PostGIS for data management, visualization and network analysis, integrating Stockholm's public transit API to recommend optimal walking/bus routes based on user-defined time-greenery preferences. Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Sentinel-2 Satellite Data, GTFS/Real-time Transit APIs.
 
 ### Cross-City Generalizable Green View Index Estimation from Satellite Imagery
 *Individual Research Project | Jun 2025 - Oct 2025 | Supervisor: Yancheng Ling; Zhenliang Ma*
