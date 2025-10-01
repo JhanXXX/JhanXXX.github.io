@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinghan Xu, Master Student at KTH Royal Institute of Technology"
+title: "Jinghan Xu's Academic Page"
 author_profile: true
 redirect_from: 
   - /about/
