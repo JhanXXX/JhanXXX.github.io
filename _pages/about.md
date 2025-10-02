@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-Currently, I am pursuing my Master's degree in Transport and Geoinformation Technology at KTH Royal Institute of Technology (2024-2026). I completed my bachelor's degree in Civil Engineering at Tongji University (2019-2024), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I am also a freestyle dancer.
+Currently, I am pursuing my Master's degree in Transport and Geoinformation Technology at KTH Royal Institute of Technology (2024-2026). I completed my bachelor's degree in Civil Engineering at Tongji University (2019-2024), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I am a freestyle dancer.
 
 I am actively seeking opportunities to contribute to exciting and challenging research projects related to transportation as a PhD student. 
 
@@ -18,18 +18,19 @@ I am actively seeking opportunities to contribute to exciting and challenging re
 
 - **KTH Royal Institute of Technology** (2024-2026)
 
-  Master's Student in Transport and Geoinformation Technology; KTH Scholarship Awardee (2-Year)
+  Master's Student in Transport and Geoinformation Technology; KTH Scholarship Awardee (2-Year).
   
 - **Tongji University** (2019-2024)
 
-  Bachelor's Degree in Civil Engineering; Minor in Aritificial Intelligence
+  Bachelor's Degree in Civil Engineering; Minor in Aritificial Intelligence.
   
 
 ## Research Interests
 
--	Mobility data mining
--	Transportation network & graph-based modeling
--	AI in transportation and GeoAI
+-	Mobility data mining;
+-	Transportation network & graph-based approach;
+-	Network resilience;
+-	AI in transportation and GeoAI.
 
 
 ## Skills
