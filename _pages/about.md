@@ -27,23 +27,42 @@ I am actively seeking opportunities to contribute to exciting and challenging re
 
 ## Research Interests
 
--	Mobility data mining;
--	Transportation network & graph-based approach;
--	Network resilience;
+-	Mobility data mining and statistical learning.
+-	Transportation network & graph-based approach.
+-	Network resilience.
 -	AI in transportation and GeoAI.
 
 
 ## Skills
--	PostgreSQL/PostGIS; SQLite3
+-	PostgreSQL/PostGIS/PgRouting, SQLite3
 -	Python, C++, Java, JavaScript, SQL
 -	Docker, Qt6, React, Node.js
 -	ArcGIS Pro, QGIS, Mapbox GL JS
 -	Google Earth Engine, Microsoft Planetary Computer
+-	GTFS, PyKoda
 -	English (fluent), Mandarin (native speaker)
 
+## Professional Experiences
+### Division of Transport Planning, KTH Royal Institute of Technology
+*Oct 2025 - Present | Amanuens (Teaching Assistant)*
+- Assistance in AI course development.
+- Participation in researches on public transport and urban sustainability.
+
+### Digital Futures Summer Internship 2025
+*Jun 2025 - Aug 2025 | Summer Intern*
+- Conducted an individual research project under supervision.
+
+### Shanghai Automotive Wind Tunnel Center, Tongji University
+*2023 - Present | Student Assistant*
+- Paritipation in researches on urban air mobility and smart cockpit.
+
+### Technical Scouting Intern, CEO-Division (Innovation Center Asia), Volkswagen Group China
+*Jan 2024 - Jul 2024 | Technical Scouting Intern*
+- Academic scouting for power electronics (SiC, GaN) and NEV technology updates.
+- Connection and communication with related research groups in Chinese universities.
 
 ## Selected Projects
-### Course Project: Public Transport Performance Propagation Analysis
+### Public Transport Performance Propagation Analysis
 *Course Project | Sep 2025 - Oct 2025*
 
 A causal inference methodology-based data experiment to analyze how service performance patterns (punctuality vs. regularity) propagate through Stockholm's multi-route bus network. 60+ days of GTFS operational data using PyKoda were processed. Propensity score analysis were implemented to estimate conditional associations while controlling for confounding factors.
@@ -65,6 +84,7 @@ A satellite-based urban greenery assessment system using eight interpretable Sen
 ## Conferences and Publish
 - **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
 - Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
+- **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
 - Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
 
 
