@@ -43,10 +43,10 @@ I am actively seeking opportunities to contribute to exciting and challenging re
 
 
 ## Selected Projects
-### Course Project: Delay Propagation and Resilience Assessment in Public Transport Networks
+### Course Project: Public Transport Performance Propagation Analysis
 *Course Project | Sep 2025 - Oct 2025*
 
-A domain-adaptive framework to analyze delay propagation in Stockholm’s public transport network across normal and extreme disruption scenarios. Applied time-series causal discovery (DPCG) to identify station-to-station causal relationships, implemented Graph Attention Networks with causal-informed features for delay prediction. Conducted resilience assessment through Monte Carlo simulations to identify critical network vulnerabilities.
+A causal inference methodology-based data experiment to analyze how service performance patterns (punctuality vs. regularity) propagate through Stockholm's multi-route bus network. 60+ days of GTFS operational data using PyKoda were processed. Propensity score analysis were implemented to estimate conditional associations while controlling for confounding factors.
 
 
 ### An AI-Based Automated Green Path Navigator & Green View Database
