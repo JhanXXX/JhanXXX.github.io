@@ -9,18 +9,18 @@ redirect_from:
 
 ## About Me
 
-Currently, I am pursuing my Master's degree in Transport and Geoinformation Technology at KTH Royal Institute of Technology (2024-2026). I completed my bachelor's degree in Civil Engineering at Tongji University (2019-2024), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I am a freestyle dancer.
+I'm pursuing my Master's degree in Transport and Geoinformation Technology at KTH Royal Institute of Technology. I completed my Bachelor's degree in Civil Engineering (track: Geotechnical Engineering) at Tongji University, where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm also a dancer experienced in choreography, on-stage performance, and freestyle battles.
 
-I am actively seeking opportunities to contribute to exciting and challenging research projects related to transportation as a PhD student. 
+I'm actively seeking opportunities to contribute to exciting and challenging research projects related to transportation or geoinformatics as a PhD student. I am expected to graduate from KTH in June 2026.
 
 
 ## Education
 
-- **KTH Royal Institute of Technology** (2024-2026)
+- **KTH Royal Institute of Technology** (Aug 2024 - Jun 2026)
 
   Master's Student in Transport and Geoinformation Technology; KTH Scholarship Awardee (2-Year).
   
-- **Tongji University** (2019-2024)
+- **Tongji University** (Sep 2019 - Jul 2024)
 
   Bachelor's Degree in Civil Engineering; Minor in Aritificial Intelligence.
   
@@ -44,22 +44,27 @@ I am actively seeking opportunities to contribute to exciting and challenging re
 
 ## Professional Experiences
 ### Division of Transport Planning, KTH Royal Institute of Technology
-*Oct 2025 - Present | Amanuens (Teaching Assistant)*
+*Oct 2025 - Present | Stockholm | Amanuens (Teaching Assistant)*
 - Assistance in AI course development.
 - Participation in researches on public transport and urban sustainability.
 
 ### Digital Futures Summer Internship 2025
-*Jun 2025 - Aug 2025 | Summer Intern*
+*Jun 2025 - Aug 2025 | Stockholm | Summer Intern*
 - Conducted an individual research project under supervision.
 
-### Shanghai Automotive Wind Tunnel Center, Tongji University
-*2023 - Present | Student Assistant*
-- Paritipation in researches on urban air mobility and smart cockpit.
-
-### Technical Scouting Intern, CEO-Division (Innovation Center Asia), Volkswagen Group China
-*Jan 2024 - Jul 2024 | Technical Scouting Intern*
+### Technical Scouting Intern, CEO-Division (Innovation Center Asia), Volkswagen Group (China)
+*Jan 2024 - Jul 2024 | Beijing | Technical Scouting Intern*
 - Academic scouting for power electronics (SiC, GaN) and NEV technology updates.
 - Connection and communication with related research groups in Chinese universities.
+
+### Shanghai Automotive Wind Tunnel Center, Tongji University
+*2023 - Present | Shanghai | Student Assistant*
+- Paritipation in researches on urban air mobility and smart cockpit.
+
+### Innovation Center PACE, Tongji University
+*2022 - 2024 | Shanghai | Student Leadership Board Memeber*
+- Participation and leadership in undergraduate innovation projects and competitions on mobility and transportation.
+- Connection and communication with industrial partners.
 
 ## Selected Projects
 ### Public Transport Performance Propagation Analysis
