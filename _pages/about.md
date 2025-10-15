@@ -38,8 +38,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 -	Python, SQL, C++, Java, JavaScript
 -	Docker, Qt6, React, Node.js
 -	ArcGIS Pro, QGIS, Mapbox GL JS
--	Google Earth Engine, Microsoft Planetary Computer
--	GTFS, PyKoda
+-	Google Earth Engine, Microsoft Planetary Computer, GTFS
 -	English (fluent), Mandarin (native speaker)
 
 ## Professional Experiences
