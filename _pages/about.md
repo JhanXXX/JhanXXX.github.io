@@ -11,7 +11,7 @@ redirect_from:
 
 I'm pursuing my Master's degree in Transport and Geoinformation Technology at KTH Royal Institute of Technology. I completed my Bachelor's degree in Civil Engineering (track: Geotechnical Engineering) at Tongji University, where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm also a dancer experienced in choreography, on-stage performance, and freestyle battles.
 
-I'm actively seeking opportunities to contribute to exciting and challenging research projects related to transportation or geoinformatics as a PhD student. I am expected to graduate from KTH in June 2026.
+I'm actively seeking opportunities to contribute to exciting and challenging research projects related to transportation or geoinformatics as a full-time PhD student/Research Engineer, expected to start after June 2026. 
 
 
 ## Education
@@ -30,12 +30,12 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 -	Mobility data mining and statistical learning.
 -	Transportation network & graph-based approach.
 -	Network resilience.
--	AI in transportation and GeoAI.
+-	GeoA and AI in transportation.
 
 
 ## Skills
 -	PostgreSQL/PostGIS/PgRouting, SQLite3
--	Python, C++, Java, JavaScript, SQL
+-	Python, SQL, C++, Java, JavaScript
 -	Docker, Qt6, React, Node.js
 -	ArcGIS Pro, QGIS, Mapbox GL JS
 -	Google Earth Engine, Microsoft Planetary Computer
@@ -46,7 +46,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 
 ### Digital Futures Summer Internship 2025
 *Jun 2025 - Aug 2025 | Stockholm | Summer Intern*
-- Conducted an individual research project under supervision.
+- Conducted individual research project under supervision.
 
 ### Technical Scouting Intern, CEO-Division (Innovation Center Asia), Volkswagen Group (China)
 *Jan 2024 - Jul 2024 | Beijing | Technical Scouting Intern*
