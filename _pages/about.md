@@ -43,10 +43,6 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 -	English (fluent), Mandarin (native speaker)
 
 ## Professional Experiences
-### Division of Transport Planning, KTH Royal Institute of Technology
-*Oct 2025 - Present | Stockholm | Amanuens (Teaching Assistant)*
-- Assistance in AI course development.
-- Participation in researches on public transport and urban sustainability.
 
 ### Digital Futures Summer Internship 2025
 *Jun 2025 - Aug 2025 | Stockholm | Summer Intern*
@@ -70,7 +66,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 ### Public Transport Performance Propagation Analysis
 *Course Project | Sep 2025 - Oct 2025*
 
-A causal inference methodology-based data experiment to analyze how service performance patterns (punctuality vs. regularity) propagate through Stockholm's multi-route bus network. 60+ days of GTFS operational data using PyKoda were processed. Propensity score analysis were implemented to estimate conditional associations while controlling for confounding factors.
+A causal inference methodology-based data experiment to analyze how service performance patterns (punctuality vs. regularity) propagate through Stockholm's multi-route bus network. 4 weeks of GTFS Realtime TripUpdates data were processed using python and managed with Sqlite3. Propensity score analysis were implemented to estimate conditional associations while controlling for confounding factors.
 
 
 ### An AI-Based Automated Green Path Navigator & Green View Database
