@@ -22,7 +22,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
   
 - **Tongji University** (Sep 2019 - Jul 2024)
 
-  Bachelor's Degree in Civil Engineering; Minor in Aritificial 
+  Bachelor's Degree in Civil Engineering; Minor in Aritificial Intelligence.
 
 ## Skills
 -	PostgreSQL/PostGIS/PgRouting, SQLite3
