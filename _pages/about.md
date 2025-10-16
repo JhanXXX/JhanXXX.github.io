@@ -11,7 +11,7 @@ redirect_from:
 
 I'm pursuing my Master's degree in Transport and Geoinformation Technology at KTH Royal Institute of Technology. I completed my Bachelor's degree in Civil Engineering (track: Geotechnical Engineering) at Tongji University, where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm also a dancer experienced in choreography, on-stage performance, and freestyle battles.
 
-I'm actively seeking opportunities to contribute to exciting and challenging research projects related to transportation or geoinformatics as a full-time PhD student/Research Engineer, expected to start from Aug 2026. 
+I'm actively seeking opportunities to contribute to exciting and challenging research projects related to transportation or geoinformatics as a full-time PhD student/Research Engineer. 
 
 
 ## Education
