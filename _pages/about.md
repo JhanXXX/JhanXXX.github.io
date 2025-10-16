@@ -41,7 +41,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 ### Technical Scouting Intern, CEO-Division (Innovation Center Asia), Volkswagen Group (China)
 *Jan 2024 - Jul 2024 | Beijing | Technical Scouting Intern*
 - Academic scouting for power electronics (SiC, GaN) and NEV technology updates.
-- Connection and communication with related research groups in Chinese universities.
+- Connection and communication with related research groups in universities in China.
 
 ### Shanghai Automotive Wind Tunnel Center, Tongji University
 *2023 - Present | Shanghai | Student Assistant*
