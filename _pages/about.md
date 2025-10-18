@@ -54,7 +54,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 
 ### Mathart Systems Co., Ltd.
 *Jan 2022 - Apr 2022 | Shanghai | Algorithm Engineer Intern*
-- Coding assistance for integer programming and heuristic algorithm modules.
+- Coding for integer programming and heuristic algorithm modules.
 
 ## Selected Projects
 ### Public Transport Delay Propagation Analysis: A Causal Inference Experiment
