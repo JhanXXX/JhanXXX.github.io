@@ -61,6 +61,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 *Course Project | Sep 2025 - Oct 2025*
 
 Investigated causal mechanisms of delay propagation in Stockholm's bus network using observational data from 4 weeks of GTFS Realtime feeds. The data was processed using Python and Managed with SQLite3. Compared multiple causal inference methods (regression adjustment, generalized propensity score, doubly robust estimation) to estimate how previous stop's delay impacts the downstream (comparably analyzed with several different intervals) while controlling for temporal and route-specific confounding. 
+Feel free to contact if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/pt_delay_propagation/tree/main)
 
 
 ### An AI-Based Automated Green Path Navigator & Green View Database
