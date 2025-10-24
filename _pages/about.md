@@ -61,21 +61,21 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 *Course Project | Sep 2025 - Oct 2025*
 
 Investigated causal mechanisms of delay propagation in Stockholm's bus network using observational data from 4 weeks of GTFS Realtime feeds. The data was processed using Python and Managed with SQLite3. Compared multiple causal inference methods (regression adjustment, generalized propensity score, doubly robust estimation) to estimate how previous stop's delay impacts the downstream (comparably analyzed with several different intervals) while controlling for temporal and route-specific confounding. 
-*Please contact me if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/pt_delay_propagation/tree/main)*
+*Feel free to reach out if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/pt_delay_propagation/tree/main)*
 
 
 ### An AI-Based Automated Green Path Navigator & Green View Database
 *Course Project | Sep 2025 - Oct 2025 | Examiner/Supervisor: Gyözö Gidofalvi*
 
 A full-stack Web GIS application that converts GeoAI research into a practical urban planning tool. Equipped with a pre-trained model, this platform automatedly estimates Green View Index from satellite imagery for specified locations and dates. A green-aware route planner was implemented using PostgreSQL/PostGIS for data management, visualization and network analysis, integrating Stockholm’s public transit API to recommend real-time optimal walking/bus routes based on user-defined time-greenery weight preferences. Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Microsoft Planetary Computer APIs, GTFS/Real-time Transit APIs.
-*Please contact me if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/webGIS_for_GVI/tree/main)*
+*Feel free to reach out if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/webGIS_for_GVI/tree/main)*
 
 
 ### Cross-City Generalizable Green View Index Estimation from Satellite Imagery
 *Individual Research Project | Jun 2025 - Oct 2025 | Supervisor: Yancheng Ling; Zhenliang Ma*
 
 A satellite-based urban greenery assessment system using eight interpretable Sentinel-2 indices and CNN models to estimate street-level Green View Index across 19 European cities without requiring street-view imagery. The approach achieved R² values over 65% on unseen cities with 20m resolution input, with PCA clustering revealing distinct urban typologies and gradient-based attention analysis uncovering that model complexity must be balanced against overfitting to city-specific features for robust cross-geographic transferability.
-
+*This work is under submission process to Transportation Research Part D. [Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
 
 ---
 
