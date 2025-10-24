@@ -61,13 +61,14 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 *Course Project | Sep 2025 - Oct 2025*
 
 Investigated causal mechanisms of delay propagation in Stockholm's bus network using observational data from 4 weeks of GTFS Realtime feeds. The data was processed using Python and Managed with SQLite3. Compared multiple causal inference methods (regression adjustment, generalized propensity score, doubly robust estimation) to estimate how previous stop's delay impacts the downstream (comparably analyzed with several different intervals) while controlling for temporal and route-specific confounding. 
-Feel free to contact if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/pt_delay_propagation/tree/main)
+*Please contact me if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/pt_delay_propagation/tree/main)*
 
 
 ### An AI-Based Automated Green Path Navigator & Green View Database
-*Course Project | Sep 2025 - Oct 2025*
+*Course Project | Sep 2025 - Oct 2025 | Examiner/Supervisor: Gyözö Gidofalvi*
 
 A full-stack Web GIS application that converts GeoAI research into a practical urban planning tool. Equipped with a pre-trained model, this platform automatedly estimates Green View Index from satellite imagery for specified locations and dates. A green-aware route planner was implemented using PostgreSQL/PostGIS for data management, visualization and network analysis, integrating Stockholm’s public transit API to recommend real-time optimal walking/bus routes based on user-defined time-greenery weight preferences. Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Microsoft Planetary Computer APIs, GTFS/Real-time Transit APIs.
+*Please contact me if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/webGIS_for_GVI/tree/main)*
 
 
 ### Cross-City Generalizable Green View Index Estimation from Satellite Imagery
