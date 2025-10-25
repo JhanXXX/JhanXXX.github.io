@@ -9,16 +9,16 @@ redirect_from:
 
 ## About Me
 
-I'm pursuing my Master's degree in Transport and Geoinformation Technology at KTH Royal Institute of Technology. I completed my Bachelor's degree in Civil Engineering (track: Geotechnical Engineering) at Tongji University, where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm also a dancer with experience in choreography and freestyle battles.
+I'm pursuing my Master's degree in Transport and Geoinformation Technology at KTH Royal Institute of Technology. I completed my Bachelor's degree in [Civil Engineering](https://civileng.tongji.edu.cn/civilengen/main.htm) (track: Geotechnical Engineering) at [Tongji University](https://en.wikipedia.org/wiki/Tongji_University), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm also a dancer with experience in choreography and freestyle battles.
 
-I'm actively seeking opportunities to contribute to exciting and challenging research projects related to transportation or geoinformatics as a full-time PhD student/Research Engineer. 
+I'm actively seeking opportunities to contribute to exciting and challenging research projects related to transportation or geoinformatics as a PhD student/Research Engineer.
 
 
 ## Education
 
 - **KTH Royal Institute of Technology** (Aug 2024 - Jun 2026)
 
-  Master's Student in Transport and Geoinformation Technology; KTH Scholarship Awardee (2-Year).
+  Master's Student in Transport and Geoinformation Technology; KTH Scholarship Awardee.
   
 - **Tongji University** (Sep 2019 - Jul 2024)
 
@@ -26,7 +26,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 
 ## Skills
 -	PostgreSQL/PostGIS/PgRouting, SQLite3
--	Python, SQL, C++, Java, JavaScript
+-	Python, SQL, C++, JavaScript
 -	Docker, Qt6, React, Node.js
 -	ArcGIS Pro, QGIS, Mapbox GL JS
 -	Google Earth Engine, Microsoft Planetary Computer, GTFS
@@ -38,7 +38,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 *Jun 2025 - Aug 2025 | Stockholm | Summer Intern*
 - Conducted individual research project under supervision.
 
-### Technical Scouting Intern, CEO-Division (Innovation Center Asia), Volkswagen Group (China)
+### CEO-Division (Innovation Center Asia), Volkswagen Group (China)
 *Jan 2024 - Jul 2024 | Beijing | Technical Scouting Intern*
 - Academic scouting for power electronics (SiC, GaN) and NEV technology updates.
 - Connection and communication with related research groups in universities in China.
