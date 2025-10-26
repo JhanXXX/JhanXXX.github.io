@@ -12,7 +12,7 @@ redirect_from:
 I'm pursuing my Master's degree in Transport and Geoinformation Technology at KTH Royal Institute of Technology. I completed my Bachelor's degree in [Civil Engineering](https://civileng.tongji.edu.cn/civilengen/main.htm) (track: Geotechnical Engineering) at [Tongji University](https://en.wikipedia.org/wiki/Tongji_University), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm also a dancer with experience in choreography and freestyle battles.
 
 I'm actively seeking opportunities to contribute to exciting and challenging research projects related to transportation or geoinformatics as a PhD student/Research Engineer.
----
+
 
 ## Education
 
@@ -24,7 +24,6 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 
   Bachelor's Degree in Civil Engineering; Minor in Aritificial Intelligence.
 
----
 
 ## Skills
 -	PostgreSQL/PostGIS/PgRouting, SQLite3
@@ -42,7 +41,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 - **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
 - Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
 
----
+
 
 ## Selected Projects
 ### Public Transport Delay Propagation Analysis: A Causal Inference Experiment
@@ -68,7 +67,7 @@ A satellite-based urban greenery assessment system using eight interpretable Sen
 
 *This work is under submission process to Transportation Research Part D. [Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
 
----
+
 
 ## Professional Experiences
 
