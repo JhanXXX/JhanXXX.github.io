@@ -33,7 +33,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 -	Google Earth Engine, Microsoft Planetary Computer, GTFS
 -	English (fluent), Mandarin (native speaker)
 
----
+
 
 ## Publications
 - **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
