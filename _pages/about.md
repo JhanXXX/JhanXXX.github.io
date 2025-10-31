@@ -44,6 +44,11 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 
 
 ## Selected Projects
+### Rethinking public transport contracts: towards value-based KPIs for reliable bus services
+*Research Project | Nov 2025 - Present | Supervisor: Prof. Zhenliang Ma*
+The goal of this project is to provide evidence-based insights into the effectiveness of punctuality versus regularity-based KPIs within public transport contracts. By leveraging comprehensive multisource operational data from Region Stockholm (SL), this project aims at (1) diagnosing the current effectiveness of punctuality-based KPIs by assessing their correlation with actual passenger experiences, operational efficiency, and capacity utilization, and (2) proposing evidence-based recommendations for transitioning toward regularity-based KPIs to achieve better alignment with user experiences and operational goals.
+
+
 ### Public Transport Delay Propagation Analysis: A Causal Inference Experiment
 *Course Project | Sep 2025 - Oct 2025*
 
@@ -61,7 +66,7 @@ A full-stack Web GIS application that converts GeoAI research into a practical u
 
 
 ### Cross-City Generalizable Green View Index Estimation from Satellite Imagery
-*Individual Research Project | Jun 2025 - Oct 2025 | Supervisor: Yancheng Ling; Zhenliang Ma*
+*Research Project | Jun 2025 - Oct 2025 | Supervisor: Yancheng Ling; Zhenliang Ma*
 
 A satellite-based urban greenery assessment system using eight interpretable Sentinel-2 indices and CNN models to estimate street-level Green View Index across 19 European cities without requiring street-view imagery. The approach achieved R² values over 65% on unseen cities with 20m resolution input, with PCA clustering revealing distinct urban typologies and gradient-based attention analysis uncovering that model complexity must be balanced against overfitting to city-specific features for robust cross-geographic transferability.
 
@@ -70,6 +75,9 @@ A satellite-based urban greenery assessment system using eight interpretable Sen
 
 
 ## Professional Experiences
+
+### Division of Transport Planning, KTH
+*Nov 2025 - Jan 2026 | Stockholm | Research Assistant*
 
 ### Digital Futures Summer Internship 2025
 *Jun 2025 - Aug 2025 | Stockholm | Summer Intern*
@@ -81,7 +89,7 @@ A satellite-based urban greenery assessment system using eight interpretable Sen
 - Connection and communication with related research groups in universities in China.
 
 ### Shanghai Automotive Wind Tunnel Center, Tongji University
-*2023 - Present | Shanghai | Student Assistant*
+*2023 - 2025 | Shanghai | Student Assistant*
 - Paritipation in researches on urban air mobility and smart cockpit.
 
 ### Innovation Center PACE, Tongji University
