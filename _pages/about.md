@@ -46,6 +46,7 @@ I'm actively seeking opportunities to contribute to exciting and challenging res
 ## Selected Projects
 ### Rethinking public transport contracts: towards value-based KPIs for reliable bus services
 *Research Project | Nov 2025 - Present | Supervisor: Prof. Zhenliang Ma*
+
 The goal of this project is to provide evidence-based insights into the effectiveness of punctuality versus regularity-based KPIs within public transport contracts. By leveraging comprehensive multisource operational data from Region Stockholm (SL), this project aims at (1) diagnosing the current effectiveness of punctuality-based KPIs by assessing their correlation with actual passenger experiences, operational efficiency, and capacity utilization, and (2) proposing evidence-based recommendations for transitioning toward regularity-based KPIs to achieve better alignment with user experiences and operational goals.
 
 
