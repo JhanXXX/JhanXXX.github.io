@@ -71,6 +71,8 @@ A full-stack Web GIS application that converts GeoAI research into a practical u
 
 A satellite-based urban greenery assessment system using eight interpretable Sentinel-2 indices and CNN models to estimate street-level Green View Index across 19 European cities without requiring street-view imagery. The approach achieved R² values over 65% on unseen cities with 20m resolution input, with PCA clustering revealing distinct urban typologies and gradient-based attention analysis uncovering that model complexity must be balanced against overfitting to city-specific features for robust cross-geographic transferability.
 
+This work is in part financially supported by Digital Futures.
+
 *This work is under submission process to Transportation Research Part D. [Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
 
 
@@ -79,14 +81,15 @@ A satellite-based urban greenery assessment system using eight interpretable Sen
 
 ### Division of Transport Planning, KTH
 *Nov 2025 - Jan 2026 | Stockholm | Research Assistant*
+- Participation in researches on public transport modeling and data analysis.
 
-### Digital Futures Summer Internship 2025
-*Jun 2025 - Aug 2025 | Stockholm | Summer Intern*
-- Conducted individual research project under supervision.
+### Digital Futures
+*Jun 2025 - Aug 2025 | Stockholm | Summer Research Intern*
+- Participation in researches on applied AI in transport planning.
 
 ### CEO-Division (Innovation Center Asia), Volkswagen Group (China)
 *Jan 2024 - Jul 2024 | Beijing | Technical Scouting Intern*
-- Academic scouting for power electronics (SiC, GaN) and NEV technology updates.
+- Academic scouting for power electronics (SiC, GaN), NEV technology updates and its market share in China.
 - Connection and communication with related research groups in universities in China.
 
 ### Shanghai Automotive Wind Tunnel Center, Tongji University
