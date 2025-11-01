@@ -84,12 +84,12 @@ This work is in part financially supported by Digital Futures.
 - Participation in researches on public transport modeling and data analysis.
 
 ### Digital Futures
-*Jun 2025 - Aug 2025 | Stockholm | Summer Research Intern*
-- Participation in researches on applied AI in transport planning.
+*Jun 2025 - Aug 2025 | Stockholm | Research Intern*
+- Participation in researches on machine learning for sustainable transport planning and greenery equity.
 
-### CEO-Division (Innovation Center Asia), Volkswagen Group (China)
+### Innovation Center Asia, Volkswagen Group China
 *Jan 2024 - Jul 2024 | Beijing | Technical Scouting Intern*
-- Academic scouting for power electronics (SiC, GaN), NEV technology updates and its market share in China.
+- Academic scouting for power electronics (SiC, GaN), NEV technology updates and NEV market share in China.
 - Connection and communication with related research groups in universities in China.
 
 ### Shanghai Automotive Wind Tunnel Center, Tongji University
