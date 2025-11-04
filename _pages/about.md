@@ -71,7 +71,7 @@ A full-stack Web GIS application that converts GeoAI research into a practical u
 
 A satellite-based urban greenery assessment system using eight interpretable Sentinel-2 indices and CNN models to estimate street-level Green View Index across 19 European cities without requiring street-view imagery. The approach achieved R² values over 65% on unseen cities with 20m resolution input, with PCA clustering revealing distinct urban typologies and gradient-based attention analysis uncovering that model complexity must be balanced against overfitting to city-specific features for robust cross-geographic transferability.
 
-This work is in part financially supported by Digital Futures.
+This work was funded by Digital Futures at KTH Royal Institute of Technology.
 
 *This work is under submission process to Transportation Research Part D. [Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
 
