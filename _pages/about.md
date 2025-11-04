@@ -83,7 +83,7 @@ This work was funded by Digital Futures at KTH Royal Institute of Technology.
 *Nov 2025 - Jan 2026 | Stockholm | Research Assistant*
 - Participation in researches on public transport modeling and data analysis.
 
-### Digital Futures
+### Digital Futures, KTH
 *Jun 2025 - Aug 2025 | Stockholm | Research Intern*
 - Participation in researches on machine learning for sustainable transport planning and greenery equity.
 
