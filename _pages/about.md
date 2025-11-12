@@ -73,7 +73,7 @@ A satellite-based urban greenery assessment system using eight interpretable Sen
 
 This work was funded by Digital Futures at KTH Royal Institute of Technology.
 
-*This work is under submission process to Transportation Research Part D. [Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
+*This work is under submission process to a journal. [Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
 
 
 
