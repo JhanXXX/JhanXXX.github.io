@@ -61,7 +61,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 ### Rethinking public transport contracts: towards value-based KPIs for reliable bus services
 *Funded Research Project | Nov 2025 - Jan 2026 | Supervisor: Prof. Zhenliang Ma*
 
--	Microeconomic analysis of public transport contracts: diagnosing the effectiveness of existing contracts, especially their KPIs.
+-	Public transport contract analysis from economic perspectives: diagnosing the effectiveness of existing contracts, especially their KPIs.
 -	A comprehensive review of public transport contract models: development and efficiency evaluation.
 -	A data-driven proof of concept: proposing KPI negotiation using operational and GPS data.
 -	This project is supported by K2 (The Swedish Knowledge Centre for Collective Mobility) and Region Stockholm (SL).
