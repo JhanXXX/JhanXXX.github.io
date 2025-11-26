@@ -17,12 +17,12 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 ### KTH Royal Institute of Technology (Aug 2024 - Jun 2026)
 - Master's Student in Transport and Geoinformation Technology;
 - KTH Scholarship Awardee.
-- **Core modules**: Geoinformatics, Transport Planning and Analysis, Machine Learning, Statistical Learning.
+- **Core modules**: Geoinformatics and Spatial Analysis, Geospatial AI, Applied AI in Transport Planning and Analysis, Statistical Learning.
   
 ### Tongji University (Sep 2019 - Jul 2024)
 - Bachelor's Degree in Civil Engineering;
 - Minor: Aritificial Intelligence, German;
-- **Core modules**: Mechanics, Built Environment, Mathematical Modeling.
+- **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling.
 
 ## Skills
 
