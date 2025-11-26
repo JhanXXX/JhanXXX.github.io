@@ -16,21 +16,43 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 
 - **KTH Royal Institute of Technology** (Aug 2024 - Jun 2026)
 
-  Master's Student in Transport and Geoinformation Technology; KTH Scholarship Awardee.
+  Master's Student in Transport and Geoinformation Technology;
+
+  KTH Scholarship Awardee.
+
+  **Core modules**: Geoinformatics, Transport Planning and Analysis, Machine Learning, Statistical Learning.
   
 - **Tongji University** (Sep 2019 - Jul 2024)
 
-  Bachelor's Degree in Civil Engineering; Minor in Aritificial Intelligence.
+  Bachelor's Degree in Civil Engineering;
+
+  Minor: Aritificial Intelligence, German;
+
+  **Core modules**: Mechanics, Built Environment, Mathematical Modeling.
 
 
 ## Skills
--	PostgreSQL/PostGIS/PgRouting, SQLite3
--	Python, SQL, C++, JavaScript
--	Docker, Qt6, React, Node.js
--	ArcGIS Pro, QGIS, Mapbox GL JS
--	Google Earth Engine, Microsoft Planetary Computer, GTFS
--	English (fluent), Mandarin (native speaker)
 
+### Machine Learning & AI
+-	Feature engineering (NumPy, Pandas, Scikit-learn)
+-	PyTorch (training pipeline, neural network fine-tuning, customed dataset, GPU training, etc.)
+-	Python for causal inference and basic statistical learning
+
+### Geospatial & Data Engineering
+-	Geospatial databases (PostgreSQL / PostGIS, PgRouting)
+-	Spatial analysis and geovisualisation (ArcGIS Pro, QGIS)
+-	GIS full-stack development (Mapbox GL JS)
+-	Remote sensing (Google Earth Engine), GTFS
+
+### Software Development
+-	C++, JavaScript, SQL
+-	Qt6 (desktop GUI), React, Node.js
+-	Docker (containerized development)
+
+### Languange
+-	English (fluent, IELTS 7.5 / C1)
+-	Mandarin (native)
+-	German & French (beginner, PHS6 & TFU4 / ~A2)
 
 
 ## Publications
