@@ -109,11 +109,13 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 
 ### Division of Transport Planning, KTH
 *Nov 2025 - Jan 2026 | Stockholm | Research Assistant*
-- Participation in researches on public transport modeling and data analysis.
+- Participation in research on microeconomic policy for public transport contract.
+-	Data evidence-based decision-making; contract design and management; operational data modeling.
 
 ### Digital Futures, KTH
 *Jun 2025 - Aug 2025 | Stockholm | Research Intern*
-- Participation in researches on machine learning for sustainable transport planning and greenery equity.
+-	Conducted individual research project under supervision.
+-	GeoAI and remote sensing for urban greenery assessment.
 
 ### Innovation Center Asia, Volkswagen Group China
 *Jan 2024 - Jul 2024 | Beijing | Technical Scouting Intern*
