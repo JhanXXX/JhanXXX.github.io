@@ -93,7 +93,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 
 
 ### Cross-City Generalizable Green View Index Estimation from Satellite Imagery
-*Research Project | Jun 2025 - Oct 2025 | Supervisor: Dr. Yancheng Ling; Prof. Zhenliang Ma*
+*Funded Research Project | Jun 2025 - Oct 2025 | Supervisor: Dr. Yancheng Ling; Prof. Zhenliang Ma*
 
 -	Transferrable CNN model for assessing Green View Index (GVI).
 -	From data collection to model fitting: satellite imagery-derived dataset, self-defined data loaders, PyTorch training pipeline, GPU training, model deployment and performance evaluation.
