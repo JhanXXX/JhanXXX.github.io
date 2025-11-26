@@ -49,10 +49,10 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 
 
 ## Publications
-- **J. Xu**, Y. Ling, Z. Ma*; *A Generalizable Urban Green View Index Estimation Method from Satellite Imagery*; Transportation Research Record (Under Review).
-- **J. Xu**, Y. Ling, Z. Ma*; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
+- **J. Xu**, Y. Ling, Z. Ma; *A Generalizable Urban Green View Index Estimation Method from Satellite Imagery*; Transportation Research Record (Under Review).
+- **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
 - Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
-- **J. Xu**, Y. Ling, Z. Ma*; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
+- **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
 - Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
 
 
@@ -67,7 +67,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 -	This project is supported by K2 (The Swedish Knowledge Centre for Collective Mobility) and Region Stockholm (SL).
 
 ### Course Project: Prioritizing Heat Risky Areas for Urban Infrastructure Improvements: A Multi-Criteria Case Study in Stockholm
-*Course Project | Nov 2025 - Jan 2026 | Examiner/Supervisor: Yifang Ban*
+*Course Project | Nov 2025 - Jan 2026 | Examiner/Supervisor: Prof. Yifang Ban*
 
 -	Spatial analysis: urban heat island effect (UHI), heat vulnerability.
 -	Independent data collection and mapping pipeline (python and QGIS): satellite imagery-derived ground indicators, residence and activity-based heat vulnerability modeling.
@@ -75,7 +75,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 - This project is supported by Sweco Sverige.
 
 ### Public Transport Delay Propagation Analysis: A Causal Inference Experiment
-*Course Project | Sep 2025 - Oct 2025*
+*Course Project (Grade: A) | Sep 2025 - Oct 2025*
 
 -	Causal inference methodology comparison for delay propagation in public transport: regression adjustment, generalized propensity score, doubly robust estimation.
 -	Mobility data modeling and management: GTFS Realtime feeds, python, SQLite3.
@@ -84,7 +84,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 
 
 ### An AI-Based Automated Green Path Navigator & Green View Database
-*Course Project | Sep 2025 - Oct 2025 | Examiner/Supervisor: Gyözö Gidofalvi*
+*Course Project (Grade: A) | Sep 2025 - Oct 2025 | Examiner/Supervisor: Prof. Gyözö Gidofalvi*
 
 -	A full-stack AI-based Web GIS application: pretrained AI model, multi-modal and complex spatial data management, route planning with self-defined parameters and real-time public transport APIs.
 -	Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Microsoft Planetary Computer APIs, GTFS/Real-time Transit APIs.
@@ -93,7 +93,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 
 
 ### Cross-City Generalizable Green View Index Estimation from Satellite Imagery
-*Research Project | Jun 2025 - Oct 2025 | Supervisor: Yancheng Ling; Zhenliang Ma*
+*Research Project | Jun 2025 - Oct 2025 | Supervisor: Dr. Yancheng Ling; Prof. Zhenliang Ma*
 
 -	Transferrable CNN model for assessing Green View Index (GVI).
 -	From data collection to model fitting: satellite imagery-derived dataset, self-defined data loaders, PyTorch training pipeline, GPU training, model deployment and performance evaluation.
