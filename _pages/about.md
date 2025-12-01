@@ -66,7 +66,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 -	Public transport contract analysis from economic perspectives: diagnosing the effectiveness of existing contracts, especially their KPIs.
 -	A comprehensive review of public transport contract models: development and efficiency evaluation.
 -	A data-driven proof of concept: proposing KPI negotiation using operational and GPS data.
--	This project is supported by K2 (The Swedish Knowledge Centre for Collective Mobility) and Region Stockholm (SL).
+-	This project is supported by **K2** (The Swedish Knowledge Centre for Collective Mobility) and **Region Stockholm** (SL).
 
 ### Course Project: Prioritizing Heat Risky Areas for Urban Infrastructure Improvements: A Multi-Criteria Case Study in Stockholm
 *Course Project (Grade: on-going) | Nov 2025 - Jan 2026 | Examiner/Supervisor: Prof. Yifang Ban*
@@ -75,12 +75,12 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 -	Satellite imagery data collection, modeling algorithm and visualizing pipeline (python and QGIS).
 -	CFD simulation for city scale wind velocity using OpenFOAM, based on city wind statistics and building shapefiles.
 -	From spatial analysis to practical conclusions: Gi* for statistically meaningful numerical boundaries, focal mean operation to include neighborhood information, DBSCAN clustering, and four-quadrant graph interpretations.
-- This project is supported by Sweco Sverige.
+- This project is supported by **Sweco Sverige**.
 
 *[CFD Coding Repository (updating)](https://github.com/JhanXXX/cfd-wind-stockholm)*
 
 ### Public Transport Delay Propagation Analysis: A Causal Inference Experiment
-*Course Project (Grade: A) | Sep 2025 - Oct 2025*
+*Course Project (Grade: 50/50) | Sep 2025 - Oct 2025*
 
 -	Causal inference methodology comparison for delay propagation in public transport: regression adjustment, generalized propensity score, doubly robust estimation.
 -	Mobility data modeling and management: GTFS Realtime feeds, python, SQLite3.
@@ -104,7 +104,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 -	From data collection to model fitting: satellite imagery-derived dataset, self-defined data loaders, PyTorch training pipeline, GPU training, model deployment and performance evaluation.
 -	Compared with different methods: GNN, CNN fine-tuning (ResNet), assembly (tree-based) models, regression models.
 -	Explainable machine learning: SHAP, gradient attention map.
-- This work was funded by Digital Futures at KTH Royal Institute of Technology.
+- This work was funded by **Digital Futures** at KTH Royal Institute of Technology.
 
 *This work is under submission process to a journal. [Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
 
@@ -114,11 +114,11 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 
 ### Division of Transport Planning, KTH
 *Nov 2025 - Jan 2026 | Stockholm | Research Assistant*
-- Participation in research on microeconomic policy for public transport contract.
+- Participation in research on public transport contract.
 -	Data evidence-based decision-making; contract design and management; operational data modeling.
 
 ### Digital Futures, KTH
-*Jun 2025 - Aug 2025 | Stockholm | Research Intern*
+*Jun 2025 - Aug 2025 | Stockholm | Summer Research Intern*
 -	Conducted individual research project under supervision.
 -	GeoAI and remote sensing for urban greenery assessment.
 
