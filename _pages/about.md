@@ -31,11 +31,13 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 -	PyTorch (training pipeline, neural network fine-tuning, customed dataset, GPU training, etc.)
 -	Python for causal inference and basic statistical learning
 
-### Geospatial & Data Engineering
+### Geospatial & Computational Engineering
 -	Geospatial databases (PostgreSQL / PostGIS, PgRouting)
 -	Spatial analysis and geovisualisation (ArcGIS Pro, QGIS)
 -	GIS full-stack development (Mapbox GL JS)
 -	Remote sensing (Google Earth Engine), GTFS
+-	Numercial simulation (OpenFOAM, PLAXIS)
+-	Visualisation and postprocessing (ArcMap, AutoCAD, ParaView)
 
 ### Software Development
 -	C++, JavaScript, SQL
@@ -67,12 +69,15 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 -	This project is supported by K2 (The Swedish Knowledge Centre for Collective Mobility) and Region Stockholm (SL).
 
 ### Course Project: Prioritizing Heat Risky Areas for Urban Infrastructure Improvements: A Multi-Criteria Case Study in Stockholm
-*Course Project | Nov 2025 - Jan 2026 | Examiner/Supervisor: Prof. Yifang Ban*
+*Course Project (Grade: on-going) | Nov 2025 - Jan 2026 | Examiner/Supervisor: Prof. Yifang Ban*
 
--	Spatial analysis: urban heat island effect (UHI), heat vulnerability.
--	Independent data collection and mapping pipeline (python and QGIS): satellite imagery-derived ground indicators, residence and activity-based heat vulnerability modeling.
--	From data to practical conclusions: Gi*, DBSCAN, four-quadrant and multi-criteria analysis.
+-	Multi-criteria: urban heat island effect (UHI), heat vulnerability (residence-based and mobility-based), and nature resilience.
+-	Satellite imagery data collection, modeling algorithm and visualizing pipeline (python and QGIS).
+-	CFD simulation for city scale wind velocity using OpenFOAM, based on city wind statistics and building shapefiles.
+-	From spatial analysis to practical conclusions: Gi* for statistically meaningful numerical boundaries, focal mean operation to include neighborhood information, DBSCAN clustering, and four-quadrant graph interpretations.
 - This project is supported by Sweco Sverige.
+
+*[CFD Coding Repository (updating)](https://github.com/JhanXXX/cfd-wind-stockholm)*
 
 ### Public Transport Delay Propagation Analysis: A Causal Inference Experiment
 *Course Project (Grade: A) | Sep 2025 - Oct 2025*
