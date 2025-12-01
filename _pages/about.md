@@ -22,7 +22,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 ### Tongji University (Sep 2019 - Jul 2024)
 - Bachelor's Degree in Civil Engineering;
 - Minor: Aritificial Intelligence, German;
-- **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling.
+- **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis.
 
 ## Skills
 
@@ -36,7 +36,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 -	Spatial analysis and geovisualisation (ArcGIS Pro, QGIS)
 -	GIS full-stack development (Mapbox GL JS)
 -	Remote sensing (Google Earth Engine), GTFS
--	Numercial simulation (OpenFOAM, PLAXIS)
+-	Numercial analysis (OpenFOAM, PLAXIS)
 -	Visualisation and postprocessing (ArcMap, AutoCAD, ParaView)
 
 ### Software Development
