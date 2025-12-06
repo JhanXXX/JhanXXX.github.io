@@ -115,17 +115,17 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 ## Professional Experiences
 
 ### Division of Transport Planning, KTH
-*Nov 2025 - Jan 2026 | Stockholm | Research Assistant*
+*2025.11 - 2026.01 | Stockholm | Research Assistant*
 - Participation in research on public transport contract.
 -	Data evidence-based decision-making; contract design and management; operational data modeling.
 
 ### Digital Futures, KTH
-*Jun 2025 - Aug 2025 | Stockholm | Summer Research Intern*
+*2025.06 - 2025.08 | Stockholm | Summer Research Intern*
 -	Conducted individual research project under supervision.
 -	GeoAI and remote sensing for urban greenery assessment.
 
 ### Innovation Center Asia, Volkswagen Group China
-*Jan 2024 - Jul 2024 | Beijing | Technical Scouting Intern*
+*2024.01 - 2024.07 | Beijing | Technical Scouting Intern*
 - Academic scouting for power electronics (SiC, GaN), NEV technology updates and NEV market share in China.
 - Connection and communication with related research groups in universities in China.
 
@@ -139,6 +139,6 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 - Connection and communication with industrial partners.
 
 ### Mathart Systems Co., Ltd.
-*Jan 2022 - Apr 2022 | Shanghai | Algorithm Engineer Intern*
+*2022.01 - 2022.04 | Shanghai | Algorithm Engineer Intern*
 - Coding for integer programming and heuristic algorithm modules.
 
