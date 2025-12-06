@@ -77,7 +77,8 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 -	From spatial analysis to practical conclusions: Gi* for statistically meaningful numerical boundaries, focal mean operation to include neighborhood information, DBSCAN clustering, and four-quadrant graph interpretations.
 - This project is supported by **Sweco Sverige**.
 
-*[CFD Coding Repository (updating)](https://github.com/JhanXXX/cfd-wind-stockholm)*
+*[Heat vulnerability analysis, coding repository](https://github.com/JhanXXX/heat_vulnerability_analysis)*
+*[CFD coding repository (updating)](https://github.com/JhanXXX/cfd-wind-stockholm)*
 
 ### Public Transport Delay Propagation Analysis: A Causal Inference Experiment
 *Course Project (Grade: 50/50) | Sep 2025 - Oct 2025*
