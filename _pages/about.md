@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I'm pursuing my Master's degree in Transport and Geoinformation Technology at KTH Royal Institute of Technology. I completed my Bachelor's degree in [Civil Engineering](https://civileng.tongji.edu.cn/civilengen/main.htm) (track: Geotechnical Engineering) at [Tongji University](https://en.wikipedia.org/wiki/Tongji_University), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm also a dancer with experience in choreography and freestyle battles.
+I'm pursuing my Master's degree in Transport and Geoinformation Technology at [KTH](https://www.kth.se/en). I completed my Bachelor's degree in Civil Engineering (track: Geotechnical Engineering) at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm also a dancer with experience in choreography and freestyle battles.
 
 
 ## Education
