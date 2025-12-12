@@ -114,7 +114,11 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at KT
 
 ## Professional Experiences
 
-### Division of Transport Planning, KTH
+### WSP Sverige AB
+*2026.01 - 2026.06 | Stockholm | Thesis Project Student*
+- Thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden.
+
+### Mobility Informatics Lab[https://zhenliangma.com/], Division of Transport Planning, KTH
 *2025.11 - 2026.01 | Stockholm | Research Assistant*
 - Participation in research on public transport contract.
 -	Data evidence-based decision-making; contract design and management; operational data modeling.
