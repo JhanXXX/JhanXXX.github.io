@@ -107,13 +107,11 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 -	Multi-criteria: urban heat island effect (UHI), heat vulnerability (residence-based and mobility-based), and nature resilience.
 -	Satellite imagery data collection, modeling algorithm and visualizing pipeline (python and QGIS).
--	CFD simulation for city scale wind velocity using OpenFOAM, based on city wind statistics and building shapefiles.
 -	From spatial analysis to practical conclusions: Gi* for statistically meaningful numerical boundaries, focal mean operation to include neighborhood information, DBSCAN clustering, and four-quadrant graph interpretations.
 - This project is supported by **Sweco Sverige**.
 
 *[Coding Repository: Heat Vulnerability Analysis](https://github.com/JhanXXX/heat_vulnerability_analysis)*
 
-*[Coding Repository: CFD for Urban Field Simulation (updating)](https://github.com/JhanXXX/cfd-wind-stockholm)*
 
 ### Public Transport Delay Propagation Analysis: A Causal Inference Experiment
 *Course Project (Grade: 50/50) | Sep 2025 - Oct 2025*
