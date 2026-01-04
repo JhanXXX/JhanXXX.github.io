@@ -35,14 +35,13 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 ### Geospatial & Computational Engineering
 -	Geospatial databases (PostgreSQL / PostGIS, PgRouting)
 -	Spatial analysis and geovisualisation (ArcGIS Pro, QGIS)
--	GIS full-stack development (Mapbox GL JS)
 -	Google Earth Engine, GTFS
 -	Numercial analysis (OpenFOAM, PLAXIS)
 -	Visualisation and postprocessing (ArcMap, AutoCAD, ParaView)
 
 ### Software Development
 -	C++, JavaScript, SQL
--	Qt6 (desktop GUI), React, Node.js
+-	Qt6 (desktop GUI)
 -	Docker (containerized development)
 
 ### Languange
@@ -66,6 +65,9 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 ### WSP Sverige AB
 *2026.01 - 2026.06 | Stockholm | Thesis Project Student*
 - Thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden.
+- AI-based electricity demand prediction (time-serial).
+- Voronoi diagram for modeling.
+- Network optimization: Gurobi, mixed interger programming.
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
 *2025.11 - 2026.01 | Stockholm | Research Assistant*
