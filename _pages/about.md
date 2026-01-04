@@ -14,7 +14,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 ## Education
 
-### KTH Royal Institute of Technology (2024-08 - 2026-07)
+### KTH Royal Institute of Technology (2024-08 - 2026-06)
 - Master's Student in Transport and Geoinformation Technology.
 - KTH Scholarship Awardee.
 - Core modules: GIS and Spatial Analysis, Applied AI in Transport and GeoAI, Logistics, Statistical Learning.
@@ -92,6 +92,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 ### Mathart Systems Co., Ltd.
 *2022.01 - 2022.04 | Shanghai | Algorithm Engineer Intern*
 - Coding for integer programming and heuristic algorithm modules.
+- Cplex, Python OOD.
 
 
 
