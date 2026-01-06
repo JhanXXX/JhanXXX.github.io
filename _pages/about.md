@@ -14,16 +14,19 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 ## Education
 
-### KTH Royal Institute of Technology (2024-08 - 2026-07)
-- Master's Student in Transport and Geoinformation Technology.
-- KTH Scholarship Awardee.
-- Core modules: GIS and Spatial Analysis, Applied AI in Transport and GeoAI, Logistics, Statistical Learning.
-- Thesis host: WSP (Sweden).
+### KTH Royal Institute of Technology (2024-08 - 2026-07), Stockholm, Sweden
+- Master of Science (Transport and Geoinformation Technology)
+- **Core modules**: GIS and Spatial Analysis, Applied AI in Transport and GeoAI, Logistics, Statistical Learning
+- **Thesis host**: WSP (Sweden)
+- **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
+- **Honor**: KTH Scholarship
   
-### Tongji University (2019-09 - 2024-07)
-- Bachelor's Degree in Civil Engineering.
-- Minor: Aritificial Intelligence; German.
-- Core modules: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis.
+### Tongji University (2019-09 - 2024-07), Shanghai, China
+- Bachelor of Engineering (Civil Engineering)
+- **Minor**: Aritificial Intelligence; German
+- **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
+- **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
+- **Honor**: 获保研资格（后放弃）；数学建模国赛上海赛区二等奖、全国大学生建模统计大赛上海赛区二等奖；校级三等奖学金，社会实践活动奖学金
 
 ## Skills
 
