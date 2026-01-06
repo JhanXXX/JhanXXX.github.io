@@ -9,16 +9,16 @@ redirect_from:
 
 ## About Me
 
-I'm pursuing my Master's degree in Transport and Geoinformation Technology at [KTH](https://www.kth.se/en). I completed my Bachelor's degree in Civil Engineering (track: Geotechnical Engineering) at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm also a dancer with experience in choreography and freestyle battles.
+I'm pursuing my Master's degree in Transport and Geoinformation Technology at [KTH](https://www.kth.se/en). I completed my Bachelor's degree in Civil Engineering (track: Geotechnical Engineering) at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm a dancer with experience in choreography and freestyle battles.
 
 
 ## Education
 
-### KTH Royal Institute of Technology (2024-08 - 2026-06)
+### KTH Royal Institute of Technology (2024-08 - 2026-07)
 - Master's Student in Transport and Geoinformation Technology.
 - KTH Scholarship Awardee.
 - Core modules: GIS and Spatial Analysis, Applied AI in Transport and GeoAI, Logistics, Statistical Learning.
-- Thesis host: WSP Sverige AB.
+- Thesis host: WSP (Sweden).
   
 ### Tongji University (2019-09 - 2024-07)
 - Bachelor's Degree in Civil Engineering.
@@ -33,15 +33,14 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 -	Python for causal inference and basic statistical learning
 
 ### Geospatial & Computational Engineering
--	Geospatial databases (PostgreSQL / PostGIS, PgRouting)
+-	Geospatial databases (PostgreSQL / PostGIS)
 -	Spatial analysis and geovisualisation (ArcGIS Pro, QGIS)
 -	Google Earth Engine, GTFS
--	Numercial analysis (OpenFOAM, PLAXIS)
 -	Visualisation and postprocessing (ArcMap, AutoCAD, ParaView)
 
-### Software Development
--	C++, JavaScript, SQL
--	Qt6 (desktop GUI)
+### Programming
+-	C++, SQL
+-	Qt6
 -	Docker (containerized development)
 
 ### Languange
@@ -62,32 +61,28 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 ## Professional Experiences
 
-### WSP Sverige AB
-*2026.01 - 2026.06 | Stockholm | Thesis Project Student*
-- Thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden.
-- AI-based electricity demand prediction (time-serial).
-- Voronoi diagram for modeling.
-- Network optimization: Gurobi, mixed interger programming.
+### WSP (Sweden)
+*2026.01 - 2026.05 | Stockholm | Thesis Project Student*
+- Individual thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden (details seen below).
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
-*2025.11 - 2026.01 | Stockholm | Research Assistant*
-- Participation in research on public transport contract.
--	Data evidence-based decision-making; contract design and management; operational data modeling.
+*2025.11 - present | Stockholm, Sweden | Research Assistant*
+- Conducting a funded research project on public transport (details seen below).
 
 ### Digital Futures, KTH
-*2025.06 - 2025.08 | Stockholm | Summer Research Intern*
--	Conducted individual research project under supervision.
--	GeoAI and remote sensing for urban greenery assessment.
+*2025.06 - 2025.08 | Stockholm, Sweden | Summer Research Intern*
+-	Conducting a funded research project on GeoAI and aerial image data mining (details seen below).
 
 ### Innovation Center Asia, Volkswagen Group China
-*2024.01 - 2024.07 | Beijing | Technical Scouting Intern*
-- Academic scouting for power electronics (SiC, GaN), NEV technology updates and NEV market share in China.
-- Connection and communication with related research groups in universities in China.
+*2024.01 - 2024.07 | Beijing, China | Technical Scouting Intern*
+- Literature review for vehicle power electronics (SiC, GaN), NEV technology updates and NEV market share in China.
+- Test-drive organization, user survey design & user experience study. 
+- Communication with research groups in universities for cooperation.
 
 ### Innovation Center PACE, Tongji University
-*2022 - 2024 | Shanghai | Student Leadership Board Memeber*
+*2022 - 2024 | Shanghai, China | Student Leadership Board Memeber*
 - Participation and leadership in undergraduate innovation projects and competitions on mobility and transportation.
-- Connection and communication with industrial partners.
+- Communication with external industrial partners: student project supervision, cooperation and investments.
 
 ### Mathart Systems Co., Ltd.
 *2022.01 - 2022.04 | Shanghai | Algorithm Engineer Intern*
@@ -97,15 +92,24 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 
 ## Selected Projects
-### Rethinking public transport contracts: towards value-based KPIs for reliable bus services
-*Funded Research | Nov 2025 - Jan 2026 | Supervisor: Prof. Zhenliang Ma*
 
--	Public transport contract analysis from economic perspectives: diagnosing the effectiveness of existing contracts, especially their KPIs.
--	A comprehensive review of public transport contract models: development and efficiency evaluation.
--	A data-driven proof of concept: proposing KPI negotiation using operational and GPS data.
+### Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden
+*Master degree thesis | Jan 2026 - May 2026 | Thesis Host: WSP (Sweden)*
+- AI for electricity demand prediction (time-serial).
+- Voronoi diagram modeling.
+- Network optimization: Gurobi, mixed interger programming.
+
+
+### Rethinking public transport (PT) contracts: towards value-based KPIs for reliable bus services
+*Funded Research | Nov 2025 - present | Supervisor: Prof. Zhenliang Ma*
+
+-	Review on international practices (UK, Australia, nordic cities): PT bus contract model and their KPI structure.
+-	Reivew on theoretical progress: statistical method for passenger-perceived service quality measurement.
+- A proposal of novelty regularity-based KPI for Stockholm: operational process modeling with GTFS APIs.
+- Data visualization and approach validation: correlation analysis for key indexes, GIS platform for result display.
 -	This project is supported by **K2** (The Swedish Knowledge Centre for Collective Mobility) and **Region Stockholm** (SL).
 
-### Course Project: Prioritizing Heat Risky Areas for Urban Infrastructure Improvements: A Multi-Criteria Case Study in Stockholm
+### Prioritizing Heat Risky Areas for Urban Infrastructure Improvements: A Multi-Criteria Case Study in Stockholm
 *Course Project (Grade: on-going) | Nov 2025 - Jan 2026 | Examiner/Supervisor: Prof. Yifang Ban*
 
 -	Multi-criteria: urban heat island effect (UHI), heat vulnerability (residence-based and mobility-based), and nature resilience.
@@ -141,9 +145,9 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 -	From data collection to model fitting: satellite imagery-derived dataset, self-defined data loaders, PyTorch training pipeline, GPU training, model deployment and performance evaluation.
 -	Compared with different methods: GNN, CNN fine-tuning (ResNet), assembly (tree-based) models, regression models.
 -	Explainable machine learning: SHAP, gradient attention map.
-- This work was funded by **Digital Futures** at KTH Royal Institute of Technology.
+- This work was financially supported by **Digital Futures** at KTH Royal Institute of Technology.
 
-*This work is under submission process to a journal. [Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
+*This work is under submission process to Transport Research Record. [Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
 
 
 
