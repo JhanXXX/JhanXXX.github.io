@@ -65,7 +65,8 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 -	Data mining from satellite imagery (Sentinel-2, Python).
 -	Machine learning pipeline (Docker): feature engineering, fine-tunning, transfer learning, performance assessment, model deployment and explainability analysis (PyTorch, SHAP, attention map).
 -	Compared among CNN, GNN, assembly models, linear regression.
--	[Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
+
+*[Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
 
 ### Innovation Center Asia, Volkswagen Group China
 *2024.01 - 2024.07 | Beijing, China | Technical Scouting Intern*
@@ -96,6 +97,7 @@ Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intel
 - This project is supported by **Sweco Sverige**.
 
 *[Coding Repository: Heat Vulnerability Analysis](https://github.com/JhanXXX/heat_vulnerability_analysis)*
+
 *[Coding Repository: Urban Livability Index](https://github.com/JhanXXX/UL-index-VPLT)*
 
 
@@ -105,7 +107,7 @@ Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intel
 -	Causal inference methodology comparison for delay propagation in public transport: regression adjustment, generalized propensity score, doubly robust estimation.
 -	Mobility data modeling and management: GTFS Realtime feeds, python, SQLite3.
 
-*Feel free to reach out if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/pt_delay_propagation/tree/main)*
+*Please feel free to reach out if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/pt_delay_propagation/tree/main)*
 
 
 ### An AI-Based Automated Green Path Navigator & Green View Database
@@ -114,7 +116,7 @@ Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intel
 -	A full-stack AI-based Web GIS application: pretrained AI model, multi-modal and complex spatial data management, route planning with self-defined parameters and real-time public transport APIs.
 -	Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Microsoft Planetary Computer APIs, GTFS/Real-time Transit APIs.
 
-*Feel free to reach out if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/webGIS_for_GVI/tree/main)*
+*Please feel free to reach out if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/webGIS_for_GVI/tree/main)*
 
 
 
