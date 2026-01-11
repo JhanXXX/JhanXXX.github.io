@@ -9,47 +9,29 @@ redirect_from:
 
 ## About Me
 
-I'm pursuing my Master's degree in Transport and Geoinformation Technology at [KTH](https://www.kth.se/en). I completed my Bachelor's degree in Civil Engineering (track: Geotechnical Engineering) at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm a dancer with experience in choreography and freestyle battles.
+I'm pursuing my Master's degree in Transport and Geoinformation Technology at [KTH](https://www.kth.se/en). I completed my Bachelor's degree in Civil Engineering at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm a dancer with experience in choreography and freestyle battles.
 
 
 ## Education
 
 ### KTH Royal Institute of Technology (2024-08 - 2026-07), Stockholm, Sweden
-- Master of Science (Transport and Geoinformation Technology)
+- **Degree**: Master of Science (Transport and Geoinformation Technology)
 - **Core modules**: GIS and Spatial Analysis, Applied AI in Transport and GeoAI, Logistics, Statistical Learning
-- **Thesis host**: WSP (Sweden)
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
-- **Honor**: KTH Scholarship
+- **Honor**: KTH Scholarship (SEK 360,000)
   
 ### Tongji University (2019-09 - 2024-07), Shanghai, China
-- Bachelor of Engineering (Civil Engineering)
-- **Minor**: Aritificial Intelligence; German
+- **Degree**: Bachelor of Engineering (Civil Engineering)
 - **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
-- **Honor**: 获保研资格（后放弃）；数学建模国赛上海赛区二等奖、全国大学生建模统计大赛上海赛区二等奖；校级三等奖学金，社会实践活动奖学金
+- **Honor**: 数学建模国赛上海赛区二等奖、全国大学生建模统计大赛上海赛区二等奖；校级三等奖学金，社会实践活动奖学金
 
 ## Skills
 
-### Machine Learning & AI
--	Feature engineering (NumPy, Pandas, Scikit-learn)
--	PyTorch (training pipeline, neural network fine-tuning, customed dataset, GPU training, etc.)
--	Python for causal inference and basic statistical learning
-
-### Geospatial & Computational Engineering
--	Geospatial databases (PostgreSQL / PostGIS)
--	Spatial analysis and geovisualisation (ArcGIS Pro, QGIS)
--	Google Earth Engine, GTFS
--	Visualisation and postprocessing (ArcMap, AutoCAD, ParaView)
-
-### Programming
--	C++, SQL
--	Qt6
--	Docker (containerized development)
-
-### Languange
--	English (fluent, IELTS 7.5 / C1)
--	Mandarin (native)
--	German & French (beginner, PHS6 & TFU4 / ~A2)
+-	**AI and data analysis**: Python (PyTorch / NumPy / Pandas / Scikit-learn)
+-	**Spatial analysis and GIS**: Geovisualization (ArcGIS Pro, QGIS), spatial database (PostgreSQL, PostGIS)
+-	**Operational research**: Mixed integer planning, network modeling and optimization (CPLEX / Gurobi)
+- **Language**:	English (fluent, IELTS 7.5 / C1),	Mandarin (native),	German & French (beginner, PHS6 & TFU4 / ~A2)
 
 
 
@@ -62,69 +44,63 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 
 
-## Professional Experiences
+## Professional Experiences and Projects
 
 ### WSP (Sweden)
-*2026.01 - 2026.05 | Stockholm | Thesis Project Student*
-- Individual thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden (details seen below).
+*2026.01 - 2026.05 | Stockholm | Degree Project Intern*
+Thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden.
+-	Electrification freight network optimization for infrastructure planning (MIP, Gurobi).
+-	Data mining and energy demand time-serial prediction (PyTorch).
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
-*2025.11 - present | Stockholm, Sweden | Research Assistant*
-- Conducting a funded research project on public transport (details seen below).
+*2025.11 - present | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma*
+-	Data mining from public transport operational data (GTFS, Python, PostgreSQL).
+-	A universally adaptable approach for public transport service reliability assessment.
+-	Proposed new regularity-based KPI for Stockholm based on case studies (representative regions in the UK, Europe, and Australia), preliminary pilot projects, and practical knowledge in Sweden.
+-	Multidimensional correlation analysis for validation.
 
 ### Digital Futures, KTH
-*2025.06 - 2025.08 | Stockholm, Sweden | Summer Research Intern*
--	Conducting a funded research project on GeoAI and aerial image data mining (details seen below).
+*2025.06 - 2025.08 | Stockholm, Sweden | Summer Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma*
+Funded research: Estimating Green View Index from Satellite Imagery Using Explainable Machine Learning
+-	Data mining from satellite imagery (Sentinel-2, Python).
+-	Machine learning pipeline (Docker): feature engineering, fine-tunning, transfer learning, performance assessment, model deployment and explainability analysis (PyTorch, SHAP, attention map).
+-	Compared among CNN, GNN, assembly models, linear regression.
+-	[Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
 
 ### Innovation Center Asia, Volkswagen Group China
 *2024.01 - 2024.07 | Beijing, China | Technical Scouting Intern*
-- Literature review for vehicle power electronics (SiC, GaN), NEV technology updates and NEV market share in China.
-- Test-drive organization, user survey design & user experience study. 
-- Communication with research groups in universities for cooperation.
+-	The production of “University Map” report: Academic review, latest technical updates, and research focus about power electronics (SiC, GaN) in recognized institutes in China.
+-	Assisted in the communication with the potential cooperators (professors / research group).
+-	Designed and conducted user experience study for the new prototype test drive.
 
 ### Innovation Center PACE, Tongji University
 *2022 - 2024 | Shanghai, China | Student Leadership Board Memeber*
-- Participation and leadership in undergraduate innovation projects and competitions on mobility and transportation.
-- Communication with external industrial partners: student project supervision, cooperation and investments.
+Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI (NDA)
+-	Project description: Developing multimodal interaction concepts and envisioning usage scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
+-	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) meetings and presentations with the sponsors and supervisors.
 
 ### Mathart Systems Co., Ltd.
 *2022.01 - 2022.04 | Shanghai | Algorithm Engineer Intern*
-- Coding for integer programming and heuristic algorithm modules.
-- Cplex, Python OOD.
+- Coding for integer programming and heuristic algorithm modules (Cplex, Python OOD).
 
 
-
-## Selected Projects
-
-### Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden
-*Master degree thesis | Jan 2026 - May 2026 | Thesis Host: WSP (Sweden)*
-- AI for electricity demand prediction (time-serial).
-- Voronoi diagram modeling.
-- Network optimization: Gurobi, mixed interger programming.
-
-
-### Rethinking public transport (PT) contracts: towards value-based KPIs for reliable bus services
-*Funded Research | Nov 2025 - present | Supervisor: Prof. Zhenliang Ma*
-
--	Review on international practices (UK, Australia, nordic cities): PT bus contract model and their KPI structure.
--	Reivew on theoretical progress: statistical method for passenger-perceived service quality measurement.
-- A proposal of novelty regularity-based KPI for Stockholm: operational process modeling with GTFS APIs.
-- Data visualization and approach validation: correlation analysis for key indexes, GIS platform for result display.
--	This project is supported by **K2** (The Swedish Knowledge Centre for Collective Mobility) and **Region Stockholm** (SL).
+## Selected Course Projects
 
 ### Prioritizing Heat Risky Areas for Urban Infrastructure Improvements: A Multi-Criteria Case Study in Stockholm
-*Course Project (Grade: on-going) | Nov 2025 - Jan 2026 | Examiner/Supervisor: Prof. Yifang Ban*
+*Course Project (Grade: on-going), Group Work | Nov 2025 - Jan 2026 | Examiner/Supervisor: Prof. Yifang Ban*
 
--	Multi-criteria: urban heat island effect (UHI), heat vulnerability (residence-based and mobility-based), and nature resilience.
--	Satellite imagery data collection, modeling algorithm and visualizing pipeline (python and QGIS).
+-	Three dimensions: urban livability (a proposed coupled index with land surface temperature, tree canopy coverage, and ventilation potential), heat vulnerability (residence-based and mobility-based), and nature resilience (from ground indicators NDVI-MNDWI).
+-	Motivation behind: suggests for decision-makers based status quo (comprehensive livability) and urgency (heat vulnerability) considering social equity and investment marginal effect.
+-	My contribution: (1) Sentinel-2 image processing, (2) Urban Livability Index methodology development and coding, (3) Heat Vulnerability methodology development and coding.
 -	From spatial analysis to practical conclusions: Gi* for statistically meaningful numerical boundaries, focal mean operation to include neighborhood information, DBSCAN clustering, and four-quadrant graph interpretations.
 - This project is supported by **Sweco Sverige**.
 
 *[Coding Repository: Heat Vulnerability Analysis](https://github.com/JhanXXX/heat_vulnerability_analysis)*
+*[Coding Repository: Urban Livability Index](https://github.com/JhanXXX/UL-index-VPLT)*
 
 
 ### Public Transport Delay Propagation Analysis: A Causal Inference Experiment
-*Course Project (Grade: 50/50) | Sep 2025 - Oct 2025*
+*Course Project (Grade: 50/50), Individual Work | Sep 2025 - Oct 2025*
 
 -	Causal inference methodology comparison for delay propagation in public transport: regression adjustment, generalized propensity score, doubly robust estimation.
 -	Mobility data modeling and management: GTFS Realtime feeds, python, SQLite3.
@@ -133,24 +109,12 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 
 ### An AI-Based Automated Green Path Navigator & Green View Database
-*Course Project (Grade: A) | Sep 2025 - Oct 2025 | Examiner/Supervisor: Prof. Gyözö Gidofalvi*
+*Course Project (Grade: A), Individual Work | Sep 2025 - Oct 2025 | Examiner/Supervisor: Prof. Gyözö Gidofalvi*
 
 -	A full-stack AI-based Web GIS application: pretrained AI model, multi-modal and complex spatial data management, route planning with self-defined parameters and real-time public transport APIs.
 -	Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Microsoft Planetary Computer APIs, GTFS/Real-time Transit APIs.
 
 *Feel free to reach out if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/webGIS_for_GVI/tree/main)*
-
-
-### Cross-City Generalizable Green View Index Estimation from Satellite Imagery
-*Funded Research | Jun 2025 - Oct 2025 | Supervisor: Dr. Yancheng Ling; Prof. Zhenliang Ma*
-
--	Transferrable CNN model for assessing Green View Index (GVI).
--	From data collection to model fitting: satellite imagery-derived dataset, self-defined data loaders, PyTorch training pipeline, GPU training, model deployment and performance evaluation.
--	Compared with different methods: GNN, CNN fine-tuning (ResNet), assembly (tree-based) models, regression models.
--	Explainable machine learning: SHAP, gradient attention map.
-- This work was financially supported by **Digital Futures** at KTH Royal Institute of Technology.
-
-*This work is under submission process to Transport Research Record. [Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
 
 
 
