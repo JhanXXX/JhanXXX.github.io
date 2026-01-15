@@ -87,19 +87,6 @@ Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intel
 
 ## Selected Course Projects
 
-### Prioritizing Heat Risky Areas for Urban Infrastructure Improvements: A Multi-Criteria Case Study in Stockholm
-*Course Project (Grade: on-going), Group Work | Nov 2025 - Jan 2026 | Examiner/Supervisor: Prof. Yifang Ban*
-
--	Three dimensions: urban livability (a proposed coupled index with land surface temperature, tree canopy coverage, and ventilation potential), heat vulnerability (residence-based and mobility-based), and nature resilience (from ground indicators NDVI-MNDWI).
--	Motivation behind: suggests for decision-makers based status quo (comprehensive livability) and urgency (heat vulnerability) considering social equity and investment marginal effect.
--	My contribution: (1) Sentinel-2 image processing, (2) Urban Livability Index methodology development and coding, (3) Heat Vulnerability methodology development and coding.
--	From spatial analysis to practical conclusions: Gi* for statistically meaningful numerical boundaries, focal mean operation to include neighborhood information, DBSCAN clustering, and four-quadrant graph interpretations.
-- This project is supported by **Sweco Sverige**.
-
-*[Coding Repository: Heat Vulnerability Analysis](https://github.com/JhanXXX/heat_vulnerability_analysis)*
-
-*[Coding Repository: Urban Livability Index](https://github.com/JhanXXX/UL-index-VPLT)*
-
 
 ### Public Transport Delay Propagation Analysis: A Causal Inference Experiment
 *Course Project (Grade: 50/50), Individual Work | Sep 2025 - Oct 2025*
@@ -117,6 +104,3 @@ Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intel
 -	Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Microsoft Planetary Computer APIs, GTFS/Real-time Transit APIs.
 
 *Please feel free to reach out if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/webGIS_for_GVI/tree/main)*
-
-
-
