@@ -89,7 +89,7 @@ Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intel
 -	Project description: Developing multimodal interaction concepts and envisioning usage scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
 -	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) meetings and presentations with the sponsors and supervisors.
 
-### Mathart Systems Co., Ltd.
+### Mathart Systems Co., Ltd. (上海数策软件股份有限公司)
 *2022.01 - 2022.04 | Shanghai | Algorithm Engineer Intern*
 - Coding for integer programming and heuristic algorithm modules (Cplex, Python OOD).
 
