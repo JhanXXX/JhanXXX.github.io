@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I'm pursuing my Master's degree in Transport and Geoinformation Technology at [KTH](https://www.kth.se/en). I completed my Bachelor's degree in Civil Engineering at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm a dancer with experience in choreography and freestyle battles.
+I'm pursuing my Master's degree in Transport and Geoinformation Technology at [KTH](https://www.kth.se/en). I completed my Bachelor's degree in Civil Engineering at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm a dancer with experience in stage choreography and freestyle battles.
 
 
 ## Education
@@ -54,8 +54,9 @@ Thesis project: Planning and Optimization of Charging Infrastructure for Electri
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
 *2025.11 - present | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma*
+Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services
 -	Data mining from public transport operational data (GTFS, Python, PostgreSQL).
--	A universally adaptable approach for public transport service reliability assessment.
+-	An adaptable approach for public transport service reliability assessment.
 -	Proposed new regularity-based KPI for Stockholm based on case studies (representative regions in the UK, Europe, and Australia), preliminary pilot projects, and practical knowledge in Sweden.
 -	Multidimensional correlation analysis for validation.
 
@@ -70,7 +71,7 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 
 ### Innovation Center Asia, Volkswagen Group China
 *2024.01 - 2024.07 | Beijing, China | Technical Scouting Intern*
--	The production of “University Map” report: Academic review, latest technical updates, and research focus about power electronics (SiC, GaN) in recognized institutes in China.
+-	The production of “University Map” report: Academic review, technical updates, and research focus about power electronics (SiC, GaN) in recognized institutes in China.
 -	Assisted in the communication with the potential cooperators (professors / research group).
 -	Designed and conducted user experience study for the new prototype test drive.
 
