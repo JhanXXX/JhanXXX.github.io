@@ -46,7 +46,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 ## Professional Experiences and Projects
 
-### WSP
+### [WSP](https://www.wsp.com/en-gl)
 
 *2026.02 - 2026.08 | Stockholm | Degree Project Intern*
 
