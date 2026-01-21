@@ -47,14 +47,20 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 ## Professional Experiences and Projects
 
 ### WSP
+
 *2026.02 - 2026.08 | Stockholm | Degree Project Intern*
+
 Thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden.
+
 -	Electrification freight network optimization for infrastructure planning (MIP, Gurobi).
 -	Data mining and energy demand time-serial prediction (PyTorch).
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
+
 *2025.11 - present | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma*
+
 Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services
+
 -	Data mining from public transport operational data (GTFS, Python, PostgreSQL).
 -	An adaptable approach for public transport service reliability assessment.
 -	Proposed new regularity-based KPI for Stockholm based on case studies (representative regions in the UK, Europe, and Australia), preliminary pilot projects, and practical knowledge in Sweden.
@@ -62,7 +68,9 @@ Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs
 
 ### Digital Futures, KTH
 *2025.06 - 2025.08 | Stockholm, Sweden | Summer Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma*
+
 Funded research: Estimating Green View Index from Satellite Imagery Using Explainable Machine Learning
+
 -	Data mining from satellite imagery (Sentinel-2, Python).
 -	Machine learning pipeline (Docker): feature engineering, fine-tunning, transfer learning, performance assessment, model deployment and explainability analysis (PyTorch, SHAP, attention map).
 -	Compared among CNN, GNN, assembly models, linear regression.
@@ -77,7 +85,9 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 
 ### Innovation Center PACE, Tongji University
 *2022 - 2024 | Shanghai, China | Student Leadership Board Memeber*
+
 Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI (NDA)
+
 -	Project description: Developing multimodal interaction concepts and envisioning usage scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
 -	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) meetings and presentations with the sponsors and supervisors.
 
