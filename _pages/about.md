@@ -64,7 +64,7 @@ Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs
 -	Proposed new regularity-based KPI for Stockholm based on case studies (representative regions in the UK, Europe, and Australia), preliminary pilot projects, and practical knowledge in Sweden.
 -	Multidimensional correlation analysis for validation.
 
-### Digital Futures, KTH
+### [Digital Futures](https://www.digitalfutures.kth.se/), KTH
 *2025.06 - 2025.08 | Stockholm, Sweden | Summer Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma*
 
 Funded research: Estimating Green View Index from Satellite Imagery Using Explainable Machine Learning
