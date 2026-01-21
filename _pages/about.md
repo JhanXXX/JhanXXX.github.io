@@ -14,7 +14,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 ## Education
 
-### KTH Royal Institute of Technology (2024-08 - 2026-07), Stockholm, Sweden
+### KTH Royal Institute of Technology (2024-08 - 2026-08), Stockholm, Sweden
 - **Degree**: Master of Science (Transport and Geoinformation Technology)
 - **Core modules**: GIS and Spatial Analysis, Applied AI in Transport and GeoAI, Logistics, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
@@ -31,7 +31,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 -	**AI and data analysis**: Python (PyTorch / NumPy / Pandas / Scikit-learn)
 -	**Spatial analysis and GIS**: Geovisualization (ArcGIS Pro, QGIS), spatial database (PostgreSQL, PostGIS)
 -	**Operational research**: Mixed integer planning, network modeling and optimization (CPLEX / Gurobi)
-- **Language**:	English (fluent, IELTS 7.5 / C1),	Mandarin (native),	German & French (beginner, PHS6 & TFU4 / ~A2)
+- **Language**:	English (professionally fluent, IELTS 8.0),	Mandarin (native),	German & French (beginner, PHS6 & TFU4 / ~A2)
 
 
 
@@ -46,8 +46,8 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 ## Professional Experiences and Projects
 
-### WSP (Sweden)
-*2026.01 - 2026.05 | Stockholm | Degree Project Intern*
+### WSP
+*2026.02 - 2026.08 | Stockholm | Degree Project Intern*
 Thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden.
 -	Electrification freight network optimization for infrastructure planning (MIP, Gurobi).
 -	Data mining and energy demand time-serial prediction (PyTorch).
