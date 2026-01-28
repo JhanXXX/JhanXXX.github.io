@@ -18,7 +18,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 - **Degree**: Master of Science (Transport and Geoinformation Technology)
 - **Core modules**: GIS and Spatial Analysis, Applied AI in Transport and GeoAI, Logistics, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
-- **Honor**: KTH Scholarship (SEK 360,000)
+- **Honor**: KTH Scholarship (SEK 360,000.00)
   
 ### Tongji University (2019-09 - 2024-07), Shanghai, China
 - **Degree**: Bachelor of Engineering (Civil Engineering)
@@ -47,7 +47,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 ## Professional Experiences and Projects
 
 ### [WSP](https://www.wsp.com/en-gl)
-*2026.02 - 2026.08 | Stockholm | Degree Project Intern*
+*2026.02 - 2026.08 | Stockholm, Sweden | Degree Project Intern*
 
 Thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden.
 
@@ -55,7 +55,7 @@ Thesis project: Planning and Optimization of Charging Infrastructure for Electri
 -	Data mining and energy demand time-serial prediction (PyTorch).
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
-*2025.11 - present | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma*
+*2025.11 - 2025.02 | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma*
 
 Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services
 
@@ -76,7 +76,7 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 *[Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
 
 ### Innovation Center Asia, Volkswagen Group China
-*2024.01 - 2024.07 | Beijing, China | Technical Scouting Intern*
+*2024.01 - 2024.07 | Beijing, China | R&D Intern*
 -	The production of “University Map” report: Academic review, technical updates, and research focus about power electronics (SiC, GaN) in recognized institutes in China.
 -	Assisted in the communication with the potential cooperators (professors / research group).
 -	Designed and conducted user experience study for the new prototype test drive.
