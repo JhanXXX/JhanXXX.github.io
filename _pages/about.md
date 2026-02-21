@@ -13,7 +13,7 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 Currently, I am actively seeking job opportunities in academy or industry for my postgraduates: PhD student, junior analyst, junior data engineer, etc. Not limited in any specific field, I am interested in spatial infrastructure systems modeling under real-world constraints.
 
-I am self-motivated and easy to communicate with. I am capable of both team and independent work, and maintain good stability under high pressure and criticism.
+I am self-motivated and easy to communicate with. I am capable of both team and independent work, and maintaining good stability under high pressure and criticism.
 
 ## Education
 
