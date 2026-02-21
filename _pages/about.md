@@ -11,7 +11,9 @@ redirect_from:
 
 I'm pursuing my Master's degree in Transport and Geoinformation Technology at [KTH](https://www.kth.se/en). I completed my Bachelor's degree in Civil Engineering at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm a dancer with experience in stage choreography and freestyle battles.
 
-Currently, I am actively seeking opportunities in research or industry after my master's. I am specifically interested in spatial infrastructure systems modeling under real-world constraints.
+Currently, I am actively seeking job opportunities in academy or industry for my postgraduates: PhD student, junior analyst, junior data engineer, etc. Not limited in any specific field, I am interested in spatial infrastructure systems modeling under real-world constraints.
+
+I am self-motivated and easy to communicate with. I am capable of both team and independent work, and maintain good stability under high pressure and criticism.
 
 ## Education
 
