@@ -11,6 +11,7 @@ redirect_from:
 
 I'm pursuing my Master's degree in Transport and Geoinformation Technology at [KTH](https://www.kth.se/en). I completed my Bachelor's degree in Civil Engineering at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm a dancer with experience in stage choreography and freestyle battles.
 
+Currently, I am actively seeking opportunities in research or industry after my master's. I am specifically interested in spatial infrastructure systems modeling under real-world constraints.
 
 ## Education
 
@@ -51,18 +52,15 @@ I'm pursuing my Master's degree in Transport and Geoinformation Technology at [K
 
 Thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden.
 
--	Electrification freight network optimization for infrastructure planning (MIP, Gurobi).
--	Data mining and energy demand time-serial prediction (PyTorch).
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
 *2025.11 - 2025.02 | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma*
 
 Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services
 
+- Research question: whether, or to what extend does the operated on-time performance KPI reflect passenger-perceived reliability?
 -	Data mining from public transport operational data (GTFS, Python, PostgreSQL).
--	An adaptable approach for public transport service reliability assessment.
--	Proposed new regularity-based KPI for Stockholm based on case studies (representative regions in the UK, Europe, and Australia), preliminary pilot projects, and practical knowledge in Sweden.
--	Multidimensional correlation analysis for validation.
+-	PT (public transport) contract and service reliability KPI study.
 
 ### [Digital Futures](https://www.digitalfutures.kth.se/)
 *2025.06 - 2025.08 | Stockholm, Sweden | Summer Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma*
@@ -77,14 +75,14 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 
 ### Innovation Center Asia, Volkswagen Group China
 *2024.01 - 2024.07 | Beijing, China | R&D Intern*
--	The production of “University Map” report: Academic review, technical updates, and research focus about power electronics (SiC, GaN) in recognized institutes in China.
+-	Production of “University Map” report: Academic review, technical updates, and research focus about power electronics (SiC, GaN) in recognized institutes in China.
 -	Assisted in the communication with the potential cooperators (professors / research group).
 -	Designed and conducted user experience study for the new prototype test drive.
 
 ### Innovation Center PACE, Tongji University
 *2022 - 2024 | Shanghai, China | Student Leadership Board Memeber*
 
-Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI (NDA)
+NDA Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI
 
 -	Project description: Developing multimodal interaction concepts and envisioning usage scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
 -	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) meetings and presentations with the sponsors and supervisors.
