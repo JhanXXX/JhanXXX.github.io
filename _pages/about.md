@@ -18,13 +18,13 @@ I am self-motivated and easy to communicate with. I am capable of both team and 
 ## Education
 
 ### KTH Royal Institute of Technology (2024-08 - 2026-08), Stockholm, Sweden
-- **Degree**: Master of Science (Transport and Geoinformation Technology)
+- **Degree**: Master of Science (Transport and Geoinformation Technology) (GPA: 93.34)
 - **Core modules**: GIS and Spatial Analysis, Applied AI in Transport and GeoAI, Logistics, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
 - **Honor**: KTH Scholarship (SEK 360,000.00)
   
 ### Tongji University (2019-09 - 2024-07), Shanghai, China
-- **Degree**: Bachelor of Engineering (Civil Engineering); Minor in Artificial Intelligence, German
+- **Degree**: Bachelor of Engineering (Civil Engineering) (GPA: 86.45); Minor in Artificial Intelligence, German
 - **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
 - **Honor**: 数学建模国赛上海赛区二等奖、全国大学生建模统计大赛上海赛区二等奖；校级三等奖学金，社会实践活动奖学金
