@@ -27,7 +27,7 @@ I am self-motivated and easy to communicate with. I am capable of both team and 
 - **Degree**: Bachelor of Engineering (Civil Engineering) (GPA: 86.45); Minor in Artificial Intelligence, German
 - **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
-- **Honor**: 数学建模国赛上海赛区二等奖、全国大学生建模统计大赛上海赛区二等奖；校级三等奖学金，社会实践活动奖学金
+- **Honor**: 数学建模国赛上海赛区二等奖、全国大学生建模统计大赛上海赛区二等奖；Dean's Scholarship，Social Engagement Scholarship
 
 ## Skills
 
