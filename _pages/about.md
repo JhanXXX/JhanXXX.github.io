@@ -17,7 +17,7 @@ I am self-motivated and easy to communicate with. I am capable of both team and 
 
 ## Education
 
-### KTH Royal Institute of Technology (2024-08 - 2026-08), Stockholm, Sweden
+### KTH Royal Institute of Technology (2024-08 - 2026-07), Stockholm, Sweden
 - **Degree**: Master of Science (Transport and Geoinformation Technology) (GPA: 93.34)
 - **Core modules**: GIS and Spatial Analysis, Applied AI in Transport and GeoAI, Logistics, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
@@ -50,7 +50,7 @@ I am self-motivated and easy to communicate with. I am capable of both team and 
 ## Professional Experiences and Projects
 
 ### [WSP](https://www.wsp.com/en-gl)
-*2026.02 - 2026.08 | Stockholm, Sweden | Degree Project Intern*
+*2026.02 - 2026.06 | Stockholm, Sweden | Degree Project Intern*
 
 *Academic Supervisors: Prof. Gyözö Gidofalvi, Prof. Zhenliang Ma*
 
