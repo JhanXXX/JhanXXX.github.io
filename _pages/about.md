@@ -50,9 +50,7 @@ I am self-motivated and easy to communicate with. I am capable of both team and 
 ## Professional Experiences and Projects
 
 ### [WSP](https://www.wsp.com/en-gl)
-*2026.02 - 2026.06 | Stockholm, Sweden | Degree Project Intern*
-
-*Academic Supervisors: Prof. Gyözö Gidofalvi, Prof. Zhenliang Ma*
+*2026.02 - 2026.06 | Stockholm, Sweden | Degree Project Intern | Academic Supervisors: Prof. Gyözö Gidofalvi, Prof. Zhenliang Ma*
 
 Thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden.
 
