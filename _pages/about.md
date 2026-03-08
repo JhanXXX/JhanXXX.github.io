@@ -73,8 +73,6 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 -	Machine learning pipeline (Docker): feature engineering, fine-tunning, transfer learning, performance assessment, model deployment and explainability analysis (PyTorch, SHAP, attention map).
 -	Compared among CNN, GNN, assembly models, linear regression.
 
-*[Coding Repository](https://github.com/JhanXXX/GVI_estimation_from_satellite)*
-
 ### Innovation Center Asia, Volkswagen Group China
 *2024.01 - 2024.07 | Beijing, China | R&D Intern*
 -	Production of “University Map” report: Academic review, technical updates, and research focus about power electronics (SiC, GaN) in recognized institutes in China.
@@ -92,24 +90,3 @@ NDA Funded project: Prospective Research on Human-Machine Interaction (HMI) in I
 ### Mathart Systems Co., Ltd. (上海数策软件股份有限公司)
 *2022.01 - 2022.04 | Shanghai | Algorithm Engineer Intern*
 - Coding for integer programming and heuristic algorithm modules (Cplex, Python OOD).
-
-
-## Selected Course Projects
-
-
-### Public Transport Delay Propagation Analysis: A Causal Inference Experiment
-*Course Project (Grade: 50/50), Individual Work | Sep 2025 - Oct 2025*
-
--	Causal inference methodology comparison for delay propagation in public transport: regression adjustment, generalized propensity score, doubly robust estimation.
--	Mobility data modeling and management: GTFS Realtime feeds, python, SQLite3.
-
-*Please feel free to reach out if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/pt_delay_propagation/tree/main)*
-
-
-### An AI-Based Automated Green Path Navigator & Green View Database
-*Course Project (Grade: A), Individual Work | Sep 2025 - Oct 2025 | Examiner/Supervisor: Prof. Gyözö Gidofalvi*
-
--	A full-stack AI-based Web GIS application: pretrained AI model, multi-modal and complex spatial data management, route planning with self-defined parameters and real-time public transport APIs.
--	Tech Stack: React, Node.js, Python (FastAPI, PyTorch), PostgreSQL/PostGIS, Docker, Mapbox GL JS, Microsoft Planetary Computer APIs, GTFS/Real-time Transit APIs.
-
-*Please feel free to reach out if you'd like to read the report. [Coding Repository](https://github.com/JhanXXX/webGIS_for_GVI/tree/main)*
