@@ -34,7 +34,7 @@ I am self-motivated and easy to communicate with. I am capable of both team and 
 -	**AI and data analysis**: Python (PyTorch / NumPy / Pandas / Scikit-learn)
 -	**Spatial analysis and GIS**: Geovisualization (ArcGIS Pro, QGIS), spatial database (PostgreSQL, PostGIS)
 -	**Operational research**: Mixed integer planning, network and transport flow modeling
-- **Language**:	English (fluent, IELTS 8.0 / C1),	Mandarin (native speaker),	German & French (beginner, 大学德语六级&法语四级 / ~A2)
+- **Language**:	English (fluent, IELTS 8.0 / C1),	Mandarin (native speaker),	German (basic communication, 大学德语六级 / ~A2-B1), French (beginner, 大学法语四级 / ~A2)
 
 
 
