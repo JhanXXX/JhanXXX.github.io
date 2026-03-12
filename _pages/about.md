@@ -73,7 +73,7 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 -	Machine learning pipeline (Docker): feature engineering, fine-tunning, transfer learning, performance assessment, model deployment and explainability analysis (PyTorch, SHAP, attention map).
 -	Compared among CNN, GNN, assembly models, linear regression.
 
-### Innovation Center Asia, Volkswagen Group China
+### Innovation Center Asia, Volkswagen Group (China)
 *2024.01 - 2024.07 | Beijing, China | R&D Intern*
 -	Production of “University Map” report: Academic review, technical updates, and research focus about power electronics (SiC, GaN) in recognized institutes in China.
 -	Assisted in the communication with the potential cooperators (professors / research group).
