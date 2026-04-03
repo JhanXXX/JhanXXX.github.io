@@ -25,7 +25,7 @@ Outside of academics, I'm a dancer with experience in stage choreography and fre
   
 ### Tongji University (2019-09 - 2024-07), Shanghai, China
 - **Degree**: Bachelor of Engineering (Civil Engineering) (GPA: 86.45)
-- **Minor**: Artificial Intelligence (2021-2023, part-time); German language program (2020-2021, full-time)
+- **Minor (微专业)**: Artificial Intelligence (2021-2023, part-time); German language program (2020-2021, full-time)
 - **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
 - **Honor**: 数学建模国赛上海赛区二等奖、全国大学生建模统计大赛上海赛区二等奖；Dean's Scholarship，Social Engagement Scholarship
