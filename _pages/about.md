@@ -9,11 +9,11 @@ redirect_from:
 
 ## About Me
 
-I'm pursuing my Master's degree in Transport and Geoinformation Technology at [KTH](https://www.kth.se/en). I completed my Bachelor's degree in Civil Engineering at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions.
+I'm expected to receive Master's degree in Transport and Geoinformation Technology from [KTH](https://www.kth.se/en) in 2026 July/August. I completed my Bachelor's degree in Civil Engineering at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Not limited in a specific field, I am interested in spatial and network/flow-based infrastructure/logistics system modeling, decision-making under uncertainties, and nature-based solutions. 
 
-Currently, I am actively seeking opportunities in PhD studies for my postgraduates. Not limited in any specific field, I am interested in spatial and network/flow-based infrastructure system modeling under real-world constraints, decision-making under uncertainties, and nature-based solutions.
+I am punctual, self-motivated and easy to get along with. I am capable of both team and independent jobs, and handling pressure & criticism.
 
-I am self-motivated and easy to communicate with. I am capable of both team and independent work, and maintaining good stability under high pressure and criticism.
+Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm also interested in film & theatre arts, linguistics, video games, and music.
 
 ## Education
 
