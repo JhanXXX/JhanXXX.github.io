@@ -21,10 +21,11 @@ Outside of academics, I'm a dancer with experience in stage choreography and fre
 - **Degree**: Master of Science (Transport and Geoinformation Technology) (GPA: 93.34)
 - **Core modules**: GIS and Spatial Analysis, Applied AI in Transport and GeoAI, Logistics, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
-- **Honor**: KTH Scholarship (SEK 360,000.00)
+- **Honor**: KTH Scholarship (SEK 360,000.00; the only awardee of the study program)
   
 ### Tongji University (2019-09 - 2024-07), Shanghai, China
-- **Degree**: Bachelor of Engineering (Civil Engineering) (GPA: 86.45); Minor in Artificial Intelligence, German
+- **Degree**: Bachelor of Engineering (Civil Engineering) (GPA: 86.45)
+- **Minor**: Artificial Intelligence (2021-2023, part-time); German language program (2020-2021, full-time)
 - **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
 - **Honor**: 数学建模国赛上海赛区二等奖、全国大学生建模统计大赛上海赛区二等奖；Dean's Scholarship，Social Engagement Scholarship
