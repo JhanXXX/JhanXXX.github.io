@@ -29,7 +29,7 @@ Outside of academics, I'm a dancer with experience in stage choreography and fre
 - **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
 - **Honor**: 数学建模国赛上海赛区二等奖、全国大学生建模统计大赛上海赛区二等奖；Dean's Scholarship，Social Engagement Scholarship
-- **Entrance grade**: 666/750 (Rank: 550-600), Chongqing City, 2019
+- **Entrance grade**: 666/750 (Rank: 550-600/~126k; Chongqing City, 2019)
 
 ## Skills
 
