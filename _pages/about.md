@@ -35,7 +35,8 @@ Outside of academics, I'm a dancer with experience in stage choreography and fre
 
 -	**AI and data analysis**: Python (PyTorch / NumPy / Pandas / Scikit-learn)
 -	**Spatial analysis and GIS**: Geovisualization (ArcGIS Pro, QGIS), spatial database (PostgreSQL, PostGIS)
--	**Operational research**: Mixed integer planning, network and transport flow modeling
+-	**Software engineering**: Docker (containerized full-stack development, for web service deployment and research project pipeline), Qt6 (standalone software service), Streamlit (python for frontend and light-weighted service), SQLite3 and PostSQL (integrated DBMS for web/local data service)
+-	**Operational research**: Mixed integer planning, graph-based (flow) modeling
 - **Language**:	English (fluent, IELTS 8.0 / C1),	Mandarin (native speaker),	German (basic communication, 大学德语六级 / ~A2-B1), French (beginner, 大学法语四级 / ~A2)
 
 
