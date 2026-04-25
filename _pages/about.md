@@ -11,9 +11,9 @@ redirect_from:
 
 I'm expected to receive Master's degree in Transport and Geoinformation Technology from [KTH](https://www.kth.se/en) in 2026 July/August. I completed my Bachelor's degree in Civil Engineering at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Not limited in a specific field, I am interested in spatial and network/flow-based infrastructure/logistics system modeling, decision-making under uncertainties, and nature-based solutions. 
 
-I am punctual, self-motivated and easy to get along with. I am capable of both team and independent jobs, and handling pressure & criticism.
+I am punctual, self-motivated and easy to get along with. I am capable of both team and independent work, and handling pressure & criticism.
 
-Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm also interested in film & theatre arts, linguistics, video games, and music.
+Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm broadly interested in film & theatre arts, linguistics, video games, and music.
 
 ## Education
 
@@ -29,7 +29,7 @@ Outside of academics, I'm a dancer with experience in stage choreography and fre
 - **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
 - **Honor**: 数学建模国赛上海赛区二等奖、全国大学生建模统计大赛上海赛区二等奖；Dean's Scholarship，Social Engagement Scholarship
-- **Entrance grade**: 666/750 (Rank: 550-600/~126k; Chongqing City, 2019)
+- **Entrance grade**: 666/750 (Rank: 550-600/~126k; Chongqing, 2019)
 
 ## Skills
 
@@ -79,7 +79,7 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 ### Innovation Center Asia, Volkswagen Group (China)
 *2024.01 - 2024.07 | Beijing, China | R&D Intern*
 -	Production of “University Map” report: Academic review, technical updates, and research focus about power electronics (SiC, GaN) in recognized institutes in China.
--	Assisted in the communication with the potential cooperators (professors / research group).
+-	Assisted in the communication with the potential cooperators (research groups).
 -	Designed and conducted user experience study for the new prototype test drive.
 
 ### Innovation Center PACE, Tongji University
@@ -92,4 +92,4 @@ NDA Funded project: Prospective Research on Human-Machine Interaction (HMI) in I
 
 ### Mathart Systems Co., Ltd. (上海数策软件股份有限公司)
 *2022.01 - 2022.04 | Shanghai | Algorithm Engineer Intern*
-- Coding for integer programming and heuristic algorithm modules (Cplex, Python OOD).
+- Coding for integer programming and heuristic algorithm modules (Cplex, pyomo).
