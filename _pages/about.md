@@ -53,19 +53,25 @@ Outside of academics, I'm a dancer with experience in stage choreography and fre
 ## Professional Experiences and Projects
 
 ### A&S Trafikprognos & Dataanalys, [WSP](https://www.wsp.com/en-gl)
-*2026.02 - 2026.06 | Stockholm, Sweden | Degree Project Intern | Academic Supervisors: Prof. Gyözö Gidofalvi, Prof. Zhenliang Ma*
+*2026.02 - 2026.06 | Stockholm, Sweden | Degree Project Intern | Academic Supervisors: Prof. Zhenliang Ma, Prof. Gyözö Gidofalvi*
 
-Thesis project: Planning and Optimization of Charging Infrastructure for Electric Trucks along the TEN-T Network in Sweden.
+Thesis project: Planning Heavy-Duty Charging Infrastructure along Sweden's TEN-T Network: A Network-Distance Audit and Pareto-Based Candidate Selection
+- AFIR 2027 obligations audit for heavy-duty fast charging facilities on Sweden's TEN-T.
+- Network topology, flow demand, and operational simulation to locate critical segments.
+- Pareto front-based method for new charging site candidates recommendation to close the spatial gap under AFIR 2030 targets.
+- Strategic planning perspective, land-use disturbance, and grid substation proximity as optimal variants.
+
 
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
 *2025.11 - 2025.02 | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma*
 
-Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services
+Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services.
 
-- Research question: whether, or to what extend does the operated on-time performance KPI reflect passenger-perceived reliability?
+- Research question: Whether, or to what extend does the operated on-time performance KPI reflect passenger-perceived reliability?
 -	Data mining from public transport operational data (GTFS, Python, PostgreSQL).
--	PT (public transport) contract and service reliability KPI study.
+-	PT (public transport) contract and service reliability KPI system study.
+-	Workshop with sponsors and experts to discuss the opportunities, trade-offs, and future studies for transerring research results to practices in PT contracting and incentive-based PT service reliability improvements.
 
 ### [Digital Futures](https://www.digitalfutures.kth.se/)
 *2025.06 - 2025.08 | Stockholm, Sweden | Summer Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma*
@@ -85,7 +91,7 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 ### Innovation Center PACE, Tongji University
 *2022 - 2024 | Shanghai, China | Student Leadership Board Memeber*
 
-NDA Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI
+NDA Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI.
 
 -	Project description: Developing multimodal interaction concepts and envisioning usage scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
 -	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) meetings and presentations with the sponsors and supervisors.
