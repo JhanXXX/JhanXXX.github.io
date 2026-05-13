@@ -52,6 +52,11 @@ Outside of academics, I'm a dancer with experience in stage choreography and fre
 
 ## Professional Experiences and Projects
 
+### MIT-UF-NEU 2026 Joint Summer Research Camp
+*2026.05 - 2026.09 | Online | Research Student | Supervisor: Dr. Dingyi Zhuang*
+
+
+
 ### A&S Trafikprognos & Dataanalys, [WSP](https://www.wsp.com/en-gl)
 *2026.02 - 2026.06 | Stockholm, Sweden | Degree Project Intern | Academic Supervisors: Prof. Zhenliang Ma, Prof. Gyözö Gidofalvi*
 
