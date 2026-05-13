@@ -53,7 +53,7 @@ Outside of academics, I'm a dancer with experience in stage choreography and fre
 ## Professional Experiences and Projects
 
 ### MIT-UF-NEU 2026 Joint Summer Research Camp
-*2026.05 - 2026.09 | Online | Research Student | Supervisor: Dr. Dingyi Zhuang*
+*2026.05 - 2026.09 | Online | Graduate Student Researcher | Supervisor: Dr. Dingyi Zhuang*
 
 
 
