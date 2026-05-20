@@ -43,15 +43,11 @@ Outside of academics, I'm a dancer with experience in stage choreography and fre
 
 ## Publications
 
-[1] **J. Xu**, Y. Ling, Z. Ma; *A Generalizable Urban Green View Index Estimation Method from Satellite Imagery*; Transportation Research Record (Transferred from TRB Annual; Under Review).
-
-[2] **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
-
-[3] Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
-
-[4] **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
-
-[5] Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
+- [1] **J. Xu**, Y. Ling, Z. Ma; *A Generalizable Urban Green View Index Estimation Method from Satellite Imagery*; Transportation Research Record (Transferred from TRB Annual; Under Review).
+- [2] **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
+- [3] Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
+- [4] **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
+- [5] Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
 
 
 
