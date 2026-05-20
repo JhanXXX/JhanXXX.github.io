@@ -52,10 +52,8 @@ Outside of academics, I'm a dancer with experience in stage choreography and fre
 
 ## Professional Experiences and Projects
 
-### Massachusetts Institute of Technology
-*2026.05 - 2026.09 | Remote | Summer Research Student | Supervisor: Dr. Dingyi Zhuang*
-
-MIT-UF-NEU 2026 Joint Summer Research Camp
+### Massachusetts Institute of Technology | MIT-UF-NEU 2026 Joint Summer Research Camp
+*2026.05 - 2026.09 | Remote | Summer Research Student | Supervisor: Dr. Dingyi Zhuang (MIT)*
 
 Research topic: TBD
 
@@ -71,7 +69,7 @@ Thesis project: Planning Heavy-Duty Charging Infrastructure along Sweden's TEN-T
 
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
-*2025.11 - 2026.02 | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma*
+*2025.11 - 2026.02 | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma ｜ Funder: K2 Swedish National Center for Public Transport*
 
 Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services.
 
@@ -80,8 +78,8 @@ Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs
 -	PT (public transport) contract and service reliability KPI system study.
 -	Workshop with sponsors and experts to discuss the opportunities, trade-offs, and future studies for transerring research results to practices in PT contracting and incentive-based PT service reliability improvements.
 
-### [Digital Futures](https://www.digitalfutures.kth.se/)
-*2025.06 - 2025.08 | Stockholm, Sweden | Summer Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma*
+### [Digital Futures](https://www.digitalfutures.kth.se/) Summer Research Program
+*2025.06 - 2025.08 | Stockholm, Sweden | Summer Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma | Funder: Digital Futures*
 
 Funded research: Estimating Green View Index from Satellite Imagery Using Explainable Machine Learning
 
@@ -99,9 +97,9 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
   
 
 ### Innovation Center PACE, Tongji University
-*2022 - 2024 | Shanghai, China | Student Leadership Board Memeber*
+*2022 - 2024 | Shanghai, China | Student Leadership Board Memeber | Funder: Non-Disclosure Agreement*
 
-NDA Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI.
+Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI.
 
 -	Project description: Developing multimodal interaction concepts and envisioning usage scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
 -	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) meetings and presentations with the sponsors and supervisors.
