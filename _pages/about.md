@@ -42,11 +42,11 @@ Outside of academics, I'm a dancer with experience in stage choreography and fre
 
 
 ## Publications
-- **J. Xu**, Y. Ling, Z. Ma; *A Generalizable Urban Green View Index Estimation Method from Satellite Imagery*; Transportation Research Record (Transferred from TRB Annual; Under Review).
-- **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
-- Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
-- **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
-- Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
+[1] **J. Xu**, Y. Ling, Z. Ma; *A Generalizable Urban Green View Index Estimation Method from Satellite Imagery*; Transportation Research Record (Transferred from TRB Annual; Under Review).
+[2] **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
+[3] Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
+[4] **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
+[5] Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
 
 
 
@@ -86,7 +86,7 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 -	Data mining from satellite imagery (Sentinel-2, Python).
 -	Machine learning pipeline (Docker): feature engineering, fine-tunning, transfer learning, performance assessment, model deployment and explainability analysis (PyTorch, SHAP, attention map).
 -	Compared among CNN, GNN, assembly models, linear regression.
--	Project publication: Transport Research Record (J), TRB Annual 2026 (Conf., poster), STRC2025 (Conf., oral).
+-	Project publication: [1][2][4].
 
 
 ### Innovation Center Asia, Volkswagen Group (China)
@@ -103,6 +103,7 @@ Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intel
 
 -	Project description: Developing multimodal interaction concepts and envisioning usage scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
 -	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) meetings and presentations with the sponsors and supervisors.
+-	Project publication: [5]
 
 
 ### Mathart Systems Co., Ltd. (上海数策软件股份有限公司)
