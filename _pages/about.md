@@ -71,7 +71,7 @@ Thesis project: Planning Heavy-Duty Charging Infrastructure along Sweden's TEN-T
 
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
-*2025.11 - 2025.02 | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma*
+*2025.11 - 2026.02 | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma*
 
 Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services.
 
@@ -88,12 +88,15 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 -	Data mining from satellite imagery (Sentinel-2, Python).
 -	Machine learning pipeline (Docker): feature engineering, fine-tunning, transfer learning, performance assessment, model deployment and explainability analysis (PyTorch, SHAP, attention map).
 -	Compared among CNN, GNN, assembly models, linear regression.
+-	Project publication: Transport Research Record (J), TRB Annual 2026 (Conf., poster), STRC2025 (Conf., oral).
+
 
 ### Innovation Center Asia, Volkswagen Group (China)
 *2024.01 - 2024.07 | Beijing, China | R&D Intern*
 -	Production of “University Map” report: Academic review, technical updates, and research focus about power electronics (SiC, GaN) in recognized institutes in China.
 -	Assisted in the communication with the potential cooperators (research groups).
 -	Designed and conducted user experience study for the new prototype test drive.
+  
 
 ### Innovation Center PACE, Tongji University
 *2022 - 2024 | Shanghai, China | Student Leadership Board Memeber*
@@ -102,6 +105,7 @@ NDA Funded project: Prospective Research on Human-Machine Interaction (HMI) in I
 
 -	Project description: Developing multimodal interaction concepts and envisioning usage scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
 -	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) meetings and presentations with the sponsors and supervisors.
+
 
 ### Mathart Systems Co., Ltd. (上海数策软件股份有限公司)
 *2022.01 - 2022.04 | Shanghai | Algorithm Engineer Intern*
