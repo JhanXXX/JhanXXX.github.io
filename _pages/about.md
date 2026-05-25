@@ -61,33 +61,32 @@ Research topic: TBD
 ### A&S Trafikprognos & Dataanalys, [WSP](https://www.wsp.com/en-gl)
 *2026.02 - 2026.06 | Stockholm, Sweden | Degree Project Intern | Academic Supervisors: Prof. Zhenliang Ma, Prof. Gyözö Gidofalvi*
 
-Thesis project: Planning Heavy-Duty Charging Infrastructure along Sweden's TEN-T Network: A Network-Distance Audit and Pareto-Based Candidate Selection
-- AFIR 2027 obligations audit for heavy-duty fast charging facilities on Sweden's TEN-T.
-- Network topology, flow demand, and operational simulation to locate critical segments.
-- Pareto front-based method for new charging site candidates recommendation to close the spatial gap under AFIR 2030 targets.
-- Strategic planning perspective, land-use disturbance, and grid substation proximity as optimal variants.
+Thesis project: Planning Heavy-Duty Charging Infrastructure along Sweden's TEN-T Network: A Network-Distance Audit and Pareto-Based Candidate Selection.
 
-
+-	Strategic infrastructure planning for opportunity en-route high-power charging.
+-	(1) Baseline analysis for AFIR 2027/2030 target appliance. (2) Pareto frontier method for new charging station site assessment, driven by land-use friction. (3) An end-to-end multi-source spatial analysis framework, narrowing the infinite and continuous planning space down to prioritized limited point sets.
+-	Publication: in preparation.
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
 *2025.11 - 2026.02 | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma ｜ Funder: K2 Swedish National Center for Public Transport*
 
 Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services.
 
-- Research question: Whether, or to what extend does the operated on-time performance KPI reflect passenger-perceived reliability?
--	Data mining from public transport operational data (GTFS, Python, PostgreSQL).
--	PT (public transport) contract and service reliability KPI system study.
--	Workshop with sponsors and experts to discuss the opportunities, trade-offs, and future studies for transerring research results to practices in PT contracting and incentive-based PT service reliability improvements.
+-	Contract rewarding mechanism and policy study: representative regions in the UK, Europe, and Australia.
+-	Leading and organizing workshop and brainstorm session with experts from academy and industry.
+-	Quantitative analysis on reliability KPIs for bus services in Stockholm based on operational data; trade-offs and challenges for moving from research result to practice and implementation.
+-	Publication: in preparation.
+
 
 ### [Digital Futures](https://www.digitalfutures.kth.se/) Summer Research Program
 *2025.06 - 2025.08 | Stockholm, Sweden | Summer Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma | Funder: Digital Futures*
 
 Funded research: Estimating Green View Index from Satellite Imagery Using Explainable Machine Learning
 
--	Data mining from satellite imagery (Sentinel-2, Python).
--	Machine learning pipeline (Docker): feature engineering, fine-tunning, transfer learning, performance assessment, model deployment and explainability analysis (PyTorch, SHAP, attention map).
+-	Feature engineering from open-source satellite imagery (Sentinel-2).
+-	Machine learning pipeline: containerized development, fine-tunning, model assessment, deployment and explainability analysis (PyTorch, SHAP, attention map).
 -	Compared among CNN, GNN, assembly models, linear regression.
--	Project publication: [1][2][4].
+-	Publication: [1][2][4].
 
 
 ### Innovation Center Asia, Volkswagen Group (China)
@@ -98,15 +97,23 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
   
 
 ### Innovation Center PACE, Tongji University
-*2022 - 2024 | Shanghai, China | Student Leadership Board Memeber | Funder: Non-Disclosure Agreement*
+*2022 - 2024 | Shanghai, China | Project Manager and Leadership Board Memeber | Funder: Non-Disclosure Agreement*
 
 Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI.
 
--	Project description: Developing multimodal interaction concepts and envisioning usage scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
--	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) meetings and presentations with the sponsors and supervisors.
--	Project publication: [5]
+-	Project description: Developing multimodal interaction concepts and envisioning user scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
+-	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured user interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) executing meetings and presentation report with funders.
+-	Publication: [5]
 
 
 ### Mathart Systems Co., Ltd. (上海数策软件股份有限公司)
 *2022.01 - 2022.04 | Shanghai | Algorithm Engineer Intern*
 - Coding for integer programming and heuristic algorithm modules (Cplex, pyomo).
+
+
+
+## Academic referees
+
+- Prof. Zhenliang Ma, KTH Royal Institution of Technology
+- Prof. Qing Jia, Tongji University
+
