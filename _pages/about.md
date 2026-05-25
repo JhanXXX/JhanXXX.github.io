@@ -9,26 +9,24 @@ redirect_from:
 
 ## About Me
 
-I'm expected to receive Master's degree in Transport and Geoinformation Technology from [KTH](https://www.kth.se/en) in 2026 July/August. I completed my Bachelor's degree in Civil Engineering at [Tongji University](https://en.tongji.edu.cn/p/#/), where I also undertook a one-year German language program and completed a minor in Artificial Intelligence. Not limited in a specific field, I am interested in spatial and network/flow-based infrastructure/logistics system modeling, decision-making under uncertainties, and nature-based solutions. 
+I'm expected to receive Master's degree in Transport and Geoinformation Technology from [KTH](https://www.kth.se/en) in 2026 July/August. I completed my Bachelor's degree in Civil Engineering at [Tongji University](https://en.tongji.edu.cn/p/#/), with two minors: German language, and Artificial Intelligence. I am broadly interested in AI-driven geospatial analysis, network/flow-based infrastructure/logistics modeling, and data-driven decision-making under uncertainties. 
 
-I am punctual, self-motivated and easy to get along with. I am capable of both team and independent work, and handling pressure & criticism.
-
-Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm broadly interested in film & theatre arts, linguistics, video games, and music.
+I am a faster learner, punctual, self-motivated and easy to get along with. I am capable of both team and independent work, and handling pressure & criticism. Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm broadly interested in film & theatre arts, linguistics, video games, and music.
 
 ## Education
 
 ### KTH Royal Institute of Technology (2024-08 - 2026-06), Stockholm, Sweden
 - **Degree**: Master of Science (Transport and Geoinformation Technology) (GPA: 93.34)
-- **Core modules**: GIS and Spatial Analysis, Applied AI in Transport and GeoAI, Logistics, Statistical Learning
+- **Core modules**: GIS Development, Spatial Analysis, Machine Learning and GeoAI, Transport Modeling, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
 - **Honor**: KTH Scholarship (SEK 360,000.00; the only awardee of the study program for 2024 intake)
   
 ### Tongji University (2019-09 - 2024-07), Shanghai, China
-- **Degree**: Bachelor of Engineering (Civil Engineering) (GPA: 86.45)
+- **Degree**: Bachelor of Engineering (Civil Engineering) (GPA: 86.45; Top 30%)
 - **Minor (微专业)**: Artificial Intelligence (2021-2023, part-time); German language program (2020-2021, full-time)
 - **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
-- **Honor**: 数学建模国赛上海赛区二等奖、全国大学生建模统计大赛上海赛区二等奖；Dean's Scholarship，Social Engagement Scholarship
+- **Honor**: Runner-up in National Mathematical Modeling Competition (Shanghai) (数学建模国赛上海二等奖); Runner-up in National Statistical Modeling Competition (Shanghai) (全国大学生建模统计大赛上海二等奖)；Dean's Scholarship (同济大学校级奖学金); Social Engagement Scholarship (同济大学社会实践奖学金)
 - **Entrance grade**: 666/750 (Rank: 550-600/~126k; Chongqing, 2019)
 
 ## Skills
