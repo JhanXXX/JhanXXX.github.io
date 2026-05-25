@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-Hi! I received my Master's degree from [KTH](https://www.kth.se/en), and Bachelor's degree from [Tongji University](https://en.tongji.edu.cn/p/#/) (同济大学). I am broadly interested in AI-driven geospatial analysis, network/flow-based infrastructure/logistics modeling, and data-driven decision-making under uncertainties.
+Hi! I received my Master's degree from [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden, and Bachelor's degree from [Tongji University](https://en.tongji.edu.cn/p/#/) (同济大学) in China. I am broadly interested in AI-driven geospatial analysis, network/flow-based infrastructure/logistics modeling, and data-driven decision-making under uncertainties.
 
 I am a faster learner, punctual, self-motivated and easy to get along with. I am capable of both team and independent work, and handling pressure & criticism. Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm broadly interested in film & theatre arts, linguistics, video games, and music.
 
@@ -24,7 +24,7 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 - **Honor**: KTH Scholarship (360k SEK; the only awardee of the study program for 2024 intake)
   
 ### Tongji University (2019-09 - 2024-07), Shanghai, China
-- **Degree**: Bachelor of Engineering (Civil Engineering) (GPA: 86.45; Top 30%)
+- **Degree**: Bachelor of Engineering (Civil Engineering) (GPA: 86.45)
 - **Minor (微专业)**: Artificial Intelligence (2021-2023, part-time); German language program (2020-2021, full-time)
 - **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
