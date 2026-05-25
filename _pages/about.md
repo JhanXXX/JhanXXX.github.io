@@ -30,7 +30,7 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 - **Entrance grade**: 666/750 (Rank: 550-600/~126k; Chongqing, 2019)
 
 ## Skills
-
+- **Vibe coding**: Claude Code, CodeX
 -	**AI and data analysis**: Python (PyTorch / NumPy / Pandas / Scikit-learn)
 -	**Spatial analysis and GIS**: Geovisualization (ArcGIS Pro, QGIS), spatial database (PostgreSQL, PostGIS)
 -	**Software engineering**: Docker (containerized full-stack development, for web service deployment and research project pipeline), Qt6 (standalone software service), Streamlit (python for frontend and light-weighted service), SQLite3 and PostSQL (integrated DBMS for web/local data service)
