@@ -9,9 +9,11 @@ redirect_from:
 
 ## About Me
 
-I'm expected to receive Master's degree in Transport and Geoinformation Technology from [KTH](https://www.kth.se/en) in 2026 July/August. I completed my Bachelor's degree in Civil Engineering at [Tongji University](https://en.tongji.edu.cn/p/#/), with two minors: German language, and Artificial Intelligence. I am broadly interested in AI-driven geospatial analysis, network/flow-based infrastructure/logistics modeling, and data-driven decision-making under uncertainties. 
+Hi! I received my Master's degree from [KTH](https://www.kth.se/en), and Bachelor's degree from [Tongji University](https://en.tongji.edu.cn/p/#/) (同济大学). I am broadly interested in AI-driven geospatial analysis, network/flow-based infrastructure/logistics modeling, and data-driven decision-making under uncertainties.
 
 I am a faster learner, punctual, self-motivated and easy to get along with. I am capable of both team and independent work, and handling pressure & criticism. Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm broadly interested in film & theatre arts, linguistics, video games, and music.
+
+Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or 2027 Spring/Fall. I am also open for posistions in relevant industries.
 
 ## Education
 
