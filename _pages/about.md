@@ -19,7 +19,7 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 - **Degree**: Master of Science (Transport and Geoinformation Technology) (GPA: 93.34)
 - **Core modules**: GIS Development, Spatial Analysis, Machine Learning and GeoAI, Transport Modeling, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
-- **Honor**: KTH Scholarship (SEK 360,000.00; the only awardee of the study program for 2024 intake)
+- **Honor**: KTH Scholarship (360k SEK; the only awardee of the study program for 2024 intake)
   
 ### Tongji University (2019-09 - 2024-07), Shanghai, China
 - **Degree**: Bachelor of Engineering (Civil Engineering) (GPA: 86.45; Top 30%)
