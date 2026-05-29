@@ -117,3 +117,7 @@ Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intel
 - Prof. Zhenliang Ma, KTH Royal Institution of Technology
 - Prof. Qing Jia, Tongji University
 
+## Industrial referees
+
+- Lars Drageryd, WSP Sverige
+- Dr. Zhi Xu, Volkswagen Group (China)
