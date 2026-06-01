@@ -53,7 +53,7 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 
 ## Professional Experiences and Projects
 
-### Massachusetts Institute of Technology | MIT-UF-NEU 2026 Joint Summer Research Camp
+### JTL Urban Mobility Lab, MIT | MIT-UF-NEU 2026 Joint Summer Research Camp
 *2026.05 - 2026.09 | Remote | Summer Research Student | Supervisor: Dr. Dingyi Zhuang (MIT)*
 
 Research topic: TBD
