@@ -43,11 +43,15 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 
 ## Publications
 
-- [1] **J. Xu**, Y. Ling, Z. Ma; *A Generalizable Urban Green View Index Estimation Method from Satellite Imagery*; Transportation Research Record (Transferred from TRB Annual; Under Review).
-- [2] **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
-- [3] Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
-- [4] **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
-- [5] Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
+- [1] (2023) Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
+- [2] (2025) **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
+- [3] (2025) Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
+- [4] (2025) **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
+- [5] (2026) **J. Xu**, Y. Ling, Z. Ma; *A Generalizable Urban Green View Index Estimation Method from Satellite Imagery*; Transportation Research Record (Transferred from TRB Annual; Under Review).
+- [6] (2026) **J. Xu**, Z. Ma; *Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services*; Swedish Transport Research Conference (STRC2026)
+
+
+
 
 
 
@@ -75,7 +79,7 @@ Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs
 -	Contract rewarding mechanism and policy study: representative regions in the UK, Europe, and Australia.
 -	Leading and organizing workshop and brainstorm session with experts from academy and industry.
 -	Quantitative analysis on reliability KPIs for bus services in Stockholm based on operational data; trade-offs and challenges for moving from research result to practice and implementation.
--	Publication: in preparation.
+-	Publication: [6], in preparation.
 
 
 ### [Digital Futures](https://www.digitalfutures.kth.se/) Summer Research Program
@@ -86,7 +90,7 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
 -	Feature engineering from open-source satellite imagery (Sentinel-2).
 -	Machine learning pipeline: containerized development, fine-tunning, model assessment, deployment and explainability analysis (PyTorch, SHAP, attention map).
 -	Compared among CNN, GNN, assembly models, linear regression.
--	Publication: [1][2][4].
+-	Publication: [2][4][5].
 
 
 ### Innovation Center Asia, Volkswagen Group (China)
@@ -97,25 +101,31 @@ Funded research: Estimating Green View Index from Satellite Imagery Using Explai
   
 
 ### Innovation Center PACE, Tongji University
-*2022 - 2024 | Shanghai, China | Project Manager and Leadership Board Memeber | Funder: Non-Disclosure Agreement*
+*2022 - 2024 | Shanghai, China | Project Manager and Leadership Board Memeber | Supervisor: Prof. Qing Jia, Prof. Yanlong Li | Funder: Non-Disclosure Agreement*
 
 Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI.
 
 -	Project description: Developing multimodal interaction concepts and envisioning user scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
 -	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured user interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) executing meetings and presentation report with funders.
--	Publication: [5]
+-	Publication: [1]
 
+Other activities in the lab: 
+- Undergraduate student innovation projects: participation, leadership
+- IDEEA 2023 competition: participation and leadership
+- Group management, monthly meeting organization, etc.
+- Publication: [3]
 
 ### Mathart Systems Co., Ltd. (上海数策软件股份有限公司)
 *2022.01 - 2022.04 | Shanghai | Algorithm Engineer Intern*
-- Coding for integer programming and heuristic algorithm modules (Cplex, pyomo).
+- Coding and testing for integer programming and heuristic algorithm modules (Cplex, pyomo).
 
 
 
 ## Academic referees
 
-- Prof. Zhenliang Ma, KTH Royal Institution of Technology
-- Prof. Qing Jia, Tongji University
+- [Prof. Zhenliang Ma](https://www.kth.se/profile/zhema), Division of Transport Planning, KTH Royal Institution of Technology
+- [Prof. Győző Gidofalvi](https://www.kth.se/profile/gyozo), Division of Geoinformatics, KTH Royal Institution of Technology
+- Prof. Qing Jia, School of Automotive Studies, Tongji University
 
 ## Industrial referees
 
