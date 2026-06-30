@@ -57,6 +57,11 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 
 ## Professional Experiences and Projects
 
+### Parallel Driving R&D, Shanghai Hello Puhui Technology Co., Ltd (上海哈啰普惠科技有限公司)
+*2026.07 - | Shanghai | Algorithm Engineer Trainee*
+- LLM for heavy-tail event discovery and reasoning in L4 autonomous driving.
+- R&D of remote driving systems for connected vehicles (V2X).
+
 ### JTL Urban Mobility Lab, MIT | MIT-UF-NEU 2026 Joint Summer Research Camp
 *2026.05 - 2026.09 | Remote | Summer Research Student | Supervisor: Dr. Dingyi Zhuang (MIT)*
 
