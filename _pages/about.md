@@ -32,8 +32,8 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 - **Entrance grade**: 666/750 (Rank: 550-600/~126k; Chongqing, 2019)
 
 ## Skills
-- **Vibe coding**: Claude Code, CodeX
--	**AI and data analysis**: Python (PyTorch / NumPy / Pandas / Scikit-learn)
+- **Vibe coding**: Claude Code, CodeX, Cursor
+-	**AI and data analysis**: Python (Hyper-AI / Docker / PyTorch / NumPy / Pandas / Scikit-learn)
 -	**Spatial analysis and GIS**: Geovisualization (ArcGIS Pro, QGIS), spatial database (PostgreSQL, PostGIS)
 -	**Software engineering**: Docker (containerized full-stack development, for web service deployment and research project pipeline), Qt6 (standalone software service), Streamlit (python for frontend and light-weighted service), SQLite3 and PostSQL (integrated DBMS for web/local data service)
 -	**Operational research**: Mixed integer planning, graph-based (flow) modeling
@@ -59,9 +59,9 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 
 ### Parallel Driving R&D, Shanghai Hello Puhui Technology Co., Ltd (平行驾驶事业部，上海哈啰普惠科技有限公司)
 *2026.07 - present | Shanghai | Algorithm Engineer Trainee*
-- VLA R%D for L4 Robotaxi fleet.
-- Open-source model reproducity.
-- L4 Robotaxi failure scenario test case design and simulation Dojo development & implementation.
+- VLA R&D for L4 Robotaxi fleet.
+- Open-source model reproducity and fine-tuning.
+- L4 Robotaxi failure scenario test case design and simulation Dojo development & implementation (CARLA).
 
 ### JTL Urban Mobility Lab, MIT | MIT-UF-NEU 2026 Joint Summer Research Camp
 *2026.05 - 2026.09 | Remote | Summer Research Student | Supervisor: Dr. Dingyi Zhuang (MIT)*
