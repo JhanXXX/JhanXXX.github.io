@@ -59,14 +59,14 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 
 ### Parallel Driving R&D, Shanghai Hello Puhui Technology Co., Ltd (平行驾驶事业部，上海哈啰普惠科技有限公司)
 *2026.07 - present | Shanghai | Algorithm Engineer Trainee*
-- VLA R&D for L4 Robotaxi fleet.
-- Open-source model reproducity and fine-tuning.
+- VLA R&D for L4 Robotaxi (parallel driving and remote assistance).
+- Open-source model reproducity and fine-tuning for long-tail events.
 - L4 Robotaxi failure scenario test case design and simulation Dojo development & implementation (CARLA).
 
 ### JTL Urban Mobility Lab, MIT | MIT-UF-NEU 2026 Joint Summer Research Camp
 *2026.05 - 2026.09 | Remote | Summer Research Student | Supervisor: Dr. Dingyi Zhuang (MIT)*
 
-Research topic: Assessing Urban Mobility and Public-Transit Service Loss under Correlated Autonomous-Fleet Stoppages in Mixed Traffic.
+Research topic: TBD
 
 ### A&S Trafikprognos & Dataanalys, [WSP](https://www.wsp.com/en-gl)
 *2026.02 - 2026.06 | Stockholm, Sweden | Degree Project Intern | Academic Supervisors: Prof. Zhenliang Ma, Prof. Gyözö Gidofalvi*
