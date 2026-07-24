@@ -13,7 +13,7 @@ I received my Master's degree from [KTH Royal Institute of Technology](https://w
 
 I am a faster learner, punctual, self-motivated and easy to get along with. I am capable of both team and independent work, and handling pressure & criticism. Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm broadly interested in film & theatre arts, linguistics, video games, and music.
 
-Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or 2027 Spring/Fall. I am also open for posistions in relevant industries.
+Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or 2027 Spring/Fall. I am also open for positions in relevant industries.
 
 ## Education
 
@@ -57,7 +57,7 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 
 ## Professional Experiences and Projects
 
-### Parallel Driving R&D, Shanghai Hello Puhui Technology Co., Ltd (平行驾驶事业部，上海哈啰普惠科技有限公司)
+### Parallel Driving R&D, Shanghai Hello Puhui Technology Co., Ltd (平行驾驶研发部，上海哈啰普惠科技有限公司)
 *2026.07 - present | Shanghai | Algorithm Engineer Trainee*
 - VLA R&D for L4 Robotaxi (parallel driving and remote assistance).
 - Open-source model reproducity and fine-tuning for long-tail events.
