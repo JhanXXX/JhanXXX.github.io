@@ -17,7 +17,7 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 
 ## Education
 
-### KTH Royal Institute of Technology (2024-08 - 2026-06), Stockholm, Sweden
+### KTH Royal Institute of Technology (2024-08 - 2027-01), Stockholm, Sweden
 - **Degree**: Master of Science (Transport and Geoinformation Technology) (GPA: 93.34)
 - **Core modules**: GIS Development, Spatial Analysis, Machine Learning and GeoAI, Transport Modeling, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
