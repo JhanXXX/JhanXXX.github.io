@@ -1,4 +1,4 @@
----
+<img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/08ad70a5-a863-4ce3-a7b9-82b763e3ec1a" />---
 permalink: /
 title: "Jinghan Xu's academic portfolio"
 author_profile: true
@@ -17,9 +17,9 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 
 ## Education
 
-### KTH Royal Institute of Technology (2024-08 - 2027-01), Stockholm, Sweden
+### KTH Royal Institute of Technology (2024-08 - 2026-06), Stockholm, Sweden
 - **Degree**: Master of Science (Transport and Geoinformation Technology) (GPA: 93.34)
-- **Core modules**: GIS Development, Spatial Analysis, Machine Learning and GeoAI, Transport Modeling, Statistical Learning
+- **Core modules**: GIS Service Whole-Stack Development, Spatial Analysis, Machine Learning and GeoAI, Transport Modeling, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
 - **Honor**: KTH Scholarship (360k SEK; the only awardee of the study program for 2024 intake)
   
@@ -29,15 +29,15 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 - **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
 - **Honor**: Runner-up in National Mathematical Modeling Competition (Shanghai) (数学建模国赛上海二等奖); Runner-up in National Statistical Modeling Competition (Shanghai) (全国大学生建模统计大赛上海二等奖)；Dean's Scholarship (同济大学校级奖学金); Social Engagement Scholarship (同济大学社会实践奖学金)
-- **Entrance grade**: 666/750 (Rank: 550-600/~126k; Chongqing, 2019)
+- **Entrance grade**: 666/750 (Rank: 550-600/~126k; Chongqing Region, 2019)
 
 ## Skills
-- **Vibe coding**: Claude Code, CodeX, Cursor
--	**AI and data analysis**: Python (Hyper-AI / Docker / PyTorch / NumPy / Pandas / Scikit-learn)
--	**Spatial analysis and GIS**: Geovisualization (ArcGIS Pro, QGIS), spatial database (PostgreSQL, PostGIS)
--	**Software engineering**: Docker (containerized full-stack development, for web service deployment and research project pipeline), Qt6 (standalone software service), Streamlit (python for frontend and light-weighted service), SQLite3 and PostSQL (integrated DBMS for web/local data service)
+
+-	**AI development**: Cursor, Hyper-AI, Agent Pattern Development (LangChain / LangGraph / RAG / Prompt Engineering), Machine Learning (PyTorch / NumPy / Pandas / Scikit-learn).    
+-	**Software engineering**: Docker, Qt6/C++, SQL, MQTT, Python.
+-	**GIS and Spatial Analysis**: ArcGIS Pro, PostGIS/Postgres, SUMO.
 -	**Operational research**: Mixed integer planning, graph-based (flow) modeling
-- **Language**:	English (fluent, IELTS 8.0 / C1),	Mandarin (native speaker),	German (basic communication, 大学德语六级 / ~A2-B1), French (beginner, 大学法语四级 / ~A2)
+-	**Language**: English (Proficiency; IELTS 8.0); German (Beginner; University Band 6 / 大学德语六级); French (Beginner; University Band 4 / 大学法语四级); Mandarin (Native).
 
 
 
@@ -49,7 +49,6 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 - [4] (2025) **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
 - [5] (2026) **J. Xu**, Y. Ling, Z. Ma; *A Generalizable Urban Green View Index Estimation Method from Satellite Imagery*; Transportation Research Record (Transferred from TRB Annual; Under Review).
 - [6] (2026) **J. Xu**, Z. Ma; *Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services*; Swedish Transport Research Conference (STRC2026)
-
 
 
 
