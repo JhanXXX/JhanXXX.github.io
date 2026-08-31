@@ -1,11 +1,4 @@
-<img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/08ad70a5-a863-4ce3-a7b9-82b763e3ec1a" />---
-permalink: /
-title: "Jinghan Xu's academic portfolio"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 ## About Me
 
