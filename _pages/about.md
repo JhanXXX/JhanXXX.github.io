@@ -9,26 +9,24 @@ redirect_from:
 
 ## About Me
 
-I received my Master's degree from [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden, and Bachelor's degree from [Tongji University](https://en.tongji.edu.cn/p/#/) (同济大学) in China. I am broadly interested in AI-driven geospatial analysis, network/flow-based infrastructure/logistics modeling, and data-driven decision-making under uncertainties.
+I received MSc degree from [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden, and Bachelor's from [Tongji University](https://en.tongji.edu.cn/p/#/) (同济大学) in China. I am broadly interested in geospatial AI and digital solutions for reliable cyber-physical system..
 
 I am a faster learner, punctual, self-motivated and easy to get along with. I am capable of both team and independent work, and handling pressure & criticism. Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm broadly interested in film & theatre arts, linguistics, video games, and music.
-
-Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or 2027 Spring/Fall. I am also open for positions in relevant industries.
 
 ## Education
 
 ### KTH Royal Institute of Technology (2024-08 - 2026-06), Stockholm, Sweden
-- **Degree**: Master of Science (Transport and Geoinformation Technology) (GPA: 93.34)
+- **Degree**: Master of Science (Transport and Geoinformation Technology)
 - **Core modules**: GIS Service Whole-Stack Development, Spatial Analysis, Machine Learning and GeoAI, Transport Modeling, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
 - **Honor**: KTH Scholarship (360k SEK; the only awardee of the study program for 2024 intake)
   
 ### Tongji University (2019-09 - 2024-07), Shanghai, China
-- **Degree**: Bachelor of Engineering (Civil Engineering) (GPA: 86.45)
-- **Minor (微专业)**: Artificial Intelligence (2021-2023, part-time); German language program (2020-2021, full-time)
+- **Degree**: Bachelor of Engineering (Civil Engineering)
+- **Minor (微专业)**: Artificial Intelligence (2021-2023, part-time); German Language (2020-2021, full-time)
 - **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
-- **Honor**: Runner-up in National Mathematical Modeling Competition (Shanghai) (数学建模国赛上海二等奖); Runner-up in National Statistical Modeling Competition (Shanghai) (全国大学生建模统计大赛上海二等奖)；Dean's Scholarship (同济大学校级奖学金); Social Engagement Scholarship (同济大学社会实践奖学金)
+- **Honor**: Runner-up in National Mathematical Modeling Competition (数学建模国赛上海二等奖); Runner-up in National Statistical Modeling Competition (全国大学生建模统计大赛上海二等奖)；Excellent Undergraduate Scholarship (同济大学优秀本科生奖学金); Social Engagement Scholarship (同济大学社会实践奖学金)
 - **Entrance grade**: 666/750 (Rank: 550-600/~126k; Chongqing Region, 2019)
 
 ## Skills
@@ -58,14 +56,17 @@ Currently, I am actively looking for PhD / RA positions starting in 2026 Fall or
 
 ### Parallel Driving R&D, Shanghai Hello Puhui Technology Co., Ltd (平行驾驶研发部，上海哈啰普惠科技有限公司)
 *2026.07 - present | Shanghai | Algorithm Engineer Trainee*
-- VLA R&D for L4 Robotaxi (parallel driving and remote assistance).
-- Open-source model reproducity and fine-tuning for long-tail events.
-- L4 Robotaxi failure scenario test case design and simulation Dojo development & implementation (CARLA).
+- Intelligent teleoperation solution for L4 Robotaxi (VLM/VLA) R&D. Organize the model cloud implementation and road test.
+- Fully responsible for the cloud-based stoppage assistance AI model (R&D, product design):
+  - In production & road test (covers most simple road stoppage cases with 90%+ accuracy): An agent application with Qwen3-VL series pre-trained LLM as foundation; the model output follows a three-panel structure: [suggestion on detour] - [detour context description] - [obstacle notifier], i.e., “Detour via left side. Both sides unoccupied. Be aware of pedestrians approaching on the right”.
+  - In development (provides richer semantic supplement info for vehicle end): Semantic injection / distillation / agentic graph application; SUMO -> CARLA for network-case level event generation; vehicle-to-cloud tokenized communication.
+
 
 ### JTL Urban Mobility Lab, MIT | MIT-UF-NEU 2026 Joint Summer Research Camp
 *2026.05 - 2026.09 | Remote | Summer Research Student | Supervisor: Dr. Dingyi Zhuang (MIT)*
 
-Research topic: TBD
+**Research topic**: Causal discovery and network efficiency modeling: Human-driven vehicles (HDVs) and L4 autonomous vehicles (L4 AVs) interaction models for future mobility systems.
+
 
 ### A&S Trafikprognos & Dataanalys, [WSP](https://www.wsp.com/en-gl)
 *2026.02 - 2026.06 | Stockholm, Sweden | Degree Project Intern | Academic Supervisors: Prof. Zhenliang Ma, Prof. Gyözö Gidofalvi*
