@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Jinghan Xu"
   pronouns         : "she/her"  
-  bio              : "AI for Civil Engineering and GIS | KTH (MSc) | Tongji (BEng)"
-  location         : "Shanghai, CN"
-  employer         : "Hellobike@Robotaxi | MIT joint summer research camp mentee"
+  bio              : "GIS & Digital Twin | KTH(MSc) | Tongji U (BEng)"
+  location         : "Stockholm, Sweden"
+  employer         : "Division of Geoinformatics & ITRL, KTH | MIT joint summer research camp mentee"
   uri              : # URL
-  email            : "jinghan@alumni.tongji.edu.cn" 
+  email            : "jinghanx@kth.se" 
 
   # Academic websites
   academia         : # URL
