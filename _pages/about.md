@@ -46,10 +46,8 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 - [3] (2025) Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
 - [4] (2025) **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
 - [5] (2026) **J. Xu**, Y. Ling, Z. Ma; *A Generalizable Urban Green View Index Estimation Method from Satellite Imagery*; Transportation Research Record (Transferred from TRB Annual; Under Review).
-- [6] (2026) **J. Xu**, Z. Ma; *Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services*; Swedish Transport Research Conference (STRC2026)
-
-
-
+- [6] (2026) **J. Xu**, Z. Ma; *Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services*; Swedish Transport Research Conference (STRC2026).
+- [7] (2027) **J. Xu**, D. Astorga Castillo, G. Gidofalvi; *Decision-ready material-state modelling for electrified mass transportation in urban construction*; Transportforum.
 
 
 ## Professional Experiences and Projects
