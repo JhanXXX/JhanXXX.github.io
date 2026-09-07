@@ -53,7 +53,7 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 ## Professional Experiences and Projects
 
 ### Parallel Driving R&D, Shanghai Hello Puhui Technology Co., Ltd (平行驾驶研发部，上海哈啰普惠科技有限公司)
-*2026.07 - present | Shanghai | Algorithm Engineer Trainee*
+*2026.07 - 2026.09 | Shanghai | Algorithm Engineer Trainee*
 - Intelligent teleoperation solution for L4 Robotaxi (VLM/VLA) R&D. Organize the model cloud implementation and road test.
 - Fully responsible for the cloud-based stoppage assistance AI model (R&D, product design):
   - In production & road test (covers most simple road stoppage cases with 90%+ accuracy): An agent application with Qwen3-VL series pre-trained LLM as foundation; the model output follows a three-panel structure: [suggestion on detour] - [detour context description] - [obstacle notifier], i.e., “Detour via left side. Both sides unoccupied. Be aware of pedestrians approaching on the right”.
@@ -61,7 +61,7 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 
 
 ### JTL Urban Mobility Lab, MIT | MIT-UF-NEU 2026 Joint Summer Research Camp
-*2026.05 - 2026.09 | Remote | Summer Research Student | Supervisor: Dr. Dingyi Zhuang (MIT)*
+*2026.05 - present | Remote | Summer Research Student | Supervisor: Dr. Dingyi Zhuang (MIT)*
 
 **Research topic**: Causal discovery and network efficiency modeling: Human-driven vehicles (HDVs) and L4 autonomous vehicles (L4 AVs) interaction models for future mobility systems.
 
