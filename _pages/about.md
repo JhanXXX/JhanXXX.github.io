@@ -60,15 +60,22 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 
 ## Professional Experiences and Projects
 
-### Parallel Driving R&D, Shanghai Hello Puhui Technology Co., Ltd (平行驾驶研发部，上海哈啰普惠科技有限公司)
-*2026.07 - 2026.09 | Shanghai | Algorithm Engineer Trainee*
-- Intelligent teleoperation solution for L4 Robotaxi (VLM/VLA) R&D. Organize the model cloud implementation and road test.
-- Fully responsible for the cloud-based stoppage assistance AI model (R&D, product design): An agent application to supplement sensing information for the vehicle end.
+### ITRL (Integrated Transport Research Lab) | Division of Geoinformatics, KTH Royal Institute of Technology
+*2026.09 - present | Stockholm, Sweden / Remote | Graduate Student Researcher | Supervisor: Prof. Gyözö Gidofalvi, Prof. Jonas Mårtensson*
+- Digital twins and decision support for flexible energy management in electrified groundwork construction.
+- Publication: [7]
+  
 
 ### JTL Urban Mobility Lab, MIT | MIT-UF-NEU 2026 Joint Summer Research Camp
-*2026.05 - present | Remote | Summer Research Student | Supervisor: Dr. Dingyi Zhuang (MIT)*
+*2026.05 - present | Remote | Summer Research Mentee | Supervisor: Dr. Dingyi Zhuang (MIT)*
 
 **Research topic**: Causal discovery and network efficiency modeling: Human-driven vehicles (HDVs) and L4 autonomous vehicles (L4 AVs) interaction models for future mobility systems.
+
+
+### Parallel Driving R&D Department, Shanghai Hello Puhui Technology Co., Ltd (平行驾驶研发部，上海哈啰普惠科技有限公司)
+*2026.07 - 2026.09 | Shanghai, China | Research Analyst*
+- Intelligent teleoperation solution for L4 Robotaxi (VLM/VLA) R&D. Organize the model cloud implementation and road test.
+- Fully responsible for the cloud-based stoppage assistance AI model (R&D, product design): An agent application to supplement sensing information for the vehicle end.
 
 
 ### A&S Trafikprognos & Dataanalys, [WSP](https://www.wsp.com/en-gl)
@@ -80,8 +87,9 @@ Thesis project: Planning Heavy-Duty Charging Infrastructure along Sweden's TEN-T
 -	(1) Baseline analysis for AFIR 2027/2030 target appliance. (2) Pareto frontier method for new charging station site assessment, driven by land-use friction. (3) An end-to-end multi-source spatial analysis framework, narrowing the infinite and continuous planning space down to prioritized limited point sets.
 -	Publication: in preparation.
 
+
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
-*2025.11 - 2026.02 | Stockholm, Sweden | Research Assistant | Supervisor: Prof. Zhenliang Ma ｜ Funder: K2 Swedish National Center for Public Transport*
+*2025.11 - 2026.02 | Stockholm, Sweden | Graduate Student Researcher | Supervisor: Prof. Zhenliang Ma ｜ Funder: K2 Swedish National Center for Public Transport*
 
 Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services.
 
@@ -89,6 +97,7 @@ Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs
 -	Leading and organizing workshop and brainstorm session with experts from academy and industry.
 -	Quantitative analysis on reliability KPIs for bus services in Stockholm based on operational data; trade-offs and challenges for moving from research result to practice and implementation.
 -	Publication: [6], in preparation.
+
 
 
 ### [Digital Futures](https://www.digitalfutures.kth.se/) Summer Research Program
