@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I received MSc degree from [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden, and Bachelor's from [Tongji University](https://en.tongji.edu.cn/p/#/) (同济大学) in China. I am broadly interested in geospatial AI and digital solutions for reliable cyber-physical system..
+I received MSc degree from [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden, and Bachelor's from [Tongji University](https://en.tongji.edu.cn/p/#/) (同济大学) in China. I am broadly interested in geospatial AI and digital solutions for reliable cyber-physical system.
 
 I am a faster learner, punctual, self-motivated and easy to get along with. I am capable of both team and independent work, and handling pressure & criticism. Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm broadly interested in film & theatre arts, linguistics, video games, and music.
 
@@ -41,13 +41,21 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 
 ## Publications
 
-- [1] (2023) Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
-- [2] (2025) **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
-- [3] (2025) Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
-- [4] (2025) **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
+### Journal
+
 - [5] (2026) **J. Xu**, Y. Ling, Z. Ma; *Cross-City Transferability of Urban Green View Index Estimation from Satellite Imagery within Selected European Contexts*; Transportation Research Record (transferred from TRB Annual; accepted).
-- [6] (2026) **J. Xu**, Z. Ma; *Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services*; Swedish Transport Research Conference (STRC2026).
+
+### Conference
 - [7] (2027) **J. Xu**, D. Astorga Castillo, G. Gidofalvi; *Decision-ready material-state modelling for electrified mass transportation in urban construction*; Transportforum 2027 (under review).
+- [6] (2026) **J. Xu**, Z. Ma; *Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services*; Swedish Transport Research Conference (STRC2026).
+- [4] (2025) **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
+- [3] (2025) Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
+- [2] (2025) **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
+- [1] (2023) Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
+
+
+
+
 
 
 ## Professional Experiences and Projects
