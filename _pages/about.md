@@ -15,16 +15,16 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 
 ## Education
 
-### KTH Royal Institute of Technology (2024-08 - 2026-06), Stockholm, Sweden
+### KTH Royal Institute of Technology (2024-08 - 2026-09), Stockholm, Sweden
 - **Degree**: Master of Science (Transport and Geoinformation Technology)
-- **Core modules**: GIS Service Whole-Stack Development, Spatial Analysis, Machine Learning and GeoAI, Transport Modeling, Statistical Learning
+- **Core modules**: Geoinformatics, Spatial Analysis, Machine Learning and GeoAI, Transport Modeling, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
 - **Honor**: KTH Scholarship (360k SEK; the only awardee of the study program for 2024 intake)
   
 ### Tongji University (2019-09 - 2024-07), Shanghai, China
 - **Degree**: Bachelor of Engineering (Civil Engineering)
 - **Minor (微专业)**: Artificial Intelligence (2021-2023, part-time); German Language (2020-2021, full-time)
-- **Core modules**: Mechanics, Built Environment, Applied Mathematical Modeling, Numerical Analysis
+- **Core modules**: Mechanics, Geotechnical Engineering, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
 - **Honor**: Runner-up in National Mathematical Modeling Competition (数学建模国赛上海二等奖); Runner-up in National Statistical Modeling Competition (全国大学生建模统计大赛上海二等奖)；Excellent Undergraduate Scholarship (同济大学优秀本科生奖学金); Social Engagement Scholarship (同济大学社会实践奖学金)
 - **Entrance grade**: 666/750 (Rank: 550-600/~126k; Chongqing Region, 2019)
@@ -43,14 +43,14 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 
 ### Journal
 
-- [5] (2026) **J. Xu**, Y. Ling, Z. Ma; *Cross-City Transferability of Urban Green View Index Estimation from Satellite Imagery within Selected European Contexts*; Transportation Research Record (transferred from TRB Annual; accepted).
+- [5] (2026) **J. Xu**, Y. Ling, Z. Ma; *Cross-City Transferability of Urban Green View Index Estimation from Satellite Imagery within Selected European Contexts*; Transportation Research Record (accepted).
 
 ### Conference
 - [7] (2027) **J. Xu**, D. Astorga Castillo, G. Gidofalvi; *Decision-ready material-state modelling for electrified mass transportation in urban construction*; Transportforum 2027 (under review).
-- [6] (2026) **J. Xu**, Z. Ma; *Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services*; Swedish Transport Research Conference (STRC2026).
-- [4] (2025) **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026.
-- [3] (2025) Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026.
-- [2] (2025) **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025).
+- [6] (2026) **J. Xu**, Z. Ma; *Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services*; Swedish Transport Research Conference (STRC2026, oral).
+- [4] (2025) **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026 (poster).
+- [3] (2025) Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026 (poster).
+- [2] (2025) **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025, oral).
 - [1] (2023) Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
 
 
