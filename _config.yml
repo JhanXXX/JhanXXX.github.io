@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Jinghan Xu / My Page"
 title_separator          : "-"
-name                     : &name "Jinghan Xu"
-description              : &description "Jinghan Xu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Xú, Jìng-Hán (徐静涵)"
+description              : &description "Jinghan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://JhanXXX.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Jinghan Xu"
   pronouns         : "she/her"  
-  bio              : "GIS & Digital Twin | KTH(MSc) | Tongji U (BEng)"
+  bio              : "GeoAI & Digital Twin | KTH (MSc) | Tongji U (BEng)"
   location         : "Stockholm, Sweden"
   employer         : "Div. of Geoinformatics & ITRL, KTH"
   uri              : # URL
