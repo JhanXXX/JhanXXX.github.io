@@ -43,7 +43,7 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 
 ### Journal
 
-- [5] (2026) **J. Xu**, Y. Ling, Z. Ma; *Cross-City Transferability of Urban Green View Index Estimation from Satellite Imagery within Selected European Contexts*; Transportation Research Record (accepted).
+- [5] (2026) **J. Xu**, Y. Ling, Z. Ma; *Cross-City Transferability of Urban Green View Index Estimation from Satellite Imagery within Selected European Contexts*; Transportation Research Record; DOI: 10.1177/03611981261493953/ ID: 25-01959.
 
 ### Conference
 - [7] (2027) **J. Xu**, D. Astorga Castillo, G. Gidofalvi; *Decision-ready material-state modelling for electrified mass transportation in urban construction*; Transportforum 2027 (under review).
