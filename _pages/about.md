@@ -19,14 +19,12 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 - **Degree**: Master of Science (Transport and Geoinformation Technology)
 - **Core modules**: Geoinformatics, Spatial Analysis, Machine Learning and GeoAI, Transport Modeling, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
-- **Honor**: KTH Scholarship (360k SEK; the only awardee of the study program for 2024 intake)
   
 ### Tongji University (2019-09 - 2024-07), Shanghai, China
-- **Degree**: Bachelor of Engineering (Civil Engineering)
+- **Degree**: Bachelor of Engineering (Civil Engineering; track: Geotechnical Engineering)
 - **Minor (微专业)**: Artificial Intelligence (2021-2023, part-time); German Language (2020-2021, full-time)
 - **Core modules**: Mechanics, Geotechnical Engineering, Built Environment, Applied Mathematical Modeling, Numerical Analysis
 - **Activity**: Leadership at Tongji C4Family Street Dance Association (Locking Team)
-- **Honor**: Runner-up in National Mathematical Modeling Competition (数学建模国赛上海二等奖); Runner-up in National Statistical Modeling Competition (全国大学生建模统计大赛上海二等奖)；Excellent Undergraduate Scholarship (同济大学优秀本科生奖学金); Social Engagement Scholarship (同济大学社会实践奖学金)
 - **Entrance grade**: 666/750 (Rank: 550-600/~126k; Chongqing Region, 2019)
 
 ## Skills
@@ -64,9 +62,9 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 
 ## Professional Experiences and Projects
 
-### Div. of Geoinformatics & ITRL (Integrated Transport Research Lab), KTH Royal Institute of Technology
+### Div. of Geoinformatics & [ITRL](https://www.itrl.kth.se/) (Integrated Transport Research Lab), KTH Royal Institute of Technology
 *2026.09 - present | Stockholm, Sweden / Remote | Graduate Student Researcher | Supervisor: Prof. Gyözö Gidofalvi, Prof. Andrea Nascetti, Prof. Jonas Mårtensson*
-- Digital twins and decision support for flexible energy management in electrified groundwork construction.
+- DISSECT: Digital twins and decision support for flexible energy management in electrified groundwork construction.
 - Publication: [7]
   
 
@@ -144,7 +142,7 @@ Other activities in the lab:
 
 
 ## Academic referees
-
+- [Dr. Dingyi Zhuang](https://zhuangdingyi.github.io/), JTL Urban Mobility Lab, Massachusetts Institute of Technology
 - [Prof. Zhenliang Ma](https://www.kth.se/profile/zhema), Division of Transport Planning, KTH Royal Institution of Technology
 - [Prof. Győző Gidofalvi](https://www.kth.se/profile/gyozo), Division of Geoinformatics, KTH Royal Institution of Technology
 - Prof. Qing Jia, School of Automotive Studies, Tongji University
@@ -153,3 +151,16 @@ Other activities in the lab:
 
 - Lars Drageryd, WSP Sverige
 - Dr. Zhi Xu, Volkswagen Group (China)
+
+  
+## Honor & awards
+
+### @KTH, graduate (2024.08 - 2026.06)
+- **Honor**: KTH Scholarship (360k SEK; the only awardee of the study program for 2024 intake)
+
+### @Tongji University, undergraduate (2019.09 - 2024.07)
+- Runner-up in National Mathematical Modeling Competition (数学建模国赛上海二等奖)
+- Runner-up in National Statistical Modeling Competition (全国大学生建模统计大赛上海二等奖）
+- Excellent Undergraduate Scholarship (同济大学优秀本科生奖学金)
+- Social Engagement Scholarship (同济大学社会实践奖学金)
+
