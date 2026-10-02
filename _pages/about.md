@@ -70,13 +70,13 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 - Publication: [7]
   
 
-### JTL Urban Mobility Lab, MIT | MIT-UF-NEU 2026 Joint Summer Research Camp
-*2026.05 - present | Remote | Summer Research Mentee | Supervisor: Dr. Dingyi Zhuang (MIT)*
+### MIT (Massachusetts Institute of Technology) | MIT-UF-NEU 2026 Joint Summer Research Camp
+*2026.05 - present | Remote | Research Mentee | Supervisor: Dr. [Dingyi Zhuang](https://zhuangdingyi.github.io/) (MIT)*
 
 **Research topic**: Causal discovery and network efficiency modeling: Human-driven vehicles (HDVs) and L4 autonomous vehicles (L4 AVs) interaction models for future mobility systems.
 
 
-### Parallel Driving R&D Department, Shanghai Hello Puhui Technology Co., Ltd (平行驾驶研发部，上海哈啰普惠科技有限公司)
+### Parallel Driving R&D Department, Shanghai Hello Puhui Technology Co., Ltd
 *2026.07 - 2026.09 | Shanghai, China | Research Analyst*
 - Intelligent teleoperation solution for L4 Robotaxi (VLM/VLA) R&D. Organize the model cloud implementation and road test.
 - Fully responsible for the cloud-based stoppage assistance AI model (R&D, product design): An agent application to supplement sensing information for the vehicle end.
