@@ -31,7 +31,7 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 
 ## Skills
 
--	**AI development**: Cursor, Hyper-AI, Agent Pattern Development (LangChain / LangGraph / RAG / Prompt Engineering), Machine Learning (PyTorch / NumPy / Pandas / Scikit-learn).    
+-	**AI development**: Cursor/CodeX/Claude Code, Hyper-AI, Agent Pattern Development (LangChain / LangGraph / RAG / Prompt Engineering), Machine Learning (PyTorch / NumPy / Pandas / Scikit-learn).    
 -	**Software engineering**: Docker, Qt6/C++, SQL, MQTT, Python.
 -	**GIS and Spatial Analysis**: ArcGIS Pro, PostGIS/Postgres, SUMO.
 -	**Operational research**: Mixed integer planning, graph-based (flow) modeling
@@ -48,10 +48,10 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 ### Conference
 - [7] (2027) **J. Xu**, D. Astorga Castillo, G. Gidofalvi; *Decision-ready material-state modelling for electrified mass transportation in urban construction*; Transportforum 2027 (under review).
 - [6] (2026) **J. Xu**, Z. Ma; *Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services*; Swedish Transport Research Conference (STRC2026, oral).
-- [4] (2025) **J. Xu**, Y. Ling, Z. Ma; *Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning*; TRB Annual Meeting 2026 (poster).
+- [4] (2026) **Xu, Jinghan**, Yancheng Ling, and Zhenliang Ma. "Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning." In *TRB Annual Meeting 2026, Washington, DC, USA, Jan 11–15, 2026.* 2026.
 - [3] (2025) Y. Cao, **J. Xu**, Q. Jia, et al. *Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design*; TRB Annual Meeting 2026 (poster).
 - [2] (2025) **J. Xu**, Y. Ling, Z. Ma; *Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images*; Swedish Transport Research Conference (STRC2025, oral).
-- [1] (2023) Wei H, **Xu J**, Jiang J, et al. *Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis*; Advanced Fiber Laser Conference (AFL2022). SPIE, 2023, 12595: 200-209.
+- [1] (2023) Wei, Huanxia, **Jinghan Xu**, Jun Jiang, Bowen Liang, and Qing Jia. "Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis." In *Advanced Fiber Laser Conference (AFL2022), vol. 12595, pp. 200-209.* SPIE, 2023.
 
 
 
