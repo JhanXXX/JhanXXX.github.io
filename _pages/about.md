@@ -69,7 +69,7 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
   
 
 ### MIT (Massachusetts Institute of Technology) | MIT-UF-NEU 2026 Joint Summer Research Camp
-*2026.05 - present | Remote | Research Mentee | Supervisor: Dr. [Dingyi Zhuang](https://zhuangdingyi.github.io/) (MIT)*
+*2026.05 - 2026.10 | Remote | Research Mentee | Supervisor: Dr. [Dingyi Zhuang](https://zhuangdingyi.github.io/) (MIT)*
 
 **Research topic**: Causal discovery and network efficiency modeling: Human-driven vehicles (HDVs) and L4 autonomous vehicles (L4 AVs) interaction models for future mobility systems.
 
