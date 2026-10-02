@@ -60,8 +60,8 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 
 ## Professional Experiences and Projects
 
-### ITRL (Integrated Transport Research Lab) | Division of Geoinformatics, KTH Royal Institute of Technology
-*2026.09 - present | Stockholm, Sweden / Remote | Graduate Student Researcher | Supervisor: Prof. Gyözö Gidofalvi, Prof. Jonas Mårtensson*
+### Div. of Geoinformatics & ITRL (Integrated Transport Research Lab), KTH Royal Institute of Technology
+*2026.09 - present | Stockholm, Sweden / Remote | Graduate Student Researcher | Supervisor: Prof. Gyözö Gidofalvi, Prof. Andrea Nascetti, Prof. Jonas Mårtensson*
 - Digital twins and decision support for flexible energy management in electrified groundwork construction.
 - Publication: [7]
   
