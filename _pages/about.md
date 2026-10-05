@@ -71,7 +71,12 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 ### MIT (Massachusetts Institute of Technology) | MIT-UF-NEU 2026 Joint Summer Research Camp
 *2026.05 - 2026.10 | Remote | Research Mentee | Supervisor: Dr. [Dingyi Zhuang](https://zhuangdingyi.github.io/) (MIT)*
 
-**Research topic**: Causal discovery and network efficiency modeling: Human-driven vehicles (HDVs) and L4 autonomous vehicles (L4 AVs) interaction models for future mobility systems.
+Summer research project: Conditional vehicle interaction in mixed traffic: from behavioral adaptation to delay redistribution.
+
+- Research focus: how human-driven vehicles’ (HDVs') behavioral adaptation to automated vehicles can reshape delay across a road network.
+- Method: a controlled SUMO simulation framework to compare mixed traffic with and without adaptation at intersections.
+- Key results: (1) a small change in average network net delay can hide substantial gains and losses for individual trips; (2) differences in vehicle following headways often amplified these effects; and (3) human drivers don't always save travel time from aggressive behavior adaptation towards AVs (autonomous vehicles).
+- Futher interpreted inslights: involving AVs in the transport system may change and redistrubute travel time patterns due to AV-HDV interaction (HDV's behavior adaptation); evaluating mixed traffic requires attention to both overall performance and the distribution of travel delays.
 
 
 ### Parallel Driving R&D Department, Shanghai Hello Puhui Technology Co., Ltd
