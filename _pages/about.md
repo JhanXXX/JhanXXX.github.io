@@ -92,7 +92,7 @@ Thesis project: Planning Heavy-Duty Charging Infrastructure along Sweden's TEN-T
 
 -	Strategic infrastructure planning for opportunity en-route high-power charging.
 -	(1) Baseline analysis for AFIR 2027/2030 target appliance. (2) Pareto frontier method for new charging station site assessment, driven by land-use friction. (3) An end-to-end multi-source spatial analysis framework, narrowing the infinite and continuous planning space down to prioritized limited point sets.
--	Publication: in preparation.
+-	[Thesis permanant link](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-389968)
 
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
