@@ -18,7 +18,7 @@ I am a faster learner; I'm punctual, self-motivated and easy to get along with. 
 ### KTH Royal Institute of Technology (2026.11 - present), Stockholm, Sweden
 - **Degree**: Doctor of Philosophy (Geodesy & Geoinformatics)
 - **Affiliation**: Division of Geoinformatics; [ITRL](https://www.itrl.kth.se/); [Digital Futures](https://www.digitalfutures.kth.se/)
-- **Research context**: GeoBIM, Inverse Geological Modelling, Transportation and Logistics, Sensor & Telematics Data Analysis, Data-Driven Construction Process Optimization
+- **Research context**: Digital Twins, GeoBIM, Inverse Geological Modelling, Transportation and Logistics, Sensor & Telematics Data Analysis, Data-Driven Construction Process Optimization
 - **Methodology**: Geospatial Databases, Data Science, MPC (Model Predictive Control) and Reinforcement Learning
 
 
