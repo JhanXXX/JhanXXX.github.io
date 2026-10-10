@@ -26,8 +26,10 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 32px 0; }
 .about h1 { margin: 0 0 16px; font: 400 46px/1.15 Georgia, "Times New Roman", serif; letter-spacing: -.035em; }
 .about-role { margin: 0 0 5px; font-size: 18px; }
 .about-affiliation { color: var(--muted); font-size: 15px; line-height: 1.65; margin: 0; }
-.about .contact-links { max-width: 400px; gap: 4px 20px; margin: 18px 0 0; font-size: 14px; }
-.about .contact-links li:first-child { flex-basis: 100%; margin-bottom: 4px; }
+.about-keywords { color: var(--muted); font-size: 15px; line-height: 1.7; margin: 16px 0 0; }
+.about .contact-links { gap: 6px 18px; margin: 18px 0 0; font-size: 14px; }
+.about .contact-links a { text-decoration: none; }
+.about .contact-links a:hover { text-decoration: underline; }
 .about > p { max-width: 790px; line-height: 1.85; }
 .about > p strong { font-weight: 600; }
 .about h2 { font-size: 17px; letter-spacing: 0; margin: 30px 0 9px; }
