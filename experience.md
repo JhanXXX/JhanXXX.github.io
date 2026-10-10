@@ -1,91 +1,87 @@
 ---
 title: Experience
 permalink: /experience/
+page_class: experience
 ---
 
-## KTH Royal Institute of Technology
+### Div. of Geoinformatics & [ITRL](https://www.itrl.kth.se/) (Integrated Transport Research Lab), KTH Royal Institute of Technology
+*2026.09 - present | Stockholm, Sweden / Remote | Graduate Student Researcher | Supervisor: Prof. Gyözö Gidofalvi, Prof. Andrea Nascetti, Prof. Jonas Mårtensson*
+- DISSECT: Digital twins and decision support for flexible energy management in electrified groundwork construction.
+- Publication: [7]
+  
 
-**Graduate Student Researcher · Division of Geoinformatics & [ITRL](https://www.itrl.kth.se/)**  
-September 2026 – present · Stockholm, Sweden / Remote
+### MIT (Massachusetts Institute of Technology) | MIT-UF-NEU 2026 Joint Summer Research Camp
+*2026.05 - 2026.10 | Remote | Research Mentee | Supervisor: Dr. [Dingyi Zhuang](https://zhuangdingyi.github.io/) (MIT)*
 
-DISSECT: digital twins and decision support for flexible energy management in electrified groundwork construction. Supervisors: Prof. Gyözö Gidofalvi, Prof. Andrea Nascetti, and Prof. Jonas Mårtensson. Related submission: [7], under review.
+Summer research project: Conditional vehicle interaction in mixed traffic: from behavioral adaptation to delay redistribution.
 
----
+- Research focus: how human-driven vehicles’ (HDVs') behavioral adaptation to automated vehicles can reshape delay across a road network.
+- Method: a controlled SUMO simulation framework to compare mixed traffic with and without adaptation at intersections.
+- Key results: (1) a small change in average network net delay can hide substantial gains and losses for individual trips; (2) differences in vehicle following headways often amplified these effects; and (3) human drivers don't always save travel time from aggressive behavior adaptation towards AVs (autonomous vehicles).
+- Futher interpreted inslights: involving AVs in the transport system may change and redistrubute travel time patterns due to AV-HDV interaction (HDV's behavior adaptation); evaluating mixed traffic requires attention to both overall performance and the distribution of travel delays.
 
-## MIT–UF–NEU Joint Summer Research Camp
 
-**Research Mentee · Massachusetts Institute of Technology**  
-May – October 2026 · Remote
+### Parallel Driving R&D Department, Shanghai Hello Puhui Technology Co., Ltd
+*2026.07 - 2026.09 | Shanghai, China | Research Analyst*
+- Intelligent teleoperation solution for L4 Robotaxi (VLM/VLA) R&D. Organize the model cloud implementation and road test.
+- Fully responsible for the cloud-based stoppage assistance AI model (R&D, product design): An agent application to supplement sensing information for the vehicle end.
 
-Studied conditional vehicle interaction in mixed traffic, supervised by Dr. [Dingyi Zhuang](https://zhuangdingyi.github.io/). Built a controlled SUMO simulation framework to examine how human drivers adapt to automated vehicles at intersections and how this redistributes delays across a road network. Results highlighted trip-level gains and losses that average network delays can obscure.
 
----
+### A&S Trafikprognos & Dataanalys, [WSP](https://www.wsp.com/en-gl)
+*2026.02 - 2026.06 | Stockholm, Sweden | Degree Project Intern | Academic Supervisors: Prof. Zhenliang Ma, Prof. Gyözö Gidofalvi*
 
-## Shanghai Hello Puhui Technology Co., Ltd.
+Thesis project: Planning Heavy-Duty Charging Infrastructure along Sweden's TEN-T Network: A Network-Distance Audit and Pareto-Based Candidate Selection.
 
-**Research Analyst · Parallel Driving R&D Department**  
-July – September 2026 · Shanghai, China
+-	Strategic infrastructure planning for opportunity en-route high-power charging.
+-	(1) Baseline analysis for AFIR 2027/2030 target appliance. (2) Pareto frontier method for new charging station site assessment, driven by land-use friction. (3) An end-to-end multi-source spatial analysis framework, narrowing the infinite and continuous planning space down to prioritized limited point sets.
+-	[Thesis permanant link](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-389968)
 
-Worked on intelligent teleoperation for L4 robotaxis using vision-language and vision-language-action models. Organized cloud implementation and road testing; led R&D and product design for a cloud-based stoppage-assistance agent that supplements vehicle-side sensing information.
 
----
+### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
+*2025.11 - 2026.02 | Stockholm, Sweden | Graduate Student Researcher | Supervisor: Prof. Zhenliang Ma ｜ Funder: K2 Swedish National Center for Public Transport*
 
-## WSP
+Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services.
 
-**Degree Project Intern · A&S Trafikprognos & Dataanalys**  
-February – June 2026 · Stockholm, Sweden
+-	Contract rewarding mechanism and policy study: representative regions in the UK, Europe, and Australia.
+-	Leading and organizing workshop and brainstorm session with experts from academy and industry.
+-	Quantitative analysis on reliability KPIs for bus services in Stockholm based on operational data; trade-offs and challenges for moving from research result to practice and implementation.
+-	Publication: [6], in preparation.
 
-Thesis: *Planning Heavy-Duty Charging Infrastructure along Sweden’s TEN-T Network: A Network-Distance Audit and Pareto-Based Candidate Selection*.
 
-Developed a multi-source spatial analysis framework for en-route high-power charging infrastructure, including assessment against AFIR 2027/2030 targets and Pareto-based candidate selection informed by land-use friction. Academic supervisors: Prof. Zhenliang Ma and Prof. Gyözö Gidofalvi.
 
-[WSP](https://www.wsp.com/en-gl) · [Thesis permanent link](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-389968)
+### [Digital Futures](https://www.digitalfutures.kth.se/) Summer Research Program
+*2025.06 - 2025.08 | Stockholm, Sweden | Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma | Funder: Digital Futures*
 
----
+Funded research: Estimating Green View Index from Satellite Imagery Using Explainable Machine Learning
 
-## Mobility Informatics Lab, KTH
+-	Feature engineering from open-source satellite imagery (Sentinel-2).
+-	Machine learning pipeline: containerized development, fine-tunning, model assessment, deployment and explainability analysis (PyTorch, SHAP, attention map).
+-	Compared among CNN, GNN, assembly models, linear regression.
+-	Publication: [2][4][5].
 
-**Graduate Student Researcher · Division of Transport Planning**  
-November 2025 – February 2026 · Stockholm, Sweden
 
-Researched value-based KPIs for reliable bus services, funded by K2 Swedish National Center for Public Transport and supervised by Prof. Zhenliang Ma. Compared contract reward mechanisms across the UK, Europe, and Australia; organized expert workshops; analysed Stockholm bus reliability data and implementation trade-offs. Related publication: [6], in preparation.
+### Innovation Center Asia, Volkswagen Group (China)
+*2024.01 - 2024.07 | Beijing, China | R&D Intern*
+-	Production of “University Map” report: Academic review, technical updates, and research focus about power electronics (SiC, GaN) in recognized institutes in China.
+-	Assisted in the communication with the potential cooperators (research groups).
+-	Designed and conducted user experience study for the new prototype test drive.
+  
 
-[Mobility Informatics Lab](https://zhenliangma.com/)
+### Innovation Center PACE, Tongji University
+*2022 - 2024 | Shanghai, China | Project Manager and Leadership Board Memeber | Supervisor: Prof. Qing Jia, Prof. Yanlong Li | Funder: Non-Disclosure Agreement*
 
----
+Funded project: Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI.
 
-## Digital Futures, KTH
+-	Project description: Developing multimodal interaction concepts and envisioning user scenarios. This project comprised three sub-projects spanning two years with total active duration of 13 months. Deliverables were presented as visual proof-of-concept (PoC) demonstrations and written report.
+-	Responsibility: (1) Organising and hosting roundtable events with experts and industrial leaders, designing user research methodologies, (2) conducting structured user interviews and gamified cognitive experiments, (3) leading cross-disciplinary team collaboration (over 30 team members), (4) executing meetings and presentation report with funders.
+-	Publication: [1]
 
-**Research Intern · Summer Research Program**  
-June – August 2025 · Stockholm, Sweden
+Other activities in the lab: 
+- Undergraduate student innovation projects: participation, leadership
+- IDEEA 2023 competition: participation and leadership
+- Group management, monthly meeting organization, etc.
+- Publication: [3]
 
-Estimated the Green View Index from Sentinel-2 satellite imagery using explainable machine learning. Developed features and a containerized pipeline for training, assessment, deployment, and explainability using PyTorch, SHAP, and attention maps; compared CNNs, GNNs, ensemble models, and linear regression. Supervisors: Dr. Yancheng Ling and Prof. Zhenliang Ma. Funded by [Digital Futures](https://www.digitalfutures.kth.se/). Related publications: [2], [4], [5].
-
----
-
-## Volkswagen Group (China)
-
-**R&D Intern · Innovation Center Asia**  
-January – July 2024 · Beijing, China
-
-Produced a “University Map” report reviewing power electronics research (SiC and GaN) at Chinese institutions. Supported communication with prospective academic collaborators and designed and conducted a user-experience study for prototype test drives.
-
----
-
-## Tongji University
-
-**Project Manager & Leadership Board Member · Innovation Center PACE**  
-2022 – 2024 · Shanghai, China
-
-Led interdisciplinary work on intelligent cockpits and future mobility, including holographic displays, brain-computer interfaces, and AI for human-machine interaction. Coordinated a team of more than 30 members, expert roundtables, structured interviews, cognitive experiments, and funder presentations across three sub-projects (13 months of active work). Deliverables included visual proof-of-concept demonstrations and written reports.
-
-Supervisors: Prof. Qing Jia and Prof. Yanlong Li. Also participated in and led undergraduate innovation projects and the IDEEA 2023 competition. Related publications: [1], [3].
-
----
-
-## Mathart Systems Co., Ltd.
-
-**Algorithm Engineer Intern**  
-January – April 2022 · Shanghai, China
-
-Implemented and tested integer-programming and heuristic algorithm modules using CPLEX and Pyomo.
+### Mathart Systems Co., Ltd. (上海数策软件股份有限公司)
+*2022.01 - 2022.04 | Shanghai | Algorithm Engineer Intern*
+- Coding and testing for integer programming and heuristic algorithm modules (Cplex, pyomo).

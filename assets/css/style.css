@@ -20,20 +20,26 @@ ul { padding-left: 22px; margin-block: 12px 24px; }
 li { margin-bottom: 9px; }
 hr { border: 0; border-top: 1px solid var(--line); margin: 32px 0; }
 .page > :first-child { margin-top: 0; }
-.about { max-width: 860px; padding-top: 60px; }
-.about-intro { display: flex; justify-content: space-between; align-items: center; gap: 40px; margin-bottom: 42px; }
+.about { max-width: 860px; padding-top: 54px; }
+.about-intro { display: grid; grid-template-columns: minmax(0, 1fr) 180px; align-items: start; gap: 36px; margin-bottom: 36px; }
 .about-identity { min-width: 0; }
-.about h1 { margin: 0 0 16px; font: 400 46px/1.15 Georgia, "Times New Roman", serif; letter-spacing: -.035em; }
+.about h1 { margin: 0 0 10px; font-size: 40px; font-weight: 600; line-height: 1.15; letter-spacing: -.035em; }
 .about-role { margin: 0 0 5px; font-size: 18px; }
-.about-affiliation { color: var(--muted); font-size: 15px; line-height: 1.65; margin: 0; }
-.about-keywords { color: var(--muted); font-size: 15px; line-height: 1.7; margin: 16px 0 0; }
+.about-affiliation { color: var(--muted); font-size: 14px; line-height: 1.65; margin: 15px 0 0; }
+.about-affiliation strong { color: var(--ink); font-weight: 500; }
+.about-keywords { color: #566773; font-size: 16px; line-height: 1.55; margin: 0; }
+.about-keywords span { padding-inline: 3px; }
 .about .contact-links { gap: 6px 18px; margin: 18px 0 0; font-size: 14px; }
 .about .contact-links a { text-decoration: none; }
 .about .contact-links a:hover { text-decoration: underline; }
-.about > p { max-width: 790px; line-height: 1.85; }
+.about > p { max-width: 790px; font-size: 16px; line-height: 1.8; margin-bottom: 21px; }
 .about > p strong { font-weight: 600; }
 .about h2 { font-size: 17px; letter-spacing: 0; margin: 30px 0 9px; }
-.portrait { display: block; flex-shrink: 0; width: 224px; max-width: 100%; height: auto; border-radius: 3px; }
+.portrait { display: block; width: 180px; max-width: 100%; height: auto; margin: 0; border-radius: 2px; }
+.experience h3 { border-top: 1px solid var(--line); padding-top: 28px; margin-top: 32px; }
+.experience h3:first-of-type { border-top: 0; padding-top: 0; }
+.experience h3 + p { font-size: 14px; color: var(--muted); }
+.experience h3 + p em { font-style: normal; }
 .location, .entry-meta { color: var(--muted); font-size: 15px; }
 .contact-links { display: flex; flex-wrap: wrap; gap: 8px 24px; padding: 0; list-style: none; font-size: 15px; }
 .contact-links li { margin: 0; }
@@ -50,13 +56,15 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 32px 0; }
   .page { padding-block: 36px 48px; }
   h1 { font-size: 31px; }
   .about h1 { font-size: 38px; }
-  .about-intro { gap: 24px; align-items: flex-start; margin-bottom: 32px; }
-  .portrait { width: 180px; }
+  .about-intro { grid-template-columns: minmax(0, 1fr) 140px; gap: 24px; margin-bottom: 32px; }
+  .portrait { width: 140px; }
 }
 @media (max-width: 540px) {
-  .about-intro { flex-direction: column-reverse; gap: 26px; }
-  .portrait { width: 152px; }
-  .about h1 { font-size: 37px; margin-bottom: 12px; }
+  .about-intro { grid-template-columns: minmax(0, 1fr) 92px; gap: 16px; }
+  .portrait { width: 92px; }
+  .about h1 { font-size: 30px; margin-bottom: 9px; }
+  .about-keywords { font-size: 14px; }
+  .about .contact-links { gap: 7px 14px; }
   .about > p { line-height: 1.8; }
 }
 @media (max-width: 420px) {

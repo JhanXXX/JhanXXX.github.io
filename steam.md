@@ -1,5 +1,5 @@
 ---
-title: Steam Remarks
+title: Steam Archive
 permalink: /steam/
 page_class: steam
 hide_title: true

@@ -9,7 +9,7 @@ Five Markdown pages, reusable Liquid layouts, and a single stylesheet. GitHub Pa
 | `about.md` | Homepage, research interests, contact links |
 | `education.md` | Education, awards, skills |
 | `publications.md` | Seven bibliography entries grouped by type |
-| `experience.md` | Nine research and professional entries |
+| `experience.md` | Nine research and professional entries, with original project descriptions preserved |
 | `steam.md` | Years and full screenshots, newest first |
 | `_config.yml` | Site URL and contact profiles |
 | `_data/navigation.yml` | Shared navigation |
