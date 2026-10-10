@@ -3,22 +3,21 @@ title: Education
 permalink: /education/
 ---
 
-## KTH Royal Institute of Technology
+## KTH Royal Institute of Technology, Stockholm, Sweden
 
-**Doctor of Philosophy; Geodesy and Geoinformatics**  
-2026 - Present · Stockholm, Sweden
+**Doctor of Philosophy**  
+*2026 - Present · Geodesy and Geoinformatics*
 
-Division of Geoinformatics; [ITRL](https://www.itrl.kth.se/); [Digital Futures](https://www.digitalfutures.kth.se/).
-
+- Division of Geoinformatics; [ITRL](https://www.itrl.kth.se/); [Digital Futures](https://www.digitalfutures.kth.se/).
 - **Research context**. Digital twins, GeoBIM, inverse geological modelling, transportation and logistics, sensor and telematics data analysis, and data-driven construction process optimization.
 - **Methods**. Geospatial databases, data science, model predictive control, and reinforcement learning.
 
 ---
 
-## KTH Royal Institute of Technology
+## KTH Royal Institute of Technology, Stockholm, Sweden
 
-**Master of Science; Transport and Geoinformation Technology**  
-2024 – 2026 · Stockholm, Sweden
+**Master of Science**  
+*2024 – 2026 · Transport and Geoinformation Technology*
 
 - **Coursework**: Geoinformatics, spatial analysis, machine learning and GeoAI, transport modelling, and statistical learning.
 - **Thesis**: [Planning Heavy-Duty Charging Infrastructure along Sweden’s TEN-T Network: A Network-Distance Audit and Pareto-Based Candidate Selection](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-389968).
@@ -26,10 +25,10 @@ Division of Geoinformatics; [ITRL](https://www.itrl.kth.se/); [Digital Futures](
 
 ---
 
-## Tongji University
+## Tongji University, Shanghai, China
 
-**Bachelor of Engineering; Civil Engineering**  
-2019 – 2024 · Shanghai, China
+**Bachelor of Engineering**  
+*2019 – 2024 · Civil Engineering*
 
 - **Additional study**: Artificial Intelligence micro-program (2021–2023, part-time) and German Language (2020–2021, full-time).
 - **Coursework**: Mechanics, geotechnical engineering, built environment, applied mathematical modelling, and numerical analysis. 
