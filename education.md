@@ -9,7 +9,7 @@ permalink: /education/
 *2026 - Present · Geodesy and Geoinformatics*
 
 - Division of Geoinformatics; [ITRL](https://www.itrl.kth.se/); [Digital Futures](https://www.digitalfutures.kth.se/).
-- **Research context**. Digital twins, GeoBIM, inverse geological modelling, transportation and logistics, sensor and telematics data analysis, and data-driven construction process optimization.
+- **Research context**. Digital twins, GeoBIM, inverse geological modelling, transportation and logistics, sensor and telematics data analysis, and logistics & optimization.
 - **Methods**. Geospatial databases, data science, model predictive control, and reinforcement learning.
 
 ---
