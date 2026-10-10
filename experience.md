@@ -33,7 +33,7 @@ vehicles (AVs) change the delay distribution in a simulated road network?
 
 **Thesis project**. Planning Heavy-Duty Charging Infrastructure along Sweden's TEN-T Network: A Network-Distance Audit and Pareto-Based Candidate Selection.
 -	Strategic infrastructure planning for opportunity en-route high-power charging.
--	Publication: [link](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-389968).
+-	[Thesis link](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-389968).
 
 
 ### [Mobility Informatics Lab](https://zhenliangma.com/), Division of Transport Planning, KTH
@@ -50,7 +50,7 @@ vehicles (AVs) change the delay distribution in a simulated road network?
 *2025.06 - 2025.08 | Stockholm, Sweden | Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma | Funder: Digital Futures*
 
 **Funded research**. Estimating Green View Index from Satellite Imagery Using Explainable Machine Learning
--	Publication: [2] [4](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-372086) [5].
+-	Publication: [2][[4](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-372086)][5].
 
 
 ### Innovation Center Asia, Volkswagen Group (China)
