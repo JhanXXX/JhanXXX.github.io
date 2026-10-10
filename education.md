@@ -8,8 +8,8 @@ permalink: /education/
 **Doctor of Philosophy**  
 *2026 - Present · Geodesy and Geoinformatics*
 
-- **Research context**. Digital twins, GeoBIM, inverse geological modelling, transportation and logistics, sensor and telematics data analysis, and logistics & optimization.
-- **Methods**. Geospatial databases, data science, model predictive control, and reinforcement learning.
+- **Research context**. Digital twins, GeoBIM, inverse geological modelling, sensor and telematics data analysis, logistics & optimization.
+- **Methods**. Geospatial databases, data science, model predictive control, reinforcement learning.
 
 ---
 
