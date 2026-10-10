@@ -17,5 +17,5 @@ page_class: publications
 - [7] **J. Xu**, D. Astorga Castillo, G. Gidofalvi, J. Mårtensson (2027). "Decision-ready material-state modelling for electrified mass transportation in urban construction". *Transportforum*. **Under review**.
 - [6] **J. Xu**, Z. Ma (2026). "Rethinking Public Transport Contracts: Towards Value-Based KPIs for Reliable Bus Services". *Swedish Transport Research Conference*, oral.
 - [4] **Xu, Jinghan**, Yancheng Ling, and Zhenliang Ma (2026). “Estimating Street-Level Green View Index Using Satellite Remote Sensing and Explainable Machine Learning.”, *TRB Annual Meeting*, poster.
-- [3] Y. Cao, **J. Xu**, Q. Jia, et al. (2026). "Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design". *TRB Annual Meeting 2026*, poster.
+- [3] Y. Cao, **J. Xu**, Q. Jia, et al. (2026). "Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design". *TRB Annual Meeting*, poster.
 - [2] **J. Xu**, Y. Ling, Z. Ma (2025). "Convolutional Neural Network-Based Estimation of the Green View Index from Satellite Images". *Swedish Transport Research Conference*, oral.
