@@ -1,96 +1,76 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Jinghan Xu — academic website
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+Five Markdown pages, reusable Liquid layouts, and a single stylesheet. GitHub Pages builds the site with Jekyll. No JavaScript, theme, analytics, or remote fonts are required.
 
-# Getting Started
+## Content and files
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+| File | Purpose |
+| --- | --- |
+| `about.md` | Homepage, research interests, contact links |
+| `education.md` | Education, awards, skills |
+| `publications.md` | Seven bibliography entries grouped by type |
+| `experience.md` | Nine research and professional entries |
+| `steam.md` | Years and full screenshots, newest first |
+| `_config.yml` | Site URL and contact profiles |
+| `_data/navigation.yml` | Shared navigation |
+| `_layouts/default.html`, `_includes/` | Shared page structure |
+| `assets/css/style.css` | Responsive styling |
+| `assets/steam/` | Original PNG data with proper file extensions |
+| `backups/original/` | Original biography and configuration, excluded from publishing |
+| `steam remarks/` | Original extensionless screenshots, untouched and excluded from publishing |
 
-See more info at https://academicpages.github.io/
+## Local preview
 
-## Running locally
+With Ruby and Bundler installed:
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
-
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
-
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stoping and restarting Jekyll.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-You can build and execute the container by running the following command in the repository:
-
-```bash
-chmod -R 777 .
-docker compose up
+```sh
+bundle install
+bundle exec jekyll serve
 ```
 
-You should now be able to access the website from `localhost:4000`.
+Visit http://localhost:4000. Jekyll rebuilds when content changes; restart it after editing `_config.yml`.
 
-### Using the DevContainer in VS Code
+This machine also supports a Python preview:
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+```sh
+python -m pip install -r requirements-preview.txt
+python scripts/preview.py
+```
 
-# Maintenance
+Visit http://127.0.0.1:4000. Restart the script after edits. This uses the same Liquid templates and Markdown content, but Python Markdown rather than Jekyll's Kramdown; GitHub's deployment build is the authoritative Jekyll check. Stop with Ctrl+C. Use `--port 4001` if port 4000 is already occupied.
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+```sh
+python scripts/preview.py --build-only
+python scripts/check.py --external
+```
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+## GitHub Pages deployment
 
-## Bugfixes and enhancements
+The intended repository is `JhanXXX/JhanXXX.github.io`, with `url: https://jhanxxx.github.io` and an empty `baseurl`.
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+1. Commit these source files to that repository's `master` branch.
+2. In repository Settings → Pages, select **Deploy from a branch**, **master**, **/(root)**.
+3. Wait for the Pages build/deployment to finish. Visit https://jhanxxx.github.io/.
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+For a project repository, set `baseurl` to `/repository-name`. All internal navigation and assets use `relative_url` to support this.
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+[GitHub's local Jekyll instructions](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+## Future updates
+
+- Add your portrait as `assets/profile.png`. The homepage displays it automatically on the next build, preserving its aspect ratio. Until then, no broken image or invented replacement appears.
+- Add bibliography items to the appropriate section of `publications.md`; retain explicit acceptance/submission status and DOI links.
+- Add experience entries near the top of `experience.md`; ordering is by current role and most recent end date.
+- Add a screenshot as `assets/steam/YYYY.png` and prepend a year heading and image to `steam.md`, following the existing pattern. Images are never cropped.
+- Update shared navigation in `_data/navigation.yml`, contact links in `_config.yml`, and visual styling in `assets/css/style.css`.
+
+## Information to confirm
+
+- Portrait is intentionally missing until supplied.
+- The source introduction said the PhD had begun, but the education date is November 2026. As of October 10, 2026, the site labels it upcoming.
+- MSc completion is dated October 2026 without an exact award date. The site conservatively says expected October 2026; update after confirmation.
+- Presentation [3] retains the supplied year 2025 alongside the TRB Annual Meeting 2026 venue. Confirm whether the bibliographic year should be 2026.
+- Presentation [6] is listed as oral in the bibliography and in preparation in the experience source. Both distinctions are retained, with in preparation applied to the related publication.
+- No extra journal acceptance/publishing status has been inferred. External sites may block automated link checks; see `CHECKS.md`.
+
+The original sources include referees; these were preserved in the backup but not published because no referees section was requested.

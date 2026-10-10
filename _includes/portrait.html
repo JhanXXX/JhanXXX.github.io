@@ -1,0 +1,2 @@
+{% assign portrait = site.static_files | where: 'path', '/assets/profile.png' | first %}
+{% if portrait %}<img class="portrait" src="{{ '/assets/profile.png' | relative_url }}" alt="Portrait of Jinghan Xu" width="180" height="220">{% endif %}

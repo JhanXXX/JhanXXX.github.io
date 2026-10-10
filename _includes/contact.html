@@ -1,0 +1,6 @@
+<ul class="contact-links" aria-label="Contact and profiles">
+  {% if site.author.email %}<li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>{% endif %}
+  {% if site.author.github %}<li><a href="{{ site.author.github }}">GitHub</a></li>{% endif %}
+  {% if site.author.scholar %}<li><a href="{{ site.author.scholar }}">Google Scholar</a></li>{% endif %}
+  {% if site.author.linkedin %}<li><a href="{{ site.author.linkedin }}">LinkedIn</a></li>{% endif %}
+</ul>
