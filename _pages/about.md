@@ -9,15 +9,15 @@ redirect_from:
 
 ## About Me
 
-I received MSc degree from [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden, and Bachelor's from [Tongji University](https://en.tongji.edu.cn/p/#/) (同济大学) in China. I am broadly interested in geospatial AI and digital solutions for reliable cyber-physical system.
+Hi, I'm a PhD (in Geodesy and Geoinformatics) student at [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden. My research interest is geospatial AI and digital solutions for reliable cyber-physical system. I am also interested in transporation behaviour modeling and network analysis. Before joining as a PhD student, I received my MSc degree also from KTH; and Bachelor's from [Tongji University](https://en.tongji.edu.cn/p/#/) (同济大学) in China.
 
-I am a faster learner, punctual, self-motivated and easy to get along with. I am capable of both team and independent work, and handling pressure & criticism. Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm broadly interested in film & theatre arts, linguistics, video games, and music.
+I am a faster learner; I'm punctual, self-motivated and easy to get along with. I am capable of both team and independent work, and handling pressure & criticism. Outside of academics, I'm a dancer with experience in stage choreography and freestyle competitions. I'm also broadly interested in film & theatre arts, linguistics, video games, and music.
 
 ## Education
 
 ### KTH Royal Institute of Technology (2026.11 - present), Stockholm, Sweden
 - **Degree**: Doctor of Philosophy (Geodesy & Geoinformatics)
-- **Affiliation**: Division of Geoinformatics; [ITRL](https://www.itrl.kth.se/) (Integrated Transport Research Lab); [Digital Futures](https://www.digitalfutures.kth.se/)
+- **Affiliation**: Division of Geoinformatics; [ITRL](https://www.itrl.kth.se/); [Digital Futures](https://www.digitalfutures.kth.se/)
 - **Research context**: GeoBIM, Inverse Geological Modelling, Transportation and Logistics, Sensor & Telematics Data Analysis, Data-Driven Construction Process Optimization
 - **Methodology**: Geospatial Databases, Data Science, MPC (Model Predictive Control) and Reinforcement Learning
 
