@@ -1,2 +1,3 @@
 {% assign portrait = site.static_files | where: 'path', '/assets/profile.png' | first %}
-{% if portrait %}<img class="portrait" src="{{ '/assets/profile.png' | relative_url }}" alt="Portrait of Jinghan Xu" width="180" height="220">{% endif %}
+{% unless portrait %}{% assign portrait = site.static_files | where: 'path', '/assets/profile.jpeg' | first %}{% endunless %}
+{% if portrait %}<img class="portrait" src="{{ portrait.path | relative_url }}" alt="Jinghan Xu" width="800" height="800">{% endif %}

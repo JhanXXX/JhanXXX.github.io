@@ -20,9 +20,18 @@ ul { padding-left: 22px; margin-block: 12px 24px; }
 li { margin-bottom: 9px; }
 hr { border: 0; border-top: 1px solid var(--line); margin: 32px 0; }
 .page > :first-child { margin-top: 0; }
-.about h1 { margin-bottom: 10px; font-size: 42px; }
-.about > p { max-width: 730px; }
-.portrait { float: right; width: 180px; height: auto; margin: 0 0 28px 42px; }
+.about { max-width: 860px; padding-top: 60px; }
+.about-intro { display: flex; justify-content: space-between; align-items: center; gap: 40px; margin-bottom: 42px; }
+.about-identity { min-width: 0; }
+.about h1 { margin: 0 0 16px; font: 400 46px/1.15 Georgia, "Times New Roman", serif; letter-spacing: -.035em; }
+.about-role { margin: 0 0 5px; font-size: 18px; }
+.about-affiliation { color: var(--muted); font-size: 15px; line-height: 1.65; margin: 0; }
+.about .contact-links { max-width: 400px; gap: 4px 20px; margin: 18px 0 0; font-size: 14px; }
+.about .contact-links li:first-child { flex-basis: 100%; margin-bottom: 4px; }
+.about > p { max-width: 790px; line-height: 1.85; }
+.about > p strong { font-weight: 600; }
+.about h2 { font-size: 17px; letter-spacing: 0; margin: 30px 0 9px; }
+.portrait { display: block; flex-shrink: 0; width: 224px; max-width: 100%; height: auto; border-radius: 3px; }
 .location, .entry-meta { color: var(--muted); font-size: 15px; }
 .contact-links { display: flex; flex-wrap: wrap; gap: 8px 24px; padding: 0; list-style: none; font-size: 15px; }
 .contact-links li { margin: 0; }
@@ -38,11 +47,17 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 32px 0; }
   nav { gap: 8px 20px; }
   .page { padding-block: 36px 48px; }
   h1 { font-size: 31px; }
-  .about h1 { font-size: 36px; }
-  .portrait { width: 130px; margin-left: 22px; }
+  .about h1 { font-size: 38px; }
+  .about-intro { gap: 24px; align-items: flex-start; margin-bottom: 32px; }
+  .portrait { width: 180px; }
+}
+@media (max-width: 540px) {
+  .about-intro { flex-direction: column-reverse; gap: 26px; }
+  .portrait { width: 152px; }
+  .about h1 { font-size: 37px; margin-bottom: 12px; }
+  .about > p { line-height: 1.8; }
 }
 @media (max-width: 420px) {
   body { font-size: 16px; }
-  .portrait { float: none; width: 140px; margin: 0 0 25px; }
 }
 @media print { .site-header, .site-footer, .skip-link { display: none; } .container { width: 100%; } .page { padding: 0; } a { color: inherit; } }

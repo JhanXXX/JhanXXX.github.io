@@ -58,7 +58,7 @@ For a project repository, set `baseurl` to `/repository-name`. All internal navi
 
 ## Future updates
 
-- Add your portrait as `assets/profile.png`. The homepage displays it automatically on the next build, preserving its aspect ratio. Until then, no broken image or invented replacement appears.
+- The supplied portrait is `assets/profile.jpeg`. Replace this file to update it, or add `assets/profile.png`, which takes priority. The homepage preserves its aspect ratio and omits the image if neither file exists.
 - Add bibliography items to the appropriate section of `publications.md`; retain explicit acceptance/submission status and DOI links.
 - Add experience entries near the top of `experience.md`; ordering is by current role and most recent end date.
 - Add a screenshot as `assets/steam/YYYY.png` and prepend a year heading and image to `steam.md`, following the existing pattern. Images are never cropped.
@@ -66,7 +66,7 @@ For a project repository, set `baseurl` to `/repository-name`. All internal navi
 
 ## Information to confirm
 
-- Portrait is intentionally missing until supplied.
+- Portrait supplied and displayed in the redesigned homepage header.
 - The source introduction said the PhD had begun, but the education date is November 2026. As of October 10, 2026, the site labels it upcoming.
 - MSc completion is dated October 2026 without an exact award date. The site conservatively says expected October 2026; update after confirmation.
 - Presentation [3] retains the supplied year 2025 alongside the TRB Annual Meeting 2026 venue. Confirm whether the bibliographic year should be 2026.

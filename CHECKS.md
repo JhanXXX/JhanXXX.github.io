@@ -4,7 +4,7 @@
 - All rendered internal navigation and asset paths resolve.
 - Browser preview checked at desktop and 390 px mobile width. Navigation wraps; no permanent sidebar; Steam images preserve their full aspect ratio.
 - All four copied Steam PNGs preserve the original file bytes (1920 × 843 each).
-- Portrait is absent by design until `assets/profile.png` is supplied. The template omits the image when the file is missing.
+- Supplied portrait `assets/profile.jpeg` is displayed without cropping in the homepage header. The template also supports `assets/profile.png` with priority.
 - Ruby/Jekyll is not installed locally. Python preview is not a substitute for the production Jekyll build; check GitHub Pages deployment status after pushing.
 
 ## External links
