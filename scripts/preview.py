@@ -10,7 +10,7 @@ import re
 import shutil
 import markdown
 import yaml
-from liquid import Environment, FileSystemLoader
+from liquid import Environment, DictLoader
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -23,7 +23,8 @@ def build(baseurl=""):
     # Jekyll permits unquoted include filenames; Python Liquid uses strings.
     def source(text):
         return re.sub(r"({%\s*include\s+)([\w./-]+)(\s*%})", r"\1'\2'\3", text)
-    env = Environment(loader=FileSystemLoader(ROOT / "_includes"))
+    includes = {p.name: source(p.read_text(encoding="utf-8")) for p in (ROOT / "_includes").glob("*.html")}
+    env = Environment(loader=DictLoader(includes))
     env.add_filter("relative_url", lambda value: site["baseurl"] + "/" + str(value).lstrip("/"))
     out = ROOT / "_preview"
     destination = out / baseurl.strip("/")
