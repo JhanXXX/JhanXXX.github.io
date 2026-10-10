@@ -10,7 +10,7 @@ page_class: publications
 
 ## Conference Papers
 
-- [1](https://doi.org/10.1117/12.2667163) Wei, Huanxia, **Jinghan Xu**, Jun Jiang, Bowen Liang, and Qing Jia (2023). “Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis.” *Advanced Fiber Laser Conference (AFL2022)*, vol. 12595, pp. 200–209. SPIE.
+- [[1](https://doi.org/10.1117/12.2667163)] Wei, Huanxia, **Jinghan Xu**, Jun Jiang, Bowen Liang, and Qing Jia (2023). “Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis.” *Advanced Fiber Laser Conference (AFL2022)*, vol. 12595, pp. 200–209. SPIE.
 
 ## Presentations
 
