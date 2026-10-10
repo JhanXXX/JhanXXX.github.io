@@ -15,7 +15,15 @@ I am a faster learner, punctual, self-motivated and easy to get along with. I am
 
 ## Education
 
-### KTH Royal Institute of Technology (2024-08 - 2026-09), Stockholm, Sweden
+### KTH Royal Institute of Technology (2026.11 - present), Stockholm, Sweden
+- **Degree**: Doctor of Philosophy (Geodesy & Geoinformatics)
+- **Affiliation**: Division of Geoinformatics; [ITRL](https://www.itrl.kth.se/) (Integrated Transport Research Lab); [Digital Futures](https://www.digitalfutures.kth.se/)
+- **Research context**: GeoBIM, Inverse Geological Modelling, Transportation and Logistics, Sensor & Telematics Data Analysis, Data-Driven Construction Process Optimization
+- **Methodology**: Geospatial Databases, Data Science, MPC (Model Predictive Control) and Reinforcement Learning
+
+
+
+### KTH Royal Institute of Technology (2024-08 - 2026-10), Stockholm, Sweden
 - **Degree**: Master of Science (Transport and Geoinformation Technology)
 - **Core modules**: Geoinformatics, Spatial Analysis, Machine Learning and GeoAI, Transport Modeling, Statistical Learning
 - **Activity**: Dance coach and choreographer at THS English Theatre Improv Club
@@ -108,7 +116,7 @@ Funded research: Rethinking Public Transport Contracts: Towards Value-Based KPIs
 
 
 ### [Digital Futures](https://www.digitalfutures.kth.se/) Summer Research Program
-*2025.06 - 2025.08 | Stockholm, Sweden | Summer Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma | Funder: Digital Futures*
+*2025.06 - 2025.08 | Stockholm, Sweden | Research Intern | Supervisor: Dr. Yancheng Ling, Prof. Zhenliang Ma | Funder: Digital Futures*
 
 Funded research: Estimating Green View Index from Satellite Imagery Using Explainable Machine Learning
 
