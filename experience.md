@@ -63,7 +63,7 @@ vehicles (AVs) change the delay distribution in a simulated road network?
 *2022 - 2024 | Shanghai, China | Project Manager and Leadership Board Memeber | Supervisor: Prof. Qing Jia, Prof. Yanlong Li | Funder: Non-Disclosure Agreement*
 
 **Funded project**. Prospective Research on Human-Machine Interaction (HMI) in Intelligent Cockpits and Future Mobility Scenarios: Holographic Displays, Brain-Computer Interfaces, and AI for HMI.
--	Publication: [1](https://doi.org/10.1117/12.2667163)
+-	Publication: [[1](https://doi.org/10.1117/12.2667163)]
 
 Other activities: Undergraduate student innovation projects, group management.
 - Publication: [3]
