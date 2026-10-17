@@ -9,11 +9,11 @@ hide_title: true
 
 - **Oct 2026**: In *Splatoon 3*, I have reached 4-star proficiency in N-ZAP89 the weapon!
 
-![N-ZAP89]({{ '/assets/steam/N-ZAP89.jpg' | relative_url }})
+![N-ZAP89]({{ '/assets/steam/N-ZAP89.jpg' | relative_url }}){:width="50%"}
 
 - **Feb 2026**: In *Black Myth: Wukong (黑神话·悟空)*, I have unlocked all achievements on Steam!
 
-![BlackMythWukong]({{ '/assets/steam/BlackMythWukong.png' | relative_url }})
+![BlackMythWukong]({{ '/assets/steam/BlackMythWukong.png' | relative_url }}){:width="80%"}
 
 ## Steam Annual Repo
 ### 2025
