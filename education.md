@@ -46,6 +46,6 @@ permalink: /education/
 
 - **AI and machine learning**: PyTorch, NumPy, pandas, scikit-learn; LangChain, LangGraph, prompt engineering; Cursor, Codex, Claude Code, Hyper-AI.
 - **Software engineering**: Python, C++/Qt6, SQL, MQTT, Docker.
-- **GIS and spatial analysis**" ArcGIS Pro, PostGIS/PostgreSQL, SUMO.
+- **GIS and spatial analysis**: ArcGIS Pro, PostGIS/PostgreSQL, SUMO.
 - **Operations research**: mixed-integer programming and graph-based flow modelling.
-- **Languages**" Mandarin (native); English (proficient, IELTS 8.0); Swedish (beginner); German (beginner, University Band 6); French (beginner, University Band 4).
+- **Languages**: Mandarin (native); English (proficient, IELTS 8.0); Swedish (beginner, Duolingo Score 8); German (beginner, University Band 6, Duolingo Score 20); French (beginner, University Band 4, Duolingo Score 27).
