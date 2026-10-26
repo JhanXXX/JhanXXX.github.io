@@ -4,11 +4,11 @@ permalink: /publications/
 page_class: publications
 ---
 
-## Journal Articles
+## Journal
 
-- [5] **J. Xu**, Y. Ling, Z. Ma (2026). *Cross-City Transferability of Urban Green View Index Estimation from Satellite Imagery within Selected European Contexts*. Transportation Research Record.
+- [5] **Xu, J**., Ling, Y., & Ma, Z. (2026). Cross-City Transferability of Urban Green View Index Estimation from Satellite Imagery within Selected European Contexts. *Transportation Research Record: Journal of the Transportation Research Board, 0*(0). https://doi.org/10.1177/03611981261493953  
 
-## Conference Papers
+## Conference
 
 - [[1](https://doi.org/10.1117/12.2667163)] Wei, Huanxia, **Jinghan Xu**, Jun Jiang, Bowen Liang, and Qing Jia (2023). “Holographic display in future automotive smart cockpit: application scenarios, interaction modals, and VACP analysis.” *Advanced Fiber Laser Conference (AFL2022)*, vol. 12595, pp. 200–209. SPIE.
 
