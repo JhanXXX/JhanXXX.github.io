@@ -7,6 +7,7 @@ hide_title: true
 
 ## News and Sparkles
 
+- **Nov 2026**: In *Splatoon 3*, I have reached 4-star proficiency in Inkbrush the weapon!
 - **Oct 2026**: In *Splatoon 3*, I have reached 4-star proficiency in N-ZAP89 the weapon!
 
 ![N-ZAP89]({{ '/assets/steam/N-ZAP89.jpg' | relative_url }}){:style="max-width: 240px; width: 100%;"}
