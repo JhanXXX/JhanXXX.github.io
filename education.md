@@ -11,10 +11,6 @@ permalink: /education/
 - **Research context**. Digital twins, GeoBIM, inverse geological modelling, sensor and telematics data analysis, logistics & optimization.
 - **Methods**. Geospatial databases, data science, model predictive control, reinforcement learning.
 
----
-
-## KTH Royal Institute of Technology, Stockholm, Sweden
-
 **Master of Science**  
 *2024 – 2026 · Transport and Geoinformation Technology*
 
