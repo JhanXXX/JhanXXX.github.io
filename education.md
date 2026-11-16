@@ -8,13 +8,13 @@ permalink: /education/
 **Doctor of Philosophy**  
 *2026 - Present · Geodesy and Geoinformatics*
 
-- **Research context**. Digital twins, GeoBIM, inverse geological modelling, sensor and telematics data analysis, logistics & optimization.
-- **Methods**. Geospatial databases, data science, model predictive control, reinforcement learning.
+- **Research context**: Digital twins, GeoBIM, inverse geological modelling, sensor and telematics data analysis, logistics & optimization.
+- **Methods**: Geospatial databases, data science, model predictive control, reinforcement learning.
 
 **Master of Science**  
 *2024 – 2026 · Transport and Geoinformation Technology*
 
-- **Coursework**: Geoinformatics, spatial analysis, machine learning and GeoAI, transport modelling, and statistical learning.
+- **Coursework**: Geoinformatics, spatial analysis, machine learning, and transport modelling.
 - **Thesis**: [Planning Heavy-Duty Charging Infrastructure along Sweden’s TEN-T Network: A Network-Distance Audit and Pareto-Based Candidate Selection](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-389968).
 - **Activity**: Dance coach and choreographer at the THS English Theatre Improv Club.
 
@@ -32,7 +32,7 @@ permalink: /education/
 
 ## Academic awards
 
-- **KTH Scholarship** (2024 intake at KTH): SEK 360,000.
+- **KTH Scholarship** (2024 intake): SEK 360,000.
 - **Shanghai second prize**, National Mathematical Modeling Competition, during undergraduate studies at Tongji University.
 - **Shanghai second prize**, National Statistical Modeling Competition, during undergraduate studies at Tongji University.
 - **Excellent Undergraduate Scholarship**, Tongji University.
@@ -44,4 +44,4 @@ permalink: /education/
 - **Software engineering**: Python, C++/Qt6, SQL, MQTT, Docker.
 - **GIS and spatial analysis**: ArcGIS Pro, PostGIS/PostgreSQL, SUMO.
 - **Operations research**: mixed-integer programming and graph-based flow modelling.
-- **Languages**: Mandarin (native); English (proficient, IELTS 8.0); Swedish (beginner, Duolingo Score 10); German (beginner, University Band 6, Duolingo Score 20); French (beginner, University Band 4, Duolingo Score 27).
+- **Languages**: Mandarin (native); English (proficient, IELTS 8.0); Swedish (beginner); German (beginner, University Band 6); French (beginner, University Band 4).
