@@ -11,7 +11,10 @@ hide_title: true
 - **Nov 2026**: In *Splatoon 3*, I have reached 4-star proficiency in Inkbrush the weapon!
 - **Oct 2026**: In *Splatoon 3*, I have reached 4-star proficiency in N-ZAP89 the weapon!
 
-![N-ZAP89]({{ '/assets/steam/N-ZAP89.jpg' | relative_url }}){:style="max-width: 240px; width: 100%;"}
+![N-ZAP89_icon]({{ '/assets/steam/N-ZAP '89.png' | relative_url }}){:style="max-width: 240px; width: 100%;"}
+![Sploosh-o-matic_icon]({{ '/assets/steam/Sploosh-o-matic.png' | relative_url }}){:style="max-width: 240px; width: 100%;"}
+![Inkbrush.png_icon]({{ '/assets/steam/Inkbrush.png.png' | relative_url }}){:style="max-width: 240px; width: 100%;"}
+
 
 - **Feb 2026**: In *Black Myth: Wukong (黑神话·悟空)*, I have unlocked all achievements on Steam!
 
